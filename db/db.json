@@ -1,1692 +1,1664 @@
 {
-    "landing": [
-        {
-            "id": "6809f2e687f15d5253eeea86",
-            "name": "Patrul",
-            "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
-            "iticketLink": null,
-            "country": "Qazaxıstan",
-            "director": "Rustem Omarov",
-            "actors": [
-                "Renat Muhambayev",
-                "Tambi Masayev",
-                "Imanbek",
-                "Adilcan Şombalov"
-            ],
-            "genres": [
-                {
-                    "id": "67729bcbbf13b4256e98c0ff",
-                    "title": "Komediya"
-                }
-            ],
-            "movieId": 0,
-            "duration": 110,
-            "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
-            "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
-            "year": 2025,
-            "ageLimit": "SIXTEEN",
-            "languages": [
-                "RU"
-            ],
-            "image": "1745482450359__.png",
-            "subtitles": [
-                "AZ"
-            ],
-            "trailerUrl": "",
-            "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
-            "active": true,
-            "preSale": true
-        },
-        {
-            "id": "680a15e087f15d5253eef85c",
-            "name": "Sörfçü",
-            "description": "Birləşmiş Ştatlarda bir neçə il yaşadıqdan sonra bir kişi doğma Avstraliya sahil şəhərinə qayıdır. Bir gün yeniyetmə oğlu ilə birlikdə sörf etməyə gedir, lakin orada sörfçülərdən ibarət bir dəstə ilə qarşıdurma yaşayır. Kişi bu dəstə ilə amansız bir mübarizəyə girir.",
-            "iticketLink": null,
-            "country": "Avstraliya",
-            "director": "Lorkan Finneqan",
-            "actors": [
-                "Nikolas Keyc",
-                "Finn Littl"
-            ],
-            "genres": [
-                {
-                    "id": "67729bf2bf13b4256e98c15c",
-                    "title": "Trillerlər"
-                }
-            ],
-            "movieId": 0,
-            "duration": 110,
-            "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
-            "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
-            "year": 2025,
-            "ageLimit": "EIGHTEEN",
-            "languages": [
-                "RU"
-            ],
-            "image": "1745491394634_Screenshot_2025-04-24_123458.png",
-            "subtitles": [
-                "AZ"
-            ],
-            "trailerUrl": "",
-            "youtubeUrl": "https://www.youtube.com/watch?v=-dAyNx8_c0o",
-            "active": true,
-            "preSale": true
-        },
-        {
-            "id": "67ef93646f500c02f5d91a56",
-            "name": "Marakuda",
-            "description": "Başçının oğlu Marakuda əsl döyüşçü olmalı idi, lakin o, ov etməyi bacarmırdı və atasını məyus edirdi. Marakuda təkbaşına meşəyə yollanır və orada müqəddəs Tink quşunu tapır. Tink ona heyvanlar və quşların dilini anlama qabiliyyəti bəxş edir. Marakuda və Tink şərəflə kəndə qayıdırlar. Lakin oğlan bilmir ki, ənənəyə görə müqəddəs quş tayfanın rifahı üçün qurban verilməlidir.",
-            "iticketLink": null,
-            "country": "Rusiya",
-            "director": "Viktor Qluxuşin",
-            "actors": [
-                "Proxor Çexovskoy",
-                "Eliza Martirosova"
-            ],
-            "genres": [
-                {
-                    "id": "67ef925f6f500c02f5d91a21",
-                    "title": "Cizgi filmi"
-                }
-            ],
-            "movieId": 0,
-            "duration": 90,
-            "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
-            "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
-            "year": 2025,
-            "ageLimit": "SIX",
-            "languages": [
-                "RU"
-            ],
-            "image": "1743753997523_Screenshot_2025-04-04_120117.png",
-            "subtitles": [
-                "AZ"
-            ],
-            "trailerUrl": "1743754057626____.____1_.mp4",
-            "youtubeUrl": "https://www.youtube.com/watch?v=SqI5s9FpyDY",
-            "active": true,
-            "preSale": true
-        },
-        {
-            "id": "67ef8e906f500c02f5d9181f",
-            "name": "İldırımsaçanlar",
-            "description": "Antiqəhrəmanlardan ibarət bir komanda hökumətin əmri ilə tapşırıqlara yollanır.",
-            "iticketLink": null,
-            "country": "Amerika Birləşmiş Ştatları",
-            "director": "Ceyk Şreyer",
-            "actors": [
-                "Florens Pyu",
-                "Devid Harbor",
-                "Sebastyan Sten",
-                "Culiya Lui-Dreyfus",
-                "Reyçel Vays",
-                "Olqa Kurilenko"
-            ],
-            "genres": [
-                {
-                    "id": "67693af4c8bf5553b2cd258e",
-                    "title": "Fantastika"
-                },
-                {
-                    "id": "67693b21c8bf5553b2cd258f",
-                    "title": "Döyüş"
-                }
-            ],
-            "movieId": 0,
-            "duration": 130,
-            "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
-            "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
-            "year": 2025,
-            "ageLimit": "SIXTEEN",
-            "languages": [
-                "EN",
-                "TR",
-                "RU"
-            ],
-            "image": "1743752739941_Screenshot_2025-04-04_114526.png",
-            "subtitles": [
-                "AZ"
-            ],
-            "trailerUrl": "1743752838623_______(,_2025).mp4",
-            "youtubeUrl": "https://www.youtube.com/watch?v=zSpYWxX4JdY&t=3s",
-            "active": true,
-            "preSale": true
-        },
-        {
-            "id": "67ed0f94d596ba0a67b56dd4",
-            "name": "Tağıyev: Çar",
-            "description": "1888-ci ilin payızında bütün Bakı Çar III Aleksandrın səfərinə hazırlaşır. Artıq milyonçu olmuş, Bakı Şəhər Dumasının üzvü seçilmiş Hacı Zeynalabdin Tağıyev cəmiyyətdə nüfuz və status uğrunda mübarizə aparır. Şəhər meri Orlovski mövqeyindən istifadə edərək özünə qəsd etmiş Teymurbəyovun neft sahəsini ələ keçirməyə çalışır. Eyni zamanda Hacının böyük oğlu İsmayıl generalın qızı Nurcahan Ərəblinski ilə tanış olur və onunla evlənməyi planlaşdırır.",
-            "iticketLink": null,
-            "country": "Azərbaycan",
-            "director": "Zaur Qasımlı",
-            "actors": [
-                "Pərviz Məmmədrzayev  Qurban İsmayılov Rasim Cəfər Sənan Əlləz"
-            ],
-            "genres": [
-                {
-                    "id": "67ef8f266f500c02f5d9189f",
-                    "title": "Tarixi"
-                },
-                {
-                    "id": "67ef8ed76f500c02f5d9184a",
-                    "title": "Bioqrafik"
-                }
-            ],
-            "movieId": 0,
-            "duration": 90,
-            "firstScreeningDate": "2025-04-03T00:00:00.000+04:00",
-            "lastScreeningDate": "2026-04-02T00:00:00.000+04:00",
-            "year": 2025,
-            "ageLimit": "TWELVE",
-            "languages": [
-                "AZ"
-            ],
-            "image": "1743588500093_Screenshot_2025-03-22_192937.png",
-            "subtitles": [],
-            "trailerUrl": "1743589241135_Tagyev_film___2-ci_hiss__Car___Treyler.mp4",
-            "youtubeUrl": "https://www.youtube.com/watch?v=T2DO2juNRMo",
-            "active": true,
-            "preSale": false
-        },
-        {
-            "id": "67d0036683e3785bb4f16eac",
-            "name": "Minecraft kinoda",
-            "description": "Dörd autsayder sirli portal vasitəsilə qəribə kubik Möcüzələr ölkəsinə düşür. Evə qayıtmaq üçün onlar sehrli bir kvestdən keçməli və ustad Stiv adlı birisi ilə birlikdə işləməlidirlər.",
-            "iticketLink": null,
-            "country": "Amerika Birləşmiş Ştatları",
-            "director": "Cared Hess",
-            "actors": [
-                "Cek Blek Cennifer Kulic Keyt MakKinnon Ceyson Momoa"
-            ],
-            "genres": [
-                {
-                    "id": "67693af4c8bf5553b2cd258e",
-                    "title": "Fantastika"
-                },
-                {
-                    "id": "67693b21c8bf5553b2cd258f",
-                    "title": "Döyüş"
-                },
-                {
-                    "id": "67729bcbbf13b4256e98c0ff",
-                    "title": "Komediya"
-                },
-                {
-                    "id": "67729c65bf13b4256e98c26c",
-                    "title": "Ailəvi"
-                }
-            ],
-            "movieId": 0,
-            "duration": 110,
-            "firstScreeningDate": "2025-04-03T00:00:00.000+04:00",
-            "lastScreeningDate": "2026-04-03T00:00:00.000+04:00",
-            "year": 2025,
-            "ageLimit": "SIX",
-            "languages": [
-                "TR",
-                "EN",
-                "RU"
-            ],
-            "image": "1741685463041_Screenshot_2025-03-10_222420.png",
-            "subtitles": [
-                "AZ"
-            ],
-            "trailerUrl": "1741685595067_Minecraft______2_(,_2025).mp4",
-            "youtubeUrl": "https://www.youtube.com/watch?v=VsJlmio8A2g",
-            "active": true,
-            "preSale": false
-        },
-        {
-            "id": "67ed119ed596ba0a67b56dd6",
-            "name": "Bəlkə də",
-            "description": "Yaxınlarını itirmiş iki insanın qəfil tanışlığı və zaman maşını ilə keçmişə qayıtmaq arzusu üzərində qurulan elmi-fantastik hekayədir. İxtiraçı atasına verdiyi sözü, Mələk isə nişanlısını xilas etmək istəyir. Amma zaman maşınını hazırlamağa yaxın olduqca, onları gözlənilməz hadisələr və o dünyadan gələn ruhlar narahat etməyə başlayır. Və əsl çətinlik bundan sonra başlayır...\n\n",
-            "iticketLink": null,
-            "country": "Azərbaycan",
-            "director": "Taleh Yüzbəyov",
-            "actors": [
-                "Taleh Yüzbəyov",
-                "İranə Kərimova",
-                "Əli Əlizadə",
-                "Nurlan Rüstəmov",
-                "Günay Əhməd",
-                "Əlixan Rəcəbov"
-            ],
-            "genres": [
-                {
-                    "id": "67693af4c8bf5553b2cd258e",
-                    "title": "Fantastika"
-                }
-            ],
-            "movieId": 0,
-            "duration": 90,
-            "firstScreeningDate": "2025-04-03T00:00:00.000+04:00",
-            "lastScreeningDate": "2026-04-03T00:00:00.000+04:00",
-            "year": 2025,
-            "ageLimit": "SIXTEEN",
-            "languages": [
-                "AZ"
-            ],
-            "image": "1743589618259_Screenshot_2025-03-22_194535.png",
-            "subtitles": [],
-            "trailerUrl": "1743589757362_Blk_d...___RSMI_TREYLER.mp4",
-            "youtubeUrl": "https://www.youtube.com/watch?v=n8KySm_cQKw",
-            "active": true,
-            "preSale": false
-        },
-        {
-            "id": "67ef8b076f500c02f5d916d7",
-            "name": "Qisas 2",
-            "description": "Xəzinədarlıq agenti Meribeth Medina keçmiş rəhbərinin qatillərini tapmağa çalışır. Qadın dahiyanə riyaziyyatçı və killer bacarıqları olan Kristian Vulfa müraciət edir. Kris qardaşı Brax ilə birləşir və tədricən bu çətin tapmacanın bütün hissələrini bir yerə toplamağa başlayır. Üçlük həqiqətə yaxınlaşdıqca, onları dayandırmaq istəyən amansız qatillərin diqqətini daha çox cəlb edirlər.",
-            "iticketLink": null,
-            "country": "Amerika Birləşmiş Ştatları",
-            "director": "Gevin O'Konnor",
-            "actors": [
-                "Con Bernthal",
-                "Ben Afflek",
-                "J.K. Simmons"
-            ],
-            "genres": [
-                {
-                    "id": "67693b21c8bf5553b2cd258f",
-                    "title": "Döyüş"
-                },
-                {
-                    "id": "67729bf2bf13b4256e98c15c",
-                    "title": "Trillerlər"
-                },
-                {
-                    "id": "67ef8f746f500c02f5d9190b",
-                    "title": "Kriminal"
-                }
-            ],
-            "movieId": 0,
-            "duration": 140,
-            "firstScreeningDate": "2025-04-24T00:00:00.000+04:00",
-            "lastScreeningDate": "2026-04-24T00:00:00.000+04:00",
-            "year": 2025,
-            "ageLimit": "EIGHTEEN",
-            "languages": [
-                "EN",
-                "RU"
-            ],
-            "image": "1743751847231_Screenshot_2025-03-10_223723.png",
-            "subtitles": [
-                "AZ"
-            ],
-            "trailerUrl": "1743751924427__2____(,_2025).mp4",
-            "youtubeUrl": "https://www.youtube.com/watch?v=jc35np7VT-Q",
-            "active": true,
-            "preSale": false
-        },
-        {
-            "id": "67ef8c7e6f500c02f5d91718",
-            "name": "DOĞMA TORPAQ",
-            "description": "1992-ci il. Müstəqil Azərbaycan Qarabağda separatçılara qarşı mübarizə aparır. Jurnalist Miranda Qafqaz bəbiri haqqında sənədli film çəkmək üçün Londondan Azərbaycana gəlir. Tale onu kəşfiyyatçı Emillə bir araya gətirir. Onlar birlikdə çətin sınaqlardan keçirlər, bu sınaqlar zamanı Miranda Qafqaz bəbiri və Azərbaycanın müasir tarixinin faciəli səhifələri haqqında çox şey öyrənir.\n\n",
-            "iticketLink": null,
-            "country": "Azərbaycan",
-            "director": "İlqar Safat",
-            "actors": [
-                "Alina Vorontsova",
-                "Rüstəm Cəbrayılov"
-            ],
-            "genres": [
-                {
-                    "id": "67ef8ea96f500c02f5d91829",
-                    "title": "Drama"
-                }
-            ],
-            "movieId": 0,
-            "duration": 140,
-            "firstScreeningDate": "2025-04-24T00:00:00.000+04:00",
-            "lastScreeningDate": "2026-04-24T00:00:00.000+04:00",
-            "year": 2025,
-            "ageLimit": "EIGHTEEN",
-            "languages": [
-                "AZ"
-            ],
-            "image": "1745236035001_POSTER_DOGMA_TORPAQ_24_APREL.jpg",
-            "subtitles": [],
-            "trailerUrl": "1743752285394__MOTHERLAND__by_ILgar_Safat.mp4",
-            "youtubeUrl": "https://youtu.be/TMNRCjRskNI?si=TYitD478bGWdEPsf",
-            "active": true,
-            "preSale": false
-        },
-        {
-            "id": "67d009c583e3785bb4f16eaf",
-            "name": "Həvəskar",
-            "description": "Çarlz Heller — həyat yoldaşı Londonda terror aktı zamanı həlak olmuş Mərkəzi Kəşfiyyat İdarəsinin (MKİ) kriptoqrafıdır. Lakin rəhbərliyi istintaqı ləngitdiyinə görə, Heller terrorçuları özü axtarmağa qərar verir. Lazımi bacarıqları olmadığı üçün o, agentliyi şantaj edərək xüsusi təlimə göndərilməsini tələb edir.",
-            "iticketLink": null,
-            "country": "Amerika Birləşmiş Ştatları",
-            "director": "Ceyms Houz",
-            "actors": [
-                "Rami Malek Lourens Fișborn"
-            ],
-            "genres": [
-                {
-                    "id": "67693b21c8bf5553b2cd258f",
-                    "title": "Döyüş"
-                },
-                {
-                    "id": "67729bf2bf13b4256e98c15c",
-                    "title": "Trillerlər"
-                }
-            ],
-            "movieId": 0,
-            "duration": 130,
-            "firstScreeningDate": "2025-04-10T00:00:00.000+04:00",
-            "lastScreeningDate": "2026-04-10T00:00:00.000+04:00",
-            "year": 2025,
-            "ageLimit": "SIXTEEN",
-            "languages": [
-                "RU",
-                "EN"
-            ],
-            "image": "1741687202420_Screenshot_2025-03-10_223056.png",
-            "subtitles": [
-                "AZ"
-            ],
-            "trailerUrl": "1741687226160_____(,_2025).mp4",
-            "youtubeUrl": "https://www.youtube.com/watch?v=xWVN2FlYASc&t=2s",
-            "active": true,
-            "preSale": false
-        },
-        {
-            "id": "67d008c283e3785bb4f16eae",
-            "name": "Drop",
-            "description": "Dul Vaylet uzun illərdən sonra ilk görüşünə gedir və bir az həyəcanlanır. Lakin ən bədbin gözləntilərə baxmayaraq, əvvəlcə hər şey əla gedir. Hətta onun yoldaşı Henri də olduqca xoş və maraqlı söhbət yoldaşı çıxır. Ancaq qəfildən qadının telefonuna anonim mesajlar gəlməyə başlayır.",
-            "iticketLink": null,
-            "country": "Amerika Birləşmiş Ştatları",
-            "director": "Kristofer Landon",
-            "actors": [
-                "Brendon Sklenar Megan Feyhi"
-            ],
-            "genres": [
-                {
-                    "id": "67729bf2bf13b4256e98c15c",
-                    "title": "Trillerlər"
-                }
-            ],
-            "movieId": 0,
-            "duration": 110,
-            "firstScreeningDate": "2025-04-10T00:00:00.000+04:00",
-            "lastScreeningDate": "2026-04-10T00:00:00.000+04:00",
-            "year": 2025,
-            "ageLimit": "SIXTEEN",
-            "languages": [
-                "RU"
-            ],
-            "image": "1741686845012_Screenshot_2025-03-10_222545.png",
-            "subtitles": [
-                "AZ"
-            ],
-            "trailerUrl": "1741686966399_____(,_2025).mp4",
-            "youtubeUrl": "https://www.youtube.com/watch?v=xRQ7t0mkAi0",
-            "active": true,
-            "preSale": false
-        },
-        {
-            "id": "67ed1dfbd596ba0a67b56de5",
-            "name": "Hozu 007",
-            "description": "Partidən qızın qəfil animatorlar tərəfindən qaçırılması hər şeyi hərəkətə gətirir və hamı panikaya düşür. Sərvət dünyanın ən yaxşı agentlərini toplayaraq qızın axtarışına başlayır. Bu zaman təsadüfən hadisələrin içinə düşən sadə kənd adamı Hozu da özünü \"007 agenti\" kimi xəyal edərək, peşəkarlarla birlikdə qızın axtarışına çıxır. Hozunun sadəlövhlüyü və Sərvətin ciddi dünyası arasında yaranan bu kontrast hekayəyə maraqlı bir gülüş və macəra qatır.",
-            "iticketLink": null,
-            "country": "Azərbaycan",
-            "director": "İlham Yaşaroğlu",
-            "actors": [
-                "Məcid Hüseynov Mark Kim Aqil M. Quliyev"
-            ],
-            "genres": [
-                {
-                    "id": "67729bcbbf13b4256e98c0ff",
-                    "title": "Komediya"
-                }
-            ],
-            "movieId": 0,
-            "duration": 90,
-            "firstScreeningDate": "2025-04-03T00:00:00.000+04:00",
-            "lastScreeningDate": "2026-04-03T00:00:00.000+04:00",
-            "year": 2024,
-            "ageLimit": "SIX",
-            "languages": [
-                "AZ"
-            ],
-            "image": "1743592769920__WhatsApp_2025-04-02__15.07.01_a0d22d49.jpg",
-            "subtitles": [],
-            "trailerUrl": "1743592929405_Hozu_007_Kinokomediyas_-_Rsmi_Trailer_2024.mp4",
-            "youtubeUrl": "https://www.youtube.com/watch?v=KEISWrp-75U",
-            "active": true,
-            "preSale": false
-        },
-        {
-            "id": "67ef91956f500c02f5d919d8",
-            "name": "Sübhə Qədər ",
-            "description": "Bir il keçib ki, Kloverin bacısı Melani sirli şəraitdə yoxa çıxıb. Cavab tapmaq üçün o, dostları ilə birlikdə axtarışa çıxır. Tərk edilmiş bir mərkəzi araşdırarkən, onlar maskalı bir qatil ilə qarşılaşırlar.\n\nDostları bir-bir ölür, lakin eyni axşamın əvvəlində yenidən oyanırlar və hər şeyi təkrar yaşayırlar. Zaman döngəsində ilişib qalan dostlar kabusu dəfələrlə yaşamalı olurlar. Hər dəfə təkrarlandıqca təhlükə daha dəhşətli olur. Ümid azalır və onlar başa düşürlər ki, xilas olmaq üçün yeganə yolları sübhə qədər yaşamaqdır.",
-            "iticketLink": null,
-            "country": "Amerika Birləşmiş Ştatları",
-            "director": "Devid F. Sandberq",
-            "actors": [
-                "Ella Rubin ",
-                " Odessa Ezion",
-                "Maykl Çimino",
-                "Yu Ci-yon",
-                "Belmont Kameli"
-            ],
-            "genres": [
-                {
-                    "id": "67719f3a250ee22dac939c7c",
-                    "title": "Dəhşət"
-                }
-            ],
-            "movieId": 0,
-            "duration": 110,
-            "firstScreeningDate": "2025-04-24T00:00:00.000+04:00",
-            "lastScreeningDate": "2026-04-24T00:00:00.000+04:00",
-            "year": 2024,
-            "ageLimit": "EIGHTEEN",
-            "languages": [
-                "EN",
-                "TR",
-                "RU"
-            ],
-            "image": "1743753541411_Screenshot_2025-04-04_115225.png",
-            "subtitles": [
-                "AZ"
-            ],
-            "trailerUrl": "1743753612536_______(,_2025).mp4",
-            "youtubeUrl": "https://www.youtube.com/watch?v=pJiGegq9pm4",
-            "active": true,
-            "preSale": false
-        }
-    ],
-    "detail": [
-        {
-            "id": "681008b26ea7da518619ee32",
-            "sessionId": 191438,
-            "price": [
-                {
-                    "createdDate": "2025-04-28T23:01:06.680+00:00",
-                    "updatedDate": "2025-04-28T23:01:06.680+00:00",
-                    "createdBy": null,
-                    "updatedBy": null,
-                    "id": "681008b26ea7da518619ee31",
-                    "priceId": 1,
-                    "ticketId": 1,
-                    "name": "стандарт",
-                    "price": 7.0,
-                    "discounts": [
-                        {
-                            "createdDate": "2025-01-14T20:29:33.017+00:00",
-                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92d2f004915fa0f02bc",
-                            "title": "Семья онлайн",
-                            "discountCode": 16,
-                            "discountValue": 6.0,
-                            "discountType": "FAMILY",
-                            "max": 4,
-                            "min": 3
-                        },
-                        {
-                            "createdDate": "2025-01-14T20:29:33.968+00:00",
-                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92d2f004915fa0f02c5",
-                            "title": "Взрослый  онлайн",
-                            "discountCode": 15,
-                            "discountValue": 7.0,
-                            "discountType": "ADULT",
-                            "max": 10,
-                            "min": 1
-                        },
-                        {
-                            "createdDate": "2025-01-14T20:30:06.775+00:00",
-                            "updatedDate": "2025-04-28T23:02:52.783+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c94e2f004915fa0f0399",
-                            "title": "VIP онлайн",
-                            "discountCode": 18,
-                            "discountValue": 17.0,
-                            "discountType": "DOUBLE",
-                            "max": 5,
-                            "min": 1
-                        }
-                    ]
-                }
-            ],
-            "date": "2025-05-01T00:00:00.000+04:00",
-            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
-            "time": "00:20",
-            "calendarDate": "2025-05-02T00:00:00.000+04:00",
-            "promoCodes": [],
-            "language": "RU",
-            "subtitle": "AZ",
-            "type": "_2D",
-            "hallType": "REGULAR",
-            "movie": {
-                "id": "6809f2e687f15d5253eeea86",
-                "name": "Patrul",
-                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
-                "iticketLink": null,
-                "country": "Qazaxıstan",
-                "director": "Rustem Omarov",
-                "actors": [
-                    "Renat Muhambayev",
-                    "Tambi Masayev",
-                    "Imanbek",
-                    "Adilcan Şombalov"
-                ],
-                "genres": [
-                    {
-                        "id": "67729bcbbf13b4256e98c0ff",
-                        "title": "Komediya"
-                    }
-                ],
-                "movieId": 0,
-                "duration": 110,
-                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
-                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
-                "year": 2025,
-                "ageLimit": "SIXTEEN",
-                "languages": [
-                    "RU"
-                ],
-                "image": "1745482450359__.png",
-                "subtitles": [
-                    "AZ"
-                ],
-                "trailerUrl": "",
-                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
-                "active": true,
-                "preSale": true
-            },
-            "hallId": "67f77b727fbe427fd53beffc",
-            "hallTitle": "Zal: 4",
-            "theatreId": "675aea152acad3103ea749e6",
-            "theatreTitle": "Flame Towers",
-            "onlineSale": true,
-            "active": true
-        },
-        {
-            "id": "681008a46ea7da518619ecfe",
-            "sessionId": 298645,
-            "price": [
-                {
-                    "createdDate": "2025-04-28T23:00:52.059+00:00",
-                    "updatedDate": "2025-04-28T23:00:52.059+00:00",
-                    "createdBy": null,
-                    "updatedBy": null,
-                    "id": "681008a46ea7da518619ecfd",
-                    "priceId": 7,
-                    "ticketId": 21,
-                    "name": "стандарт",
-                    "price": 5.0,
-                    "discounts": [
-                        {
-                            "createdDate": "2025-01-14T20:29:32.016+00:00",
-                            "updatedDate": "2025-04-28T23:02:57.474+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92c2f004915fa0f02b3",
-                            "title": "Семья онлайн",
-                            "discountCode": 16,
-                            "discountValue": 4.0,
-                            "discountType": "FAMILY",
-                            "max": 4,
-                            "min": 3
-                        },
-                        {
-                            "createdDate": "2025-01-14T20:29:32.017+00:00",
-                            "updatedDate": "2025-04-28T23:02:57.865+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92c2f004915fa0f02b5",
-                            "title": "Взрослый  онлайн",
-                            "discountCode": 15,
-                            "discountValue": 5.0,
-                            "discountType": "ADULT",
-                            "max": 10,
-                            "min": 1
-                        }
-                    ]
-                }
-            ],
-            "date": "2025-05-01T00:00:00.000+04:00",
-            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
-            "time": "09:00",
-            "calendarDate": "2025-05-01T00:00:00.000+04:00",
-            "promoCodes": [],
-            "language": "RU",
-            "subtitle": "AZ",
-            "type": "_2D",
-            "hallType": "REGULAR",
-            "movie": {
-                "id": "6809f2e687f15d5253eeea86",
-                "name": "Patrul",
-                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
-                "iticketLink": null,
-                "country": "Qazaxıstan",
-                "director": "Rustem Omarov",
-                "actors": [
-                    "Renat Muhambayev",
-                    "Tambi Masayev",
-                    "Imanbek",
-                    "Adilcan Şombalov"
-                ],
-                "genres": [
-                    {
-                        "id": "67729bcbbf13b4256e98c0ff",
-                        "title": "Komediya"
-                    }
-                ],
-                "movieId": 0,
-                "duration": 110,
-                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
-                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
-                "year": 2025,
-                "ageLimit": "SIXTEEN",
-                "languages": [
-                    "RU"
-                ],
-                "image": "1745482450359__.png",
-                "subtitles": [
-                    "AZ"
-                ],
-                "trailerUrl": "",
-                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
-                "active": true,
-                "preSale": true
-            },
-            "hallId": "67fcb0fa87f15d5253ec4c9b",
-            "hallTitle": "Zal: 2",
-            "theatreId": "675aea0a2acad3103ea740db",
-            "theatreTitle": "Park Bulvar",
-            "onlineSale": true,
-            "active": true
-        },
-        {
-            "id": "681008ed6ea7da518619f306",
-            "sessionId": 199007,
-            "price": [
-                {
-                    "createdDate": "2025-04-28T23:02:05.732+00:00",
-                    "updatedDate": "2025-04-28T23:02:05.732+00:00",
-                    "createdBy": null,
-                    "updatedBy": null,
-                    "id": "681008ed6ea7da518619f305",
-                    "priceId": 1,
-                    "ticketId": 1,
-                    "name": "стандарт",
-                    "price": 5.0,
-                    "discounts": [
-                        {
-                            "createdDate": "2025-01-14T20:29:32.016+00:00",
-                            "updatedDate": "2025-04-28T23:02:57.474+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92c2f004915fa0f02b3",
-                            "title": "Семья онлайн",
-                            "discountCode": 16,
-                            "discountValue": 4.0,
-                            "discountType": "FAMILY",
-                            "max": 4,
-                            "min": 3
-                        },
-                        {
-                            "createdDate": "2025-01-14T20:29:32.017+00:00",
-                            "updatedDate": "2025-04-28T23:02:57.865+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92c2f004915fa0f02b5",
-                            "title": "Взрослый  онлайн",
-                            "discountCode": 15,
-                            "discountValue": 5.0,
-                            "discountType": "ADULT",
-                            "max": 10,
-                            "min": 1
-                        }
-                    ]
-                }
-            ],
-            "date": "2025-05-01T00:00:00.000+04:00",
-            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
-            "time": "11:00",
-            "calendarDate": "2025-05-01T00:00:00.000+04:00",
-            "promoCodes": [],
-            "language": "RU",
-            "subtitle": "AZ",
-            "type": "_2D",
-            "hallType": "REGULAR",
-            "movie": {
-                "id": "6809f2e687f15d5253eeea86",
-                "name": "Patrul",
-                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
-                "iticketLink": null,
-                "country": "Qazaxıstan",
-                "director": "Rustem Omarov",
-                "actors": [
-                    "Renat Muhambayev",
-                    "Tambi Masayev",
-                    "Imanbek",
-                    "Adilcan Şombalov"
-                ],
-                "genres": [
-                    {
-                        "id": "67729bcbbf13b4256e98c0ff",
-                        "title": "Komediya"
-                    }
-                ],
-                "movieId": 0,
-                "duration": 110,
-                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
-                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
-                "year": 2025,
-                "ageLimit": "SIXTEEN",
-                "languages": [
-                    "RU"
-                ],
-                "image": "1745482450359__.png",
-                "subtitles": [
-                    "AZ"
-                ],
-                "trailerUrl": "",
-                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
-                "active": true,
-                "preSale": true
-            },
-            "hallId": "678761f1a6c6f668e693ef92",
-            "hallTitle": "Zal: 5",
-            "theatreId": "675aea102acad3103ea74531",
-            "theatreTitle": "Metro Park",
-            "onlineSale": true,
-            "active": true
-        },
-        {
-            "id": "681008a46ea7da518619ed0c",
-            "sessionId": 298647,
-            "price": [
-                {
-                    "createdDate": "2025-04-28T23:00:52.651+00:00",
-                    "updatedDate": "2025-04-28T23:00:52.651+00:00",
-                    "createdBy": null,
-                    "updatedBy": null,
-                    "id": "681008a46ea7da518619ed0b",
-                    "priceId": 7,
-                    "ticketId": 21,
-                    "name": "стандарт",
-                    "price": 5.0,
-                    "discounts": [
-                        {
-                            "createdDate": "2025-01-14T20:29:32.016+00:00",
-                            "updatedDate": "2025-04-28T23:02:57.474+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92c2f004915fa0f02b3",
-                            "title": "Семья онлайн",
-                            "discountCode": 16,
-                            "discountValue": 4.0,
-                            "discountType": "FAMILY",
-                            "max": 4,
-                            "min": 3
-                        },
-                        {
-                            "createdDate": "2025-01-14T20:29:32.017+00:00",
-                            "updatedDate": "2025-04-28T23:02:57.865+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92c2f004915fa0f02b5",
-                            "title": "Взрослый  онлайн",
-                            "discountCode": 15,
-                            "discountValue": 5.0,
-                            "discountType": "ADULT",
-                            "max": 10,
-                            "min": 1
-                        }
-                    ]
-                }
-            ],
-            "date": "2025-05-01T00:00:00.000+04:00",
-            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
-            "time": "13:00",
-            "calendarDate": "2025-05-01T00:00:00.000+04:00",
-            "promoCodes": [],
-            "language": "RU",
-            "subtitle": "AZ",
-            "type": "_2D",
-            "hallType": "REGULAR",
-            "movie": {
-                "id": "6809f2e687f15d5253eeea86",
-                "name": "Patrul",
-                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
-                "iticketLink": null,
-                "country": "Qazaxıstan",
-                "director": "Rustem Omarov",
-                "actors": [
-                    "Renat Muhambayev",
-                    "Tambi Masayev",
-                    "Imanbek",
-                    "Adilcan Şombalov"
-                ],
-                "genres": [
-                    {
-                        "id": "67729bcbbf13b4256e98c0ff",
-                        "title": "Komediya"
-                    }
-                ],
-                "movieId": 0,
-                "duration": 110,
-                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
-                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
-                "year": 2025,
-                "ageLimit": "SIXTEEN",
-                "languages": [
-                    "RU"
-                ],
-                "image": "1745482450359__.png",
-                "subtitles": [
-                    "AZ"
-                ],
-                "trailerUrl": "",
-                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
-                "active": true,
-                "preSale": true
-            },
-            "hallId": "67fcb0fa87f15d5253ec4c9b",
-            "hallTitle": "Zal: 2",
-            "theatreId": "675aea0a2acad3103ea740db",
-            "theatreTitle": "Park Bulvar",
-            "onlineSale": true,
-            "active": true
-        },
-        {
-            "id": "681008ee6ea7da518619f312",
-            "sessionId": 199009,
-            "price": [
-                {
-                    "createdDate": "2025-04-28T23:02:06.496+00:00",
-                    "updatedDate": "2025-04-28T23:02:06.496+00:00",
-                    "createdBy": null,
-                    "updatedBy": null,
-                    "id": "681008ee6ea7da518619f311",
-                    "priceId": 1,
-                    "ticketId": 1,
-                    "name": "стандарт",
-                    "price": 7.0,
-                    "discounts": [
-                        {
-                            "createdDate": "2025-01-14T20:29:33.017+00:00",
-                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92d2f004915fa0f02bc",
-                            "title": "Семья онлайн",
-                            "discountCode": 16,
-                            "discountValue": 6.0,
-                            "discountType": "FAMILY",
-                            "max": 4,
-                            "min": 3
-                        },
-                        {
-                            "createdDate": "2025-01-14T20:29:33.968+00:00",
-                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92d2f004915fa0f02c5",
-                            "title": "Взрослый  онлайн",
-                            "discountCode": 15,
-                            "discountValue": 7.0,
-                            "discountType": "ADULT",
-                            "max": 10,
-                            "min": 1
-                        }
-                    ]
-                }
-            ],
-            "date": "2025-05-01T00:00:00.000+04:00",
-            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
-            "time": "15:00",
-            "calendarDate": "2025-05-01T00:00:00.000+04:00",
-            "promoCodes": [],
-            "language": "RU",
-            "subtitle": "AZ",
-            "type": "_2D",
-            "hallType": "REGULAR",
-            "movie": {
-                "id": "6809f2e687f15d5253eeea86",
-                "name": "Patrul",
-                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
-                "iticketLink": null,
-                "country": "Qazaxıstan",
-                "director": "Rustem Omarov",
-                "actors": [
-                    "Renat Muhambayev",
-                    "Tambi Masayev",
-                    "Imanbek",
-                    "Adilcan Şombalov"
-                ],
-                "genres": [
-                    {
-                        "id": "67729bcbbf13b4256e98c0ff",
-                        "title": "Komediya"
-                    }
-                ],
-                "movieId": 0,
-                "duration": 110,
-                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
-                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
-                "year": 2025,
-                "ageLimit": "SIXTEEN",
-                "languages": [
-                    "RU"
-                ],
-                "image": "1745482450359__.png",
-                "subtitles": [
-                    "AZ"
-                ],
-                "trailerUrl": "",
-                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
-                "active": true,
-                "preSale": true
-            },
-            "hallId": "678761f1a6c6f668e693ef92",
-            "hallTitle": "Zal: 5",
-            "theatreId": "675aea102acad3103ea74531",
-            "theatreTitle": "Metro Park",
-            "onlineSale": true,
-            "active": true
-        },
-        {
-            "id": "681008a56ea7da518619ed16",
-            "sessionId": 298649,
-            "price": [
-                {
-                    "createdDate": "2025-04-28T23:00:53.215+00:00",
-                    "updatedDate": "2025-04-28T23:00:53.215+00:00",
-                    "createdBy": null,
-                    "updatedBy": null,
-                    "id": "681008a56ea7da518619ed15",
-                    "priceId": 7,
-                    "ticketId": 21,
-                    "name": "стандарт",
-                    "price": 7.0,
-                    "discounts": [
-                        {
-                            "createdDate": "2025-01-14T20:29:33.017+00:00",
-                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92d2f004915fa0f02bc",
-                            "title": "Семья онлайн",
-                            "discountCode": 16,
-                            "discountValue": 6.0,
-                            "discountType": "FAMILY",
-                            "max": 4,
-                            "min": 3
-                        },
-                        {
-                            "createdDate": "2025-01-14T20:29:33.968+00:00",
-                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92d2f004915fa0f02c5",
-                            "title": "Взрослый  онлайн",
-                            "discountCode": 15,
-                            "discountValue": 7.0,
-                            "discountType": "ADULT",
-                            "max": 10,
-                            "min": 1
-                        }
-                    ]
-                }
-            ],
-            "date": "2025-05-01T00:00:00.000+04:00",
-            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
-            "time": "17:00",
-            "calendarDate": "2025-05-01T00:00:00.000+04:00",
-            "promoCodes": [],
-            "language": "RU",
-            "subtitle": "AZ",
-            "type": "_2D",
-            "hallType": "REGULAR",
-            "movie": {
-                "id": "6809f2e687f15d5253eeea86",
-                "name": "Patrul",
-                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
-                "iticketLink": null,
-                "country": "Qazaxıstan",
-                "director": "Rustem Omarov",
-                "actors": [
-                    "Renat Muhambayev",
-                    "Tambi Masayev",
-                    "Imanbek",
-                    "Adilcan Şombalov"
-                ],
-                "genres": [
-                    {
-                        "id": "67729bcbbf13b4256e98c0ff",
-                        "title": "Komediya"
-                    }
-                ],
-                "movieId": 0,
-                "duration": 110,
-                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
-                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
-                "year": 2025,
-                "ageLimit": "SIXTEEN",
-                "languages": [
-                    "RU"
-                ],
-                "image": "1745482450359__.png",
-                "subtitles": [
-                    "AZ"
-                ],
-                "trailerUrl": "",
-                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
-                "active": true,
-                "preSale": true
-            },
-            "hallId": "67fcb0fa87f15d5253ec4c9b",
-            "hallTitle": "Zal: 2",
-            "theatreId": "675aea0a2acad3103ea740db",
-            "theatreTitle": "Park Bulvar",
-            "onlineSale": true,
-            "active": true
-        },
-        {
-            "id": "681008d16ea7da518619f0c8",
-            "sessionId": 98319,
-            "price": [
-                {
-                    "createdDate": "2025-04-28T23:01:37.105+00:00",
-                    "updatedDate": "2025-04-28T23:01:37.105+00:00",
-                    "createdBy": null,
-                    "updatedBy": null,
-                    "id": "681008d16ea7da518619f0c7",
-                    "priceId": 1,
-                    "ticketId": 1,
-                    "name": "Standart",
-                    "price": 7.0,
-                    "discounts": [
-                        {
-                            "createdDate": "2025-01-14T20:29:33.017+00:00",
-                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92d2f004915fa0f02bc",
-                            "title": "Семья онлайн",
-                            "discountCode": 16,
-                            "discountValue": 6.0,
-                            "discountType": "FAMILY",
-                            "max": 4,
-                            "min": 3
-                        },
-                        {
-                            "createdDate": "2025-01-14T20:29:33.968+00:00",
-                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92d2f004915fa0f02c5",
-                            "title": "Взрослый  онлайн",
-                            "discountCode": 15,
-                            "discountValue": 7.0,
-                            "discountType": "ADULT",
-                            "max": 10,
-                            "min": 1
-                        }
-                    ]
-                }
-            ],
-            "date": "2025-05-01T00:00:00.000+04:00",
-            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
-            "time": "19:00",
-            "calendarDate": "2025-05-01T00:00:00.000+04:00",
-            "promoCodes": [],
-            "language": "AZ",
-            "subtitle": "NONE",
-            "type": "_2D",
-            "hallType": "REGULAR",
-            "movie": {
-                "id": "6809f2e687f15d5253eeea86",
-                "name": "Patrul",
-                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
-                "iticketLink": null,
-                "country": "Qazaxıstan",
-                "director": "Rustem Omarov",
-                "actors": [
-                    "Renat Muhambayev",
-                    "Tambi Masayev",
-                    "Imanbek",
-                    "Adilcan Şombalov"
-                ],
-                "genres": [
-                    {
-                        "id": "67729bcbbf13b4256e98c0ff",
-                        "title": "Komediya"
-                    }
-                ],
-                "movieId": 0,
-                "duration": 110,
-                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
-                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
-                "year": 2025,
-                "ageLimit": "SIXTEEN",
-                "languages": [
-                    "RU"
-                ],
-                "image": "1745482450359__.png",
-                "subtitles": [
-                    "AZ"
-                ],
-                "trailerUrl": "",
-                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
-                "active": true,
-                "preSale": true
-            },
-            "hallId": "67bf1a73f08ff82cfff0aa35",
-            "hallTitle": "Zal: 4",
-            "theatreId": "675aea192acad3103ea74e2e",
-            "theatreTitle": "Sevinc Mall",
-            "onlineSale": true,
-            "active": true
-        },
-        {
-            "id": "681008ef6ea7da518619f31e",
-            "sessionId": 199011,
-            "price": [
-                {
-                    "createdDate": "2025-04-28T23:02:07.253+00:00",
-                    "updatedDate": "2025-04-28T23:02:07.253+00:00",
-                    "createdBy": null,
-                    "updatedBy": null,
-                    "id": "681008ef6ea7da518619f31d",
-                    "priceId": 1,
-                    "ticketId": 1,
-                    "name": "стандарт",
-                    "price": 7.0,
-                    "discounts": [
-                        {
-                            "createdDate": "2025-01-14T20:29:33.017+00:00",
-                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92d2f004915fa0f02bc",
-                            "title": "Семья онлайн",
-                            "discountCode": 16,
-                            "discountValue": 6.0,
-                            "discountType": "FAMILY",
-                            "max": 4,
-                            "min": 3
-                        },
-                        {
-                            "createdDate": "2025-01-14T20:29:33.968+00:00",
-                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92d2f004915fa0f02c5",
-                            "title": "Взрослый  онлайн",
-                            "discountCode": 15,
-                            "discountValue": 7.0,
-                            "discountType": "ADULT",
-                            "max": 10,
-                            "min": 1
-                        }
-                    ]
-                }
-            ],
-            "date": "2025-05-01T00:00:00.000+04:00",
-            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
-            "time": "19:00",
-            "calendarDate": "2025-05-01T00:00:00.000+04:00",
-            "promoCodes": [],
-            "language": "RU",
-            "subtitle": "AZ",
-            "type": "_2D",
-            "hallType": "REGULAR",
-            "movie": {
-                "id": "6809f2e687f15d5253eeea86",
-                "name": "Patrul",
-                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
-                "iticketLink": null,
-                "country": "Qazaxıstan",
-                "director": "Rustem Omarov",
-                "actors": [
-                    "Renat Muhambayev",
-                    "Tambi Masayev",
-                    "Imanbek",
-                    "Adilcan Şombalov"
-                ],
-                "genres": [
-                    {
-                        "id": "67729bcbbf13b4256e98c0ff",
-                        "title": "Komediya"
-                    }
-                ],
-                "movieId": 0,
-                "duration": 110,
-                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
-                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
-                "year": 2025,
-                "ageLimit": "SIXTEEN",
-                "languages": [
-                    "RU"
-                ],
-                "image": "1745482450359__.png",
-                "subtitles": [
-                    "AZ"
-                ],
-                "trailerUrl": "",
-                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
-                "active": true,
-                "preSale": true
-            },
-            "hallId": "678761f1a6c6f668e693ef92",
-            "hallTitle": "Zal: 5",
-            "theatreId": "675aea102acad3103ea74531",
-            "theatreTitle": "Metro Park",
-            "onlineSale": true,
-            "active": true
-        },
-        {
-            "id": "681008a56ea7da518619ed22",
-            "sessionId": 298651,
-            "price": [
-                {
-                    "createdDate": "2025-04-28T23:00:53.761+00:00",
-                    "updatedDate": "2025-04-28T23:00:53.761+00:00",
-                    "createdBy": null,
-                    "updatedBy": null,
-                    "id": "681008a56ea7da518619ed21",
-                    "priceId": 7,
-                    "ticketId": 21,
-                    "name": "стандарт",
-                    "price": 7.0,
-                    "discounts": [
-                        {
-                            "createdDate": "2025-01-14T20:29:33.017+00:00",
-                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92d2f004915fa0f02bc",
-                            "title": "Семья онлайн",
-                            "discountCode": 16,
-                            "discountValue": 6.0,
-                            "discountType": "FAMILY",
-                            "max": 4,
-                            "min": 3
-                        },
-                        {
-                            "createdDate": "2025-01-14T20:29:33.968+00:00",
-                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92d2f004915fa0f02c5",
-                            "title": "Взрослый  онлайн",
-                            "discountCode": 15,
-                            "discountValue": 7.0,
-                            "discountType": "ADULT",
-                            "max": 10,
-                            "min": 1
-                        }
-                    ]
-                }
-            ],
-            "date": "2025-05-01T00:00:00.000+04:00",
-            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
-            "time": "21:00",
-            "calendarDate": "2025-05-01T00:00:00.000+04:00",
-            "promoCodes": [],
-            "language": "RU",
-            "subtitle": "AZ",
-            "type": "_2D",
-            "hallType": "REGULAR",
-            "movie": {
-                "id": "6809f2e687f15d5253eeea86",
-                "name": "Patrul",
-                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
-                "iticketLink": null,
-                "country": "Qazaxıstan",
-                "director": "Rustem Omarov",
-                "actors": [
-                    "Renat Muhambayev",
-                    "Tambi Masayev",
-                    "Imanbek",
-                    "Adilcan Şombalov"
-                ],
-                "genres": [
-                    {
-                        "id": "67729bcbbf13b4256e98c0ff",
-                        "title": "Komediya"
-                    }
-                ],
-                "movieId": 0,
-                "duration": 110,
-                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
-                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
-                "year": 2025,
-                "ageLimit": "SIXTEEN",
-                "languages": [
-                    "RU"
-                ],
-                "image": "1745482450359__.png",
-                "subtitles": [
-                    "AZ"
-                ],
-                "trailerUrl": "",
-                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
-                "active": true,
-                "preSale": true
-            },
-            "hallId": "67fcb0fa87f15d5253ec4c9b",
-            "hallTitle": "Zal: 2",
-            "theatreId": "675aea0a2acad3103ea740db",
-            "theatreTitle": "Park Bulvar",
-            "onlineSale": true,
-            "active": true
-        },
-        {
-            "id": "681008b26ea7da518619ee2a",
-            "sessionId": 191437,
-            "price": [
-                {
-                    "createdDate": "2025-04-28T23:01:06.288+00:00",
-                    "updatedDate": "2025-04-28T23:01:06.288+00:00",
-                    "createdBy": null,
-                    "updatedBy": null,
-                    "id": "681008b26ea7da518619ee29",
-                    "priceId": 1,
-                    "ticketId": 1,
-                    "name": "стандарт",
-                    "price": 7.0,
-                    "discounts": [
-                        {
-                            "createdDate": "2025-01-14T20:29:33.017+00:00",
-                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92d2f004915fa0f02bc",
-                            "title": "Семья онлайн",
-                            "discountCode": 16,
-                            "discountValue": 6.0,
-                            "discountType": "FAMILY",
-                            "max": 4,
-                            "min": 3
-                        },
-                        {
-                            "createdDate": "2025-01-14T20:29:33.968+00:00",
-                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92d2f004915fa0f02c5",
-                            "title": "Взрослый  онлайн",
-                            "discountCode": 15,
-                            "discountValue": 7.0,
-                            "discountType": "ADULT",
-                            "max": 10,
-                            "min": 1
-                        },
-                        {
-                            "createdDate": "2025-01-14T20:30:06.775+00:00",
-                            "updatedDate": "2025-04-28T23:02:52.783+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c94e2f004915fa0f0399",
-                            "title": "VIP онлайн",
-                            "discountCode": 18,
-                            "discountValue": 17.0,
-                            "discountType": "DOUBLE",
-                            "max": 5,
-                            "min": 1
-                        }
-                    ]
-                }
-            ],
-            "date": "2025-05-01T00:00:00.000+04:00",
-            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
-            "time": "22:20",
-            "calendarDate": "2025-05-01T00:00:00.000+04:00",
-            "promoCodes": [],
-            "language": "RU",
-            "subtitle": "AZ",
-            "type": "_2D",
-            "hallType": "REGULAR",
-            "movie": {
-                "id": "6809f2e687f15d5253eeea86",
-                "name": "Patrul",
-                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
-                "iticketLink": null,
-                "country": "Qazaxıstan",
-                "director": "Rustem Omarov",
-                "actors": [
-                    "Renat Muhambayev",
-                    "Tambi Masayev",
-                    "Imanbek",
-                    "Adilcan Şombalov"
-                ],
-                "genres": [
-                    {
-                        "id": "67729bcbbf13b4256e98c0ff",
-                        "title": "Komediya"
-                    }
-                ],
-                "movieId": 0,
-                "duration": 110,
-                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
-                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
-                "year": 2025,
-                "ageLimit": "SIXTEEN",
-                "languages": [
-                    "RU"
-                ],
-                "image": "1745482450359__.png",
-                "subtitles": [
-                    "AZ"
-                ],
-                "trailerUrl": "",
-                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
-                "active": true,
-                "preSale": true
-            },
-            "hallId": "67f77b727fbe427fd53beffc",
-            "hallTitle": "Zal: 4",
-            "theatreId": "675aea152acad3103ea749e6",
-            "theatreTitle": "Flame Towers",
-            "onlineSale": true,
-            "active": true
-        },
-        {
-            "id": "681008d16ea7da518619f0d6",
-            "sessionId": 98321,
-            "price": [
-                {
-                    "createdDate": "2025-04-28T23:01:37.876+00:00",
-                    "updatedDate": "2025-04-28T23:01:37.876+00:00",
-                    "createdBy": null,
-                    "updatedBy": null,
-                    "id": "681008d16ea7da518619f0d5",
-                    "priceId": 1,
-                    "ticketId": 1,
-                    "name": "Standart",
-                    "price": 7.0,
-                    "discounts": [
-                        {
-                            "createdDate": "2025-01-14T20:29:33.017+00:00",
-                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92d2f004915fa0f02bc",
-                            "title": "Семья онлайн",
-                            "discountCode": 16,
-                            "discountValue": 6.0,
-                            "discountType": "FAMILY",
-                            "max": 4,
-                            "min": 3
-                        },
-                        {
-                            "createdDate": "2025-01-14T20:29:33.968+00:00",
-                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92d2f004915fa0f02c5",
-                            "title": "Взрослый  онлайн",
-                            "discountCode": 15,
-                            "discountValue": 7.0,
-                            "discountType": "ADULT",
-                            "max": 10,
-                            "min": 1
-                        }
-                    ]
-                }
-            ],
-            "date": "2025-05-01T00:00:00.000+04:00",
-            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
-            "time": "23:00",
-            "calendarDate": "2025-05-01T00:00:00.000+04:00",
-            "promoCodes": [],
-            "language": "AZ",
-            "subtitle": "NONE",
-            "type": "_2D",
-            "hallType": "REGULAR",
-            "movie": {
-                "id": "6809f2e687f15d5253eeea86",
-                "name": "Patrul",
-                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
-                "iticketLink": null,
-                "country": "Qazaxıstan",
-                "director": "Rustem Omarov",
-                "actors": [
-                    "Renat Muhambayev",
-                    "Tambi Masayev",
-                    "Imanbek",
-                    "Adilcan Şombalov"
-                ],
-                "genres": [
-                    {
-                        "id": "67729bcbbf13b4256e98c0ff",
-                        "title": "Komediya"
-                    }
-                ],
-                "movieId": 0,
-                "duration": 110,
-                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
-                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
-                "year": 2025,
-                "ageLimit": "SIXTEEN",
-                "languages": [
-                    "RU"
-                ],
-                "image": "1745482450359__.png",
-                "subtitles": [
-                    "AZ"
-                ],
-                "trailerUrl": "",
-                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
-                "active": true,
-                "preSale": true
-            },
-            "hallId": "67bf1a73f08ff82cfff0aa35",
-            "hallTitle": "Zal: 4",
-            "theatreId": "675aea192acad3103ea74e2e",
-            "theatreTitle": "Sevinc Mall",
-            "onlineSale": true,
-            "active": true
-        },
-        {
-            "id": "681008f06ea7da518619f328",
-            "sessionId": 199013,
-            "price": [
-                {
-                    "createdDate": "2025-04-28T23:02:08.007+00:00",
-                    "updatedDate": "2025-04-28T23:02:08.007+00:00",
-                    "createdBy": null,
-                    "updatedBy": null,
-                    "id": "681008f06ea7da518619f327",
-                    "priceId": 1,
-                    "ticketId": 1,
-                    "name": "стандарт",
-                    "price": 7.0,
-                    "discounts": [
-                        {
-                            "createdDate": "2025-01-14T20:29:33.017+00:00",
-                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92d2f004915fa0f02bc",
-                            "title": "Семья онлайн",
-                            "discountCode": 16,
-                            "discountValue": 6.0,
-                            "discountType": "FAMILY",
-                            "max": 4,
-                            "min": 3
-                        },
-                        {
-                            "createdDate": "2025-01-14T20:29:33.968+00:00",
-                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
-                            "createdBy": null,
-                            "updatedBy": "admin@admin.com",
-                            "id": "6786c92d2f004915fa0f02c5",
-                            "title": "Взрослый  онлайн",
-                            "discountCode": 15,
-                            "discountValue": 7.0,
-                            "discountType": "ADULT",
-                            "max": 10,
-                            "min": 1
-                        }
-                    ]
-                }
-            ],
-            "date": "2025-05-01T00:00:00.000+04:00",
-            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
-            "time": "23:00",
-            "calendarDate": "2025-05-01T00:00:00.000+04:00",
-            "promoCodes": [],
-            "language": "RU",
-            "subtitle": "AZ",
-            "type": "_2D",
-            "hallType": "REGULAR",
-            "movie": {
-                "id": "6809f2e687f15d5253eeea86",
-                "name": "Patrul",
-                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
-                "iticketLink": null,
-                "country": "Qazaxıstan",
-                "director": "Rustem Omarov",
-                "actors": [
-                    "Renat Muhambayev",
-                    "Tambi Masayev",
-                    "Imanbek",
-                    "Adilcan Şombalov"
-                ],
-                "genres": [
-                    {
-                        "id": "67729bcbbf13b4256e98c0ff",
-                        "title": "Komediya"
-                    }
-                ],
-                "movieId": 0,
-                "duration": 110,
-                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
-                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
-                "year": 2025,
-                "ageLimit": "SIXTEEN",
-                "languages": [
-                    "RU"
-                ],
-                "image": "1745482450359__.png",
-                "subtitles": [
-                    "AZ"
-                ],
-                "trailerUrl": "",
-                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
-                "active": true,
-                "preSale": true
-            },
-            "hallId": "678761f1a6c6f668e693ef92",
-            "hallTitle": "Zal: 5",
-            "theatreId": "675aea102acad3103ea74531",
-            "theatreTitle": "Metro Park",
-            "onlineSale": true,
-            "active": true
-        }
-    ]
+  "avtomobiller": [
+    {
+      "id": 1,
+      "marka": "Toyota",
+      "model": "Sedan",
+      "spesifik_model": "Camry",
+      "il": 2022,
+      "yuruyus": 15200,
+      "qiymet": 28500,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "2 il fabrik zəmanəti qalıb",
+      "texniki_muayine": "Bütün təhlükəsizlik yoxlamalarından keçib - 2025-ci ilə qədər etibarlı",
+      "sekil_linki": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 2,
+      "marka": "Hyundai",
+      "model": "SUV",
+      "spesifik_model": "Tucson",
+      "il": 2023,
+      "yuruyus": 8900,
+      "qiymet": 32000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "5 il/60,000 mil güc ötürücü sistemi zəmanəti",
+      "texniki_muayine": "Bu yaxınlarda yoxlanılıb - Bütün sistemlər optimal",
+      "sekil_linki": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 3,
+      "marka": "BMW",
+      "model": "Coupe",
+      "spesifik_model": "4 Series",
+      "il": 2021,
+      "yuruyus": 22000,
+      "qiymet": 45500,
+      "yanacaq": "Benzin",
+      "tutum": 4,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "2022-ci ildə kiçik arxa toqquşma, peşəkar şəkildə təmir edilib",
+      "zemanet": "1 il BMW zəmanəti qalıb",
+      "texniki_muayine": "Yoxlamadan keçib, əyləc diskləri az aşınmış",
+      "sekil_linki": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 4,
+      "marka": "Audi",
+      "model": "Hatchback",
+      "spesifik_model": "A3",
+      "il": 2020,
+      "yuruyus": 35000,
+      "qiymet": 29800,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Yaxşı",
+      "qeza_tarixi": "Bir kiçik dayanacaq hadisəsi, struktur zərəri yoxdur",
+      "zemanet": "Genişləndirilmiş zəmanət satın alına bilər",
+      "texniki_muayine": "6 ay ərzində yeni təkərlər lazımdır, əks halda yaxşı vəziyyətdə",
+      "sekil_linki": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 5,
+      "marka": "Porsche",
+      "model": "Convertible",
+      "spesifik_model": "911 Cabriolet",
+      "il": 2022,
+      "yuruyus": 9500,
+      "qiymet": 125000,
+      "yanacaq": "Benzin",
+      "tutum": 2,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "4 il Porsche zəmanəti qalıb",
+      "texniki_muayine": "Premium vəziyyət - Bütün performans ölçüləri əla",
+      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 6,
+      "marka": "Mazda",
+      "model": "Wagon",
+      "spesifik_model": "CX-9",
+      "il": 2021,
+      "yuruyus": 28000,
+      "qiymet": 31500,
+      "yanacaq": "Benzin",
+      "tutum": 7,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "3 il istehsalçı zəmanəti qalıb",
+      "texniki_muayine": "Müntəzəm baxım güncel - Əla mexaniki vəziyyət",
+      "sekil_linki": "https://images.unsplash.com/photo-1549399505-7e1bfeae835d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 7,
+      "marka": "Land Rover",
+      "model": "SUV",
+      "spesifik_model": "Range Rover Evoque",
+      "il": 2023,
+      "yuruyus": 5200,
+      "qiymet": 48500,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "5 il istehsalçı zəmanəti qalıb",
+      "texniki_muayine": "Fabrik təzə vəziyyət - Bütün sistemlər mükəmməl",
+      "sekil_linki": "https://images.unsplash.com/photo-1606016159991-58d4d84a7e4d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 8,
+      "marka": "Kia",
+      "model": "Pickup",
+      "spesifik_model": "Tasman",
+      "il": 2023,
+      "yuruyus": 12000,
+      "qiymet": 35000,
+      "yanacaq": "Dizel",
+      "tutum": 5,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "10 il/100,000 mil güc ötürücü sistemi zəmanəti",
+      "texniki_muayine": "Ağır işlərdə istifadə yoxlaması keçib - İşə hazır",
+      "sekil_linki": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 9,
+      "marka": "Hyundai",
+      "model": "Van",
+      "spesifik_model": "Staria",
+      "il": 2022,
+      "yuruyus": 18500,
+      "qiymet": 42000,
+      "yanacaq": "Dizel",
+      "tutum": 7,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "3 il kommersiya zəmanəti qalıb",
+      "texniki_muayine": "Kommersiya nəqliyyat vasitəsi yoxlaması keçib - Yük tutumu təsdiqlənib",
+      "sekil_linki": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 10,
+      "marka": "BMW",
+      "model": "Truck",
+      "spesifik_model": "X7",
+      "il": 2021,
+      "yuruyus": 32000,
+      "qiymet": 68000,
+      "yanacaq": "Benzin",
+      "tutum": 7,
+      "veziyyet": "Yaxşı",
+      "qeza_tarixi": "Kiçik yan zərbə, peşəkar şəkildə təmir edilib",
+      "zemanet": "2025-ci ilə qədər genişləndirilmiş zəmanət aktiv",
+      "texniki_muayine": "Lüks komponentlər yoxlanıb - Hava asqısının 12 aydan sonra xidmətə ehtiyacı var",
+      "sekil_linki": "https://images.unsplash.com/photo-1581274110238-5a2ce53d0dcf?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 11,
+      "marka": "Toyota",
+      "model": "Hatchback",
+      "spesifik_model": "Prius",
+      "il": 2023,
+      "yuruyus": 8200,
+      "qiymet": 32000,
+      "yanacaq": "Hybrid",
+      "tutum": 5,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "8 il hibrid sistem zəmanəti",
+      "texniki_muayine": "Hibrid sistem diaqnostikası mükəmməl - Batareya sağlamlığı 98%",
+      "sekil_linki": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 12,
+      "marka": "Audi",
+      "model": "Sedan",
+      "spesifik_model": "A6",
+      "il": 2022,
+      "yuruyus": 15800,
+      "qiymet": 55000,
+      "yanacaq": "Electric",
+      "tutum": 5,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "4 il elektrik nəqliyyat vasitəsi zəmanəti qalıb",
+      "texniki_muayine": "Elektrik sistemləri optimal - Batareya məsafəsi orijinalın 95%-i",
+      "sekil_linki": "https://images.unsplash.com/photo-1606016140965-726b2e7f67ad?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 13,
+      "marka": "Porsche",
+      "model": "Coupe",
+      "spesifik_model": "Taycan",
+      "il": 2023,
+      "yuruyus": 4500,
+      "qiymet": 89000,
+      "yanacaq": "Electric",
+      "tutum": 4,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "4 il Porsche elektrik zəmanəti qalıb",
+      "texniki_muayine": "Performans elektrik yoxlaması keçib - Doldurma sistemi təsdiqlənib",
+      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 14,
+      "marka": "Mazda",
+      "model": "Hatchback",
+      "spesifik_model": "Mazda3",
+      "il": 2020,
+      "yuruyus": 41000,
+      "qiymet": 22500,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Orta",
+      "qeza_tarixi": "2021-ci ildə ön toqquşma, təhlükəsizlik yastıqları işləyib və dəyişdirilib",
+      "zemanet": "İstehsalçı zəmanəti qalmayıb",
+      "texniki_muayine": "Kiçik mühərrik səs-küyü qeyd edilib - Transmissiya mayesinin dəyişdirilməsi lazımdır",
+      "sekil_linki": "https://images.unsplash.com/photo-1549399505-2d34c1fb6b43?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 15,
+      "marka": "Land Rover",
+      "model": "Convertible",
+      "spesifik_model": "Range Rover Evoque Convertible",
+      "il": 2021,
+      "yuruyus": 25000,
+      "qiymet": 52000,
+      "yanacaq": "Benzin",
+      "tutum": 4,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "2 il zəmanət qalıb",
+      "texniki_muayine": "Açıla bilən mexanizm yoxlanıb - Bütün hava möhürləri yaxşıdır",
+      "sekil_linki": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 16,
+      "marka": "Kia",
+      "model": "SUV",
+      "spesifik_model": "Sorento",
+      "il": 2022,
+      "yuruyus": 19500,
+      "qiymet": 33500,
+      "yanacaq": "Hybrid",
+      "tutum": 7,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "7 il hibrid zəmanət qalıb",
+      "texniki_muayine": "Hibrid ötürücü sistem yoxlaması keçib - Bütün təkər sistemi təsdiqlənib",
+      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 17,
+      "marka": "Hyundai",
+      "model": "Wagon",
+      "spesifik_model": "Santa Fe",
+      "il": 2021,
+      "yuruyus": 33000,
+      "qiymet": 29500,
+      "yanacaq": "Benzin",
+      "tutum": 7,
+      "veziyyet": "Yaxşı",
+      "qeza_tarixi": "Kiçik qanad zədələnməsi, struktur zədə yoxdur",
+      "zemanet": "4 il güc ötürücü sistemi zəmanəti qalıb",
+      "texniki_muayine": "Rutin baxım tələb olunur - Əyləc diskləri 30%-də",
+      "sekil_linki": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 18,
+      "marka": "BMW",
+      "model": "Sedan",
+      "spesifik_model": "5 Series",
+      "il": 2023,
+      "yuruyus": 7800,
+      "qiymet": 62000,
+      "yanacaq": "Other",
+      "tutum": 5,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "4 il BMW hərtərəfli zəmanəti qalıb",
+      "texniki_muayine": "Lüks sedan yoxlanması tamamlanıb - Bütün premium funksiyalar işləyir",
+      "sekil_linki": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 19,
+      "marka": "Toyota",
+      "model": "Pickup",
+      "spesifik_model": "Tacoma",
+      "il": 2020,
+      "yuruyus": 48000,
+      "qiymet": 28500,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Yaxşı",
+      "qeza_tarixi": "İş zamanı kiçik zərbələr, yük qoruyucusu quraşdırılıb",
+      "zemanet": "Güc ötürücü sistemi zəmanəti bitib",
+      "texniki_muayine": "4WD sistem test edilib - Asqı aşınması istifadəyə uyğundur",
+      "sekil_linki": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 20,
+      "marka": "Audi",
+      "model": "SUV",
+      "spesifik_model": "Q7",
+      "il": 2022,
+      "yuruyus": 21000,
+      "qiymet": 67000,
+      "yanacaq": "Benzin",
+      "tutum": 7,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "3 il Audi zəmanəti qalıb",
+      "texniki_muayine": "Lüks SUV yoxlaması keçib - Quattro sistem təsdiqlənib",
+      "sekil_linki": "https://images.unsplash.com/photo-1606016140965-726b2e7f67ad?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 21,
+      "marka": "Porsche",
+      "model": "Truck",
+      "spesifik_model": "Cayenne",
+      "il": 2021,
+      "yuruyus": 27000,
+      "qiymet": 75000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "2 il Porsche zəmanəti qalıb",
+      "texniki_muayine": "İdman SUV yoxlaması tamamlanıb - Performans sistemləri optimal",
+      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 22,
+      "marka": "Mazda",
+      "model": "Van",
+      "spesifik_model": "CX-8",
+      "il": 2023,
+      "yuruyus": 9200,
+      "qiymet": 38000,
+      "yanacaq": "Dizel",
+      "tutum": 7,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "5 il istehsalçı zəmanəti qalıb",
+      "texniki_muayine": "Ailə nəqliyyat vasitəsi yoxlaması keçib - Təhlükəsizlik sistemləri təsdiqlənib",
+      "sekil_linki": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 23,
+      "marka": "Land Rover",
+      "model": "Hatchback",
+      "spesifik_model": "Discovery Sport",
+      "il": 2020,
+      "yuruyus": 39000,
+      "qiymet": 35500,
+      "yanacaq": "Benzin",
+      "tutum": 7,
+      "veziyyet": "Yaxşı",
+      "qeza_tarixi": "Kiçik offroad zədəsi, peşəkar şəkildə təmir edilib",
+      "zemanet": "Genişləndirilmiş zəmanət mövcuddur",
+      "texniki_muayine": "Offroad qabiliyyət test edilib - Ərazi cavab sistemi funksionaldır",
+      "sekil_linki": "https://images.unsplash.com/photo-1606016159991-58d4d84a7e4d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 24,
+      "marka": "Kia",
+      "model": "Sedan",
+      "spesifik_model": "K5",
+      "il": 2023,
+      "yuruyus": 6500,
+      "qiymet": 27500,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "10 il/100,000 mil güc ötürücü sistemi zəmanəti",
+      "texniki_muayine": "Yeni nəqliyyat vasitəsi yoxlaması - Bütün sistemlər mükəmməl",
+      "sekil_linki": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 25,
+      "marka": "Hyundai",
+      "model": "Coupe",
+      "spesifik_model": "Elantra N",
+      "il": 2022,
+      "yuruyus": 14500,
+      "qiymet": 34000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "5 il performans zəmanəti qalıb",
+      "texniki_muayine": "Performans nəqliyyat vasitəsi yoxlaması - Turbo sistem təsdiqlənib",
+      "sekil_linki": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 26,
+      "marka": "BMW",
+      "model": "Convertible",
+      "spesifik_model": "Z4",
+      "il": 2021,
+      "yuruyus": 18200,
+      "qiymet": 58000,
+      "yanacaq": "Benzin",
+      "tutum": 2,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "2 il BMW zəmanəti qalıb",
+      "texniki_muayine": "Roadster yoxlaması tamamlanıb - Yumşaq dam mexanizmi mükəmməl",
+      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 27,
+      "marka": "Toyota",
+      "model": "Van",
+      "spesifik_model": "Sienna",
+      "il": 2022,
+      "yuruyus": 23500,
+      "qiymet": 41000,
+      "yanacaq": "Hybrid",
+      "tutum": 7,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "6 il hibrid zəmanət qalıb",
+      "texniki_muayine": "Ailə mikroavtobusu yoxlaması - Bütün təkər hibrid sistem təsdiqlənib",
+      "sekil_linki": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 28,
+      "marka": "Audi",
+      "model": "Wagon",
+      "spesifik_model": "A4 Allroad",
+      "il": 2021,
+      "yuruyus": 29000,
+      "qiymet": 47500,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "2 il Audi zəmanəti qalıb",
+      "texniki_muayine": "Bütün yol yoxlaması keçib - Quattro ultra sistem optimal",
+      "sekil_linki": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 29,
+      "marka": "Porsche",
+      "model": "Hatchback",
+      "spesifik_model": "Macan",
+      "il": 2023,
+      "yuruyus": 3800,
+      "qiymet": 64000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "4 il Porsche zəmanəti qalıb",
+      "texniki_muayine": "Kompakt SUV yoxlaması - Sport Chrono paketi təsdiqlənib",
+      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 30,
+      "marka": "Mazda",
+      "model": "Pickup",
+      "spesifik_model": "BT-50",
+      "il": 2020,
+      "yuruyus": 52000,
+      "qiymet": 24500,
+      "yanacaq": "Dizel",
+      "tutum": 5,
+      "veziyyet": "Orta",
+      "qeza_tarixi": "İş nəqliyyat vasitəsi - çoxsaylı kiçik zərbələr",
+      "zemanet": "Zəmanət qalmayıb",
+      "texniki_muayine": "Kommersiya istifadə yoxlaması - Aşınmaya baxmayaraq yük tutumu təsdiqlənib",
+      "sekil_linki": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 31,
+      "marka": "Land Rover",
+      "model": "Sedan",
+      "spesifik_model": "Velar",
+      "il": 2022,
+      "yuruyus": 16000,
+      "qiymet": 72000,
+      "yanacaq": "Electric",
+      "tutum": 5,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "5 il elektrik nəqliyyat vasitəsi zəmanəti qalıb",
+      "texniki_muayine": "Elektrik lüks yoxlaması - Batareya idarəetmə sistemi optimal",
+      "sekil_linki": "https://images.unsplash.com/photo-1606016140965-726b2e7f67ad?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 32,
+      "marka": "Kia",
+      "model": "Truck",
+      "spesifik_model": "Telluride",
+      "il": 2021,
+      "yuruyus": 31000,
+      "qiymet": 42000,
+      "yanacaq": "Benzin",
+      "tutum": 7,
+      "veziyyet": "Yaxşı",
+      "qeza_tarixi": "Kiçik arxa toqquşma, peşəkar şəkildə təmir edilib",
+      "zemanet": "6 il güc ötürücü sistemi zəmanəti qalıb",
+      "texniki_muayine": "Böyük SUV yoxlaması - Çəkmə qabiliyyəti təsdiqlənib",
+      "sekil_linki": "https://images.unsplash.com/photo-1581274110238-5a2ce53d0dcf?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 33,
+      "marka": "Hyundai",
+      "model": "Hatchback",
+      "spesifik_model": "Kona",
+      "il": 2023,
+      "yuruyus": 8700,
+      "qiymet": 25500,
+      "yanacaq": "Electric",
+      "tutum": 5,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "8 il elektrik nəqliyyat vasitəsi zəmanəti qalıb",
+      "texniki_muayine": "Elektrik crossover yoxlaması - Sürətli doldurma qabiliyyəti təsdiqlənib",
+      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 34,
+      "marka": "BMW",
+      "model": "SUV",
+      "spesifik_model": "X5",
+      "il": 2020,
+      "yuruyus": 44000,
+      "qiymet": 52000,
+      "yanacaq": "Benzin",
+      "tutum": 7,
+      "veziyyet": "Yaxşı",
+      "qeza_tarixi": "Ön park sensoru zədəsi, dəyişdirilib",
+      "zemanet": "Genişləndirilmiş zəmanət aktiv",
+      "texniki_muayine": "Premium SUV yoxlaması - xDrive sistem tezliklə xidmətə ehtiyacı var",
+      "sekil_linki": "https://images.unsplash.com/photo-1581274110238-5a2ce53d0dcf?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 35,
+      "marka": "Toyota",
+      "model": "Truck",
+      "spesifik_model": "Tundra",
+      "il": 2023,
+      "yuruyus": 11000,
+      "qiymet": 48000,
+      "yanacaq": "Hybrid",
+      "tutum": 5,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "5 il hibrid yük maşını zəmanəti qalıb",
+      "texniki_muayine": "Ağır hibrid yoxlaması - Çəkmə paketi təsdiqlənib",
+      "sekil_linki": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 36,
+      "marka": "Audi",
+      "model": "Convertible",
+      "spesifik_model": "A5 Cabriolet",
+      "il": 2021,
+      "yuruyus": 22500,
+      "qiymet": 51000,
+      "yanacaq": "Benzin",
+      "tutum": 4,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "2 il Audi zəmanəti qalıb",
+      "texniki_muayine": "Açıla bilən yoxlaması keçib - Yumşaq dam əla vəziyyətdə",
+      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 37,
+      "marka": "Porsche",
+      "model": "Sedan",
+      "spesifik_model": "Panamera",
+      "il": 2022,
+      "yuruyus": 13500,
+      "qiymet": 95000,
+      "yanacaq": "Hybrid",
+      "tutum": 4,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "3 il Porsche hibrid zəmanəti qalıb",
+      "texniki_muayine": "Lüks hibrid yoxlaması - Sport Turismo performansı təsdiqlənib",
+      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 38,
+      "marka": "Mazda",
+      "model": "Coupe",
+      "spesifik_model": "MX-5 Miata",
+      "il": 2021,
+      "yuruyus": 18900,
+      "qiymet": 32000,
+      "yanacaq": "Benzin",
+      "tutum": 2,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "2 il Mazda zəmanəti qalıb",
+      "texniki_muayine": "İdman avtomobili yoxlaması - Manual transmissiya və asqı optimal",
+      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 39,
+      "marka": "Land Rover",
+      "model": "Pickup",
+      "spesifik_model": "Defender 130",
+      "il": 2023,
+      "yuruyus": 6200,
+      "qiymet": 68000,
+      "yanacaq": "Benzin",
+      "tutum": 7,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "5 il Land Rover zəmanəti qalıb",
+      "texniki_muayine": "Offroad yoxlaması keçib - Ərazi keçmə sistemi mükəmməl",
+      "sekil_linki": "https://images.unsplash.com/photo-1606016159991-58d4d84a7e4d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 40,
+      "marka": "Kia",
+      "model": "Van",
+      "spesifik_model": "Carnival",
+      "il": 2022,
+      "yuruyus": 19800,
+      "qiymet": 36500,
+      "yanacaq": "Benzin",
+      "tutum": 7,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "8 il Kia zəmanəti qalıb",
+      "texniki_muayine": "Ailə mikroavtobusu yoxlaması - Bütün oturacaq konfiqurasiyaları test edilib",
+      "sekil_linki": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 41,
+      "marka": "Hyundai",
+      "model": "Truck",
+      "spesifik_model": "Palisade",
+      "il": 2023,
+      "yuruyus": 5800,
+      "qiymet": 45000,
+      "yanacaq": "Benzin",
+      "tutum": 7,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "10 il fabrik zəmanəti",
+      "texniki_muayine": "Premium SUV yoxlaması - Bütün təhlükəsizlik sistemləri aktiv",
+      "sekil_linki": "https://images.unsplash.com/photo-1581274110238-5a2ce53d0dcf?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 42,
+      "marka": "BMW",
+      "model": "Wagon",
+      "spesifik_model": "3 Series Touring",
+      "il": 2021,
+      "yuruyus": 26500,
+      "qiymet": 49500,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "2 il BMW zəmanəti qalıb",
+      "texniki_muayine": "Wagon yoxlaması - Yük sahəsi və asqı sistemləri yoxlanıb",
+      "sekil_linki": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 43,
+      "marka": "Toyota",
+      "model": "Coupe",
+      "spesifik_model": "GR Supra",
+      "il": 2022,
+      "yuruyus": 12400,
+      "qiymet": 58000,
+      "yanacaq": "Benzin",
+      "tutum": 2,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "3 il Toyota idman avtomobili zəmanəti",
+      "texniki_muayine": "İdman avtomobili yoxlaması - Turbo mühərrik və fırlanma momentu optimal",
+      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 44,
+      "marka": "Audi",
+      "model": "Pickup",
+      "spesifik_model": "Q8",
+      "il": 2020,
+      "yuruyus": 38500,
+      "qiymet": 61000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Yaxşı",
+      "qeza_tarixi": "Kiçik daş çarpması ön şüşədə, dəyişdirilib",
+      "zemanet": "Fabrik zəmanəti bitib",
+      "texniki_muayine": "Lüks crossover yoxlaması - Quattro sistemi və hava asqısı yoxlanıb",
+      "sekil_linki": "https://images.unsplash.com/photo-1606016140965-726b2e7f67ad?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 45,
+      "marka": "Porsche",
+      "model": "Van",
+      "spesifik_model": "Cayenne Coupe",
+      "il": 2023,
+      "yuruyus": 4200,
+      "qiymet": 82000,
+      "yanacaq": "Hybrid",
+      "tutum": 5,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "4 il Porsche hibrid zəmanəti",
+      "texniki_muayine": "Hibrid performans SUV yoxlaması - E-hibrid sistemin səmərəliliyi 97%",
+      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 46,
+      "marka": "Mazda",
+      "model": "Convertible",
+      "spesifik_model": "MX-5 RF",
+      "il": 2021,
+      "yuruyus": 15600,
+      "qiymet": 35500,
+      "yanacaq": "Benzin",
+      "tutum": 2,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "2 il Mazda zəmanəti qalıb",
+      "texniki_muayine": "Sərt damı olan kabriolet yoxlaması - RF mexanizmi mükəmməl işləyir",
+      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 47,
+      "marka": "Land Rover",
+      "model": "Coupe",
+      "spesifik_model": "Range Rover Sport",
+      "il": 2022,
+      "yuruyus": 18200,
+      "qiymet": 78000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "3 il Land Rover zəmanəti qalıb",
+      "texniki_muayine": "İdman SUV yoxlaması - Terrain Response və hava asqısı sistemləri test edilib",
+      "sekil_linki": "https://images.unsplash.com/photo-1606016159991-58d4d84a7e4d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 48,
+      "marka": "Kia",
+      "model": "Hatchback",
+      "spesifik_model": "Rio",
+      "il": 2020,
+      "yuruyus": 41000,
+      "qiymet": 18500,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Orta",
+      "qeza_tarixi": "İki kiçik park qəzası, kosmetik təmirlər edilib",
+      "zemanet": "Zəmanət qalmayıb",
+      "texniki_muayine": "Şəhər avtomobili yoxlaması - Mühərrik yağının dəyişdirilməsi lazımdır",
+      "sekil_linki": "https://images.unsplash.com/photo-1549399505-2d34c1fb6b43?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 49,
+      "marka": "Hyundai",
+      "model": "Pickup",
+      "spesifik_model": "Santa Cruz",
+      "il": 2023,
+      "yuruyus": 7800,
+      "qiymet": 32000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "5 il kompakt pickup zəmanəti",
+      "texniki_muayine": "Kompakt pickup yoxlaması - AWD sistemi və yük yeri qoruyucuları yoxlanıb",
+      "sekil_linki": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 50,
+      "marka": "BMW",
+      "model": "Hatchback",
+      "spesifik_model": "1 Series",
+      "il": 2021,
+      "yuruyus": 24000,
+      "qiymet": 33000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "2 il BMW zəmanəti qalıb",
+      "texniki_muayine": "Kompakt premium avtomobil yoxlaması - Turbo mühərrik performansı yaxşıdır",
+      "sekil_linki": "https://images.unsplash.com/photo-1549399505-2d34c1fb6b43?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 51,
+      "marka": "Toyota",
+      "model": "SUV",
+      "spesifik_model": "Highlander",
+      "il": 2022,
+      "yuruyus": 16800,
+      "qiymet": 38000,
+      "yanacaq": "Hybrid",
+      "tutum": 7,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "6 il hibrid SUV zəmanəti",
+      "texniki_muayine": "Hibrid SUV yoxlaması - AWD hibrid sistemin səmərəliliyi 96%",
+      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 52,
+      "marka": "Audi",
+      "model": "Truck",
+      "spesifik_model": "Q5",
+      "il": 2020,
+      "yuruyus": 42000,
+      "qiymet": 44000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Yaxşı",
+      "qeza_tarixi": "Arxa tamponun kiçik zədələnməsi, təmir edilib",
+      "zemanet": "Fabrik zəmanəti bitib, genişləndirilmiş zəmanət mövcuddur",
+      "texniki_muayine": "Kompakt lüks SUV yoxlaması - Quattro sistemi xidmətə ehtiyacı var",
+      "sekil_linki": "https://images.unsplash.com/photo-1606016140965-726b2e7f67ad?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 53,
+      "marka": "Porsche",
+      "model": "Wagon",
+      "spesifik_model": "Panamera Sport Turismo",
+      "il": 2023,
+      "yuruyus": 6200,
+      "qiymet": 105000,
+      "yanacaq": "Hybrid",
+      "tutum": 5,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "4 il Porsche hibrid zəmanəti",
+      "texniki_muayine": "Lüks performans wagon yoxlaması - E-hibrid və PDK transmissiya mükəmməl",
+      "sekil_linki": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 54,
+      "marka": "Mazda",
+      "model": "Sedan",
+      "spesifik_model": "Mazda6",
+      "il": 2021,
+      "yuruyus": 28500,
+      "qiymet": 26500,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "2 il Mazda zəmanəti qalıb",
+      "texniki_muayine": "Orta ölçülü sedan yoxlaması - SkyActiv mühərrik və transmissiya optimal",
+      "sekil_linki": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 55,
+      "marka": "Land Rover",
+      "model": "Van",
+      "spesifik_model": "Discovery",
+      "il": 2022,
+      "yuruyus": 14500,
+      "qiymet": 65000,
+      "yanacaq": "Dizel",
+      "tutum": 7,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "4 il Land Rover zəmanəti qalıb",
+      "texniki_muayine": "Böyük ailə SUV yoxlaması - Terrain Response 2 sistemi və hava asqısı mükəmməl",
+      "sekil_linki": "https://images.unsplash.com/photo-1606016159991-58d4d84a7e4d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 56,
+      "marka": "Kia",
+      "model": "Coupe",
+      "spesifik_model": "Stinger",
+      "il": 2021,
+      "yuruyus": 21500,
+      "qiymet": 41000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "5 il Kia performans zəmanəti qalıb",
+      "texniki_muayine": "Performans sedan yoxlaması - Twin turbo V6 mühərrik və RWD sistem yoxlanıb",
+      "sekil_linki": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 57,
+      "marka": "Hyundai",
+      "model": "Sedan",
+      "spesifik_model": "Sonata",
+      "il": 2020,
+      "yuruyus": 36000,
+      "qiymet": 24000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Yaxşı",
+      "qeza_tarixi": "Sağ tərəfdə kiçik cızıq, boyama təmiri edilib",
+      "zemanet": "1 il güc ötürücü sistemi zəmanəti qalıb",
+      "texniki_muayine": "Orta ölçülü sedan yoxlaması - CVT transmissiya səmərəli işləyir",
+      "sekil_linki": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 58,
+      "marka": "BMW",
+      "model": "Pickup",
+      "spesifik_model": "X3",
+      "il": 2023,
+      "yuruyus": 9500,
+      "qiymet": 54000,
+      "yanacaq": "Electric",
+      "tutum": 5,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "4 il BMW elektrik zəmanəti",
+      "texniki_muayine": "Elektrik SUV yoxlaması - iX3 elektrik sistemləri və batareya idarəetməsi optimal",
+      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 59,
+      "marka": "Toyota",
+      "model": "Convertible",
+      "spesifik_model": "86 Convertible",
+      "il": 2022,
+      "yuruyus": 13200,
+      "qiymet": 36000,
+      "yanacaq": "Benzin",
+      "tutum": 4,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "3 il Toyota idman avtomobili zəmanəti",
+      "texniki_muayine": "İdman kabriolet yoxlaması - Boxer mühərrik və manual transmissiya mükəmməl",
+      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 60,
+      "marka": "Audi",
+      "model": "Coupe",
+      "spesifik_model": "TT",
+      "il": 2021,
+      "yuruyus": 19800,
+      "qiymet": 48000,
+      "yanacaq": "Benzin",
+      "tutum": 2,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "2 il Audi idman avtomobili zəmanəti qalıb",
+      "texniki_muayine": "Kompakt idman avtomobili yoxlaması - TFSI mühərrik və Quattro sistem yoxlanıb",
+      "sekil_linki": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 61,
+      "marka": "Porsche",
+      "model": "SUV",
+      "spesifik_model": "Macan GTS",
+      "il": 2020,
+      "yuruyus": 35000,
+      "qiymet": 62000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Yaxşı",
+      "qeza_tarixi": "Kiçik offroad zədəsi, arxa diferensial təmir edilib",
+      "zemanet": "Fabrik zəmanəti bitib",
+      "texniki_muayine": "Performans SUV yoxlaması - PDK transmissiya və Sport Chrono yaxşı vəziyyətdə",
+      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 62,
+      "marka": "Mazda",
+      "model": "Truck",
+      "spesifik_model": "CX-5",
+      "il": 2023,
+      "yuruyus": 8400,
+      "qiymet": 29000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "5 il Mazda zəmanəti",
+      "texniki_muayine": "Kompakt crossover yoxlaması - SkyActiv-G mühərrik və i-Activ AWD mükəmməl",
+      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 63,
+      "marka": "Land Rover",
+      "model": "Wagon",
+      "spesifik_model": "Range Rover Velar",
+      "il": 2021,
+      "yuruyus": 23500,
+      "qiymet": 69000,
+      "yanacaq": "Electric",
+      "tutum": 5,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "3 il Land Rover elektrik zəmanəti qalıb",
+      "texniki_muayine": "Elektrik lüks crossover yoxlaması - EV drivetrain və regen braking sistemləri optimal",
+      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 64,
+      "marka": "Kia",
+      "model": "Wagon",
+      "spesifik_model": "Sportage",
+      "il": 2022,
+      "yuruyus": 17200,
+      "qiymet": 31000,
+      "yanacaq": "Hybrid",
+      "tutum": 5,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "7 il Kia hibrid zəmanəti qalıb",
+      "texniki_muayine": "Hibrid crossover yoxlaması - HEV sistem və regenerativ əyləclər yoxlanıb",
+      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 65,
+      "marka": "Hyundai",
+      "model": "Convertible",
+      "spesifik_model": "Veloster N",
+      "il": 2020,
+      "yuruyus": 31000,
+      "qiymet": 28000,
+      "yanacaq": "Benzin",
+      "tutum": 4,
+      "veziyyet": "Yaxşı",
+      "qeza_tarixi": "Trek zamanı kiçik zərbə, döyülmüş hissələr düzəldilir",
+      "zemanet": "Zəmanət qalmayıb",
+      "texniki_muayine": "Performans hetçbek yoxlaması - Turbo mühərrik yaxşıdır, asqının bəzi hissələri aşınıb",
+      "sekil_linki": "https://images.unsplash.com/photo-1549399505-2d34c1fb6b43?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 66,
+      "marka": "BMW",
+      "model": "Van",
+      "spesifik_model": "X6",
+      "il": 2022,
+      "yuruyus": 11800,
+      "qiymet": 73000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "3 il BMW zəmanəti qalıb",
+      "texniki_muayine": "Coupe-SUV yoxlaması - M Performance paketinin bütün komponentləri yoxlanıb",
+      "sekil_linki": "https://images.unsplash.com/photo-1581274110238-5a2ce53d0dcf?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 67,
+      "marka": "Toyota",
+      "model": "Hatchback",
+      "spesifik_model": "Corolla Hatchback",
+      "il": 2021,
+      "yuruyus": 29500,
+      "qiymet": 22000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "2 il Toyota zəmanəti qalıb",
+      "texniki_muayine": "Kompakt hetçbek yoxlaması - CVT transmissiya və Toyota Safety Sense sistemləri aktiv",
+      "sekil_linki": "https://images.unsplash.com/photo-1549399505-2d34c1fb6b43?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 68,
+      "marka": "Audi",
+      "model": "Van",
+      "spesifik_model": "Q3",
+      "il": 2023,
+      "yuruyus": 6800,
+      "qiymet": 42000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "4 il Audi zəmanəti",
+      "texniki_muayine": "Kompakt lüks SUV yoxlaması - Quattro ultra və Virtual Cockpit sistemləri test edilib",
+      "sekil_linki": "https://images.unsplash.com/photo-1606016140965-726b2e7f67ad?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 69,
+      "marka": "Porsche",
+      "model": "Pickup",
+      "spesifik_model": "718 Boxster",
+      "il": 2021,
+      "yuruyus": 16500,
+      "qiymet": 71000,
+      "yanacaq": "Benzin",
+      "tutum": 2,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "2 il Porsche zəmanəti qalıb",
+      "texniki_muayine": "Mid-engine roadster yoxlaması - PDK və PASM sistemləri mükəmməl şəkildə işləyir",
+      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 70,
+      "marka": "Mazda",
+      "model": "SUV",
+      "spesifik_model": "CX-30",
+      "il": 2022,
+      "yuruyus": 14200,
+      "qiymet": 27500,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "3 il Mazda zəmanəti qalıb",
+      "texniki_muayine": "Kompakt crossover yoxlaması - SkyActiv teknologiyası və i-Activsense təhlükəsizlik sistemləri aktiv",
+      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 71,
+      "marka": "Land Rover",
+      "model": "Truck",
+      "spesifik_model": "Defender 90",
+      "il": 2023,
+      "yuruyus": 5600,
+      "qiymet": 58000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "5 il Land Rover offroad zəmanəti",
+      "texniki_muayine": "Offroad SUV yoxlaması - Terrain Response və ClearSight sistemləri test edilib",
+      "sekil_linki": "https://images.unsplash.com/photo-1606016159991-58d4d84a7e4d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 72,
+      "marka": "Kia",
+      "model": "Convertible",
+      "spesifik_model": "Forte",
+      "il": 2021,
+      "yuruyus": 22800,
+      "qiymet": 23500,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "4 il Kia zəmanəti qalıb",
+      "texniki_muayine": "Kompakt sedan yoxlaması - CVT transmissiya və Kia Drive Wise sistemləri yoxlanıb",
+      "sekil_linki": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 73,
+      "marka": "Hyundai",
+      "model": "Wagon",
+      "spesifik_model": "Venue",
+      "il": 2020,
+      "yuruyus": 38500,
+      "qiymet": 19500,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Orta",
+      "qeza_tarixi": "Ön bamper zədəsi, plastik hissələr dəyişdirilib",
+      "zemanet": "Zəmanət qalmayıb",
+      "texniki_muayine": "Sub-kompakt SUV yoxlaması - Mühərrik yaxşıdır, asqı elementlərinin bəziləri aşınıb",
+      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 74,
+      "marka": "BMW",
+      "model": "Coupe",
+      "spesifik_model": "2 Series",
+      "il": 2023,
+      "yuruyus": 7200,
+      "qiymet": 39000,
+      "yanacaq": "Benzin",
+      "tutum": 4,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "4 il BMW zəmanəti",
+      "texniki_muayine": "Kompakt coupe yoxlaması - TwinPower Turbo mühərrik və xDrive sistemləri mükəmməl",
+      "sekil_linki": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 75,
+      "marka": "Toyota",
+      "model": "Wagon",
+      "spesifik_model": "Venza",
+      "il": 2022,
+      "yuruyus": 18900,
+      "qiymet": 35000,
+      "yanacaq": "Hybrid",
+      "tutum": 5,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "5 il Toyota hibrid zəmanəti qalıb",
+      "texniki_muayine": "Hibrid crossover yoxlaması - AWD hibrid sistemin batareya səmərəliliyi 97%",
+      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 76,
+      "marka": "Audi",
+      "model": "Sedan",
+      "spesifik_model": "A8",
+      "il": 2021,
+      "yuruyus": 21500,
+      "qiymet": 87000,
+      "yanacaq": "Hybrid",
+      "tutum": 5,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "2 il Audi hibrid zəmanəti qalıb",
+      "texniki_muayine": "Lüks hibrid limuzin yoxlaması - TFSI e hibrid sistemin bütün komponentləri optimal",
+      "sekil_linki": "https://images.unsplash.com/photo-1606016140965-726b2e7f67ad?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 77,
+      "marka": "Porsche",
+      "model": "Hatchback",
+      "spesifik_model": "718 Cayman",
+      "il": 2020,
+      "yuruyus": 33000,
+      "qiymet": 65000,
+      "yanacaq": "Benzin",
+      "tutum": 2,
+      "veziyyet": "Yaxşı",
+      "qeza_tarixi": "Trek zamanı kiçik döyülmə, kaporta işləri görülüb",
+      "zemanet": "Fabrik zəmanəti bitib",
+      "texniki_muayine": "Mid-engine idman avtomobili yoxlaması - Turbo mühərrik və şassi sistemləri yaxşı vəziyyətdə",
+      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 78,
+      "marka": "Mazda",
+      "model": "Van",
+      "spesifik_model": "CX-90",
+      "il": 2023,
+      "yuruyus": 4800,
+      "qiymet": 42000,
+      "yanacaq": "Hybrid",
+      "tutum": 7,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "5 il Mazda hibrid zəmanəti",
+      "texniki_muayine": "Böyük hibrid SUV yoxlaması - e-SkyActiv hibrid sistemin performansı mükəmməl",
+      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 79,
+      "marka": "Land Rover",
+      "model": "Sedan",
+      "spesifik_model": "Range Rover",
+      "il": 2022,
+      "yuruyus": 12600,
+      "qiymet": 95000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "4 il Land Rover premium zəmanəti qalıb",
+      "texniki_muayine": "Lüks SUV yoxlaması - Bütün premium sistemlər və hava asqısı mükəmməl işləyir",
+      "sekil_linki": "https://images.unsplash.com/photo-1606016159991-58d4d84a7e4d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 80,
+      "marka": "Kia",
+      "model": "Truck",
+      "spesifik_model": "Niro",
+      "il": 2021,
+      "yuruyus": 26000,
+      "qiymet": 28500,
+      "yanacaq": "Electric",
+      "tutum": 5,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "6 il Kia elektrik zəmanəti qalıb",
+      "texniki_muayine": "Elektrik crossover yoxlaması - EV6 platformu və fast charging sistemi yoxlanıb",
+      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 81,
+      "marka": "Hyundai",
+      "model": "Hatchback",
+      "spesifik_model": "i30",
+      "il": 2022,
+      "yuruyus": 15400,
+      "qiymet": 25000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "4 il Hyundai zəmanəti qalıb",
+      "texniki_muayine": "Kompakt hetçbek yoxlaması - SmartStream mühərrik və Hyundai SmartSense sistemləri aktiv",
+      "sekil_linki": "https://images.unsplash.com/photo-1549399505-2d34c1fb6b43?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 82,
+      "marka": "BMW",
+      "model": "Sedan",
+      "spesifik_model": "7 Series",
+      "il": 2023,
+      "yuruyus": 6400,
+      "qiymet": 98000,
+      "yanacaq": "Electric",
+      "tutum": 5,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "4 il BMW elektrik limuzin zəmanəti",
+      "texniki_muayine": "Elektrik lüks limuzin yoxlaması - iDrive 8 və elektrik drivetrain sistemləri mükəmməl",
+      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 83,
+      "marka": "Toyota",
+      "model": "Pickup",
+      "spesifik_model": "4Runner",
+      "il": 2020,
+      "yuruyus": 45000,
+      "qiymet": 35000,
+      "yanacaq": "Benzin",
+      "tutum": 7,
+      "veziyyet": "Yaxşı",
+      "qeza_tarixi": "Offroad istifadə zədələri, qoruyucu elementlər əlavə edilib",
+      "zemanet": "Zəmanət qalmayıb",
+      "texniki_muayine": "Offroad SUV yoxlaması - 4WD sistem və diferensial kilidləri işlək vəziyyətdə",
+      "sekil_linki": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 84,
+      "marka": "Audi",
+      "model": "Convertible",
+      "spesifik_model": "R8 Spyder",
+      "il": 2022,
+      "yuruyus": 8900,
+      "qiymet": 185000,
+      "yanacaq": "Benzin",
+      "tutum": 2,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "3 il Audi supercar zəmanəti qalıb",
+      "texniki_muayine": "Supercar kabriolet yoxlaması - V10 mühərrik və Quattro sport diferensialı mükəmməl",
+      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 85,
+      "marka": "Porsche",
+      "model": "Van",
+      "spesifik_model": "Cayenne Turbo",
+      "il": 2021,
+      "yuruyus": 19500,
+      "qiymet": 115000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "2 il Porsche performans zəmanəti qalıb",
+      "texniki_muayine": "Performans SUV yoxlaması - Twin-turbo V8 və PASM sistemləri yoxlanıb",
+      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 86,
+      "marka": "Mazda",
+      "model": "Convertible",
+      "spesifik_model": "MX-30",
+      "il": 2023,
+      "yuruyus": 7100,
+      "qiymet": 34000,
+      "yanacaq": "Electric",
+      "tutum": 4,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "8 il Mazda elektrik zəmanəti",
+      "texniki_muayine": "Elektrik crossover yoxlaması - Freestyle qapıları və elektrik sistemləri test edilib",
+      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 87,
+      "marka": "Land Rover",
+      "model": "Hatchback",
+      "spesifik_model": "Freelander",
+      "il": 2020,
+      "yuruyus": 41000,
+      "qiymet": 32000,
+      "yanacaq": "Dizel",
+      "tutum": 5,
+      "veziyyet": "Orta",
+      "qeza_tarixi": "Sol ön qanad zədəsi, təmir edilib",
+      "zemanet": "Zəmanət qalmayıb, xidmət müqaviləsi mövcuddur",
+      "texniki_muayine": "Kompakt SUV yoxlaması - Dizel mühərrikin emisyon sistemində kiçik problem var",
+      "sekil_linki": "https://images.unsplash.com/photo-1549399505-2d34c1fb6b43?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 88,
+      "marka": "Kia",
+      "model": "Sedan",
+      "spesifik_model": "Cadenza",
+      "il": 2021,
+      "yuruyus": 24500,
+      "qiymet": 38000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "5 il Kia premium zəmanəti qalıb",
+      "texniki_muayine": "Premium sedan yoxlaması - Lambda V6 mühərrik və lüks komfortlar yoxlanıb",
+      "sekil_linki": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 89,
+      "marka": "Hyundai",
+      "model": "SUV",
+      "spesifik_model": "Nexo",
+      "il": 2022,
+      "yuruyus": 13800,
+      "qiymet": 59000,
+      "yanacaq": "Other",
+      "tutum": 5,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "8 il hidrogen fuel cell zəmanəti qalıb",
+      "texniki_muayine": "Hidrogen yanacaq hüceyrəli SUV yoxlaması - FCEV sistemin səmərəliliyi 95%",
+      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 90,
+      "marka": "BMW",
+      "model": "Truck",
+      "spesifik_model": "iX",
+      "il": 2023,
+      "yuruyus": 5200,
+      "qiymet": 89000,
+      "yanacaq": "Electric",
+      "tutum": 7,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "4 il BMW elektrik SUV zəmanəti",
+      "texniki_muayine": "Elektrik lüks SUV yoxlaması - iDrive sistemin 5G və AI funksiyaları test edilib",
+      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 91,
+      "marka": "Toyota",
+      "model": "Van",
+      "spesifik_model": "Previa",
+      "il": 2021,
+      "yuruyus": 32000,
+      "qiymet": 29500,
+      "yanacaq": "Hybrid",
+      "tutum": 7,
+      "veziyyet": "Yaxşı",
+      "qeza_tarixi": "Arxa sensorlarda kiçik zədə, dəyişdirilib",
+      "zemanet": "2 il Toyota hibrid zəmanəti qalıb",
+      "texniki_muayine": "Hibrid minivan yoxlaması - HSD hibrid sistemi və oturacaq mexanizmləri yoxlanıb",
+      "sekil_linki": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 92,
+      "marka": "Audi",
+      "model": "Hatchback",
+      "spesifik_model": "e-tron GT",
+      "il": 2023,
+      "yuruyus": 4600,
+      "qiymet": 125000,
+      "yanacaq": "Electric",
+      "tutum": 4,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "4 il Audi elektrik supercar zəmanəti",
+      "texniki_muayine": "Elektrik idman avtomobili yoxlaması - 800V arxitektura və quattro electric drivetrain mükəmməl",
+      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 93,
+      "marka": "Porsche",
+      "model": "Truck",
+      "spesifik_model": "911 GT3",
+      "il": 2022,
+      "yuruyus": 6800,
+      "qiymet": 175000,
+      "yanacaq": "Benzin",
+      "tutum": 2,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "3 il Porsche trek avtomobili zəmanəti qalıb",
+      "texniki_muayine": "Trek idman avtomobili yoxlaması - Naturally aspirated mühərrik və aero paket mükəmməl",
+      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 94,
+      "marka": "Mazda",
+      "model": "Wagon",
+      "spesifik_model": "CX-60",
+      "il": 2023,
+      "yuruyus": 8700,
+      "qiymet": 44000,
+      "yanacaq": "Hybrid",
+      "tutum": 7,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Təmiz tarixçə",
+      "zemanet": "5 il Mazda hibrid zəmanəti",
+      "texniki_muayine": "Hibrid premium SUV yoxlaması - e-SkyActiv PHEV sistemin elektrik məsafəsi optimal",
+      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 95,
+      "marka": "Land Rover",
+      "model": "Coupe",
+      "spesifik_model": "Range Rover SVR",
+      "il": 2021,
+      "yuruyus": 16200,
+      "qiymet": 135000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Çox yaxşı",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "2 il Land Rover performans zəmanəti qalıb",
+      "texniki_muayine": "Performans lüks SUV yoxlaması - Supercharged V8 və SVR aero paketi yoxlanıb",
+      "sekil_linki": "https://images.unsplash.com/photo-1606016159991-58d4d84a7e4d?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 96,
+      "marka": "Kia",
+      "model": "Pickup",
+      "spesifik_model": "EV9",
+      "il": 2023,
+      "yuruyus": 3200,
+      "qiymet": 67000,
+      "yanacaq": "Electric",
+      "tutum": 7,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "10 il Kia elektrik SUV zəmanəti",
+      "texniki_muayine": "Elektrik böyük SUV yoxlaması - E-GMP platformu və ultra-fast charging qabiliyyəti test edilib",
+      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 97,
+      "marka": "Hyundai",
+      "model": "Truck",
+      "spesifik_model": "Ioniq 6",
+      "il": 2023,
+      "yuruyus": 6900,
+      "qiymet": 52000,
+      "yanacaq": "Electric",
+      "tutum": 5,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "8 il Hyundai elektrik sedan zəmanəti",
+      "texniki_muayine": "Elektrik streamlined sedan yoxlaması - E-GMP arxitekturanın aerodinamik səmərəliliyi 95%",
+      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 98,
+      "marka": "BMW",
+      "model": "Convertible",
+      "spesifik_model": "i8 Roadster",
+      "il": 2020,
+      "yuruyus": 28500,
+      "qiymet": 145000,
+      "yanacaq": "Hybrid",
+      "tutum": 2,
+      "veziyyet": "Yaxşı",
+      "qeza_tarixi": "Sağ tərəf ayna zədəsi, dəyişdirilib",
+      "zemanet": "Fabrik zəmanəti bitib, BMW servis müqaviləsi var",
+      "texniki_muayine": "Hibrid supercar kabriolet yoxlaması - eDrive sistemi və karbon fiber gövdə yoxlanıb",
+      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 99,
+      "marka": "Toyota",
+      "model": "Truck",
+      "spesifik_model": "Land Cruiser",
+      "il": 2022,
+      "yuruyus": 22000,
+      "qiymet": 89000,
+      "yanacaq": "Hybrid",
+      "tutum": 7,
+      "veziyyet": "Əla",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "4 il Toyota offroad hibrid zəmanəti qalıb",
+      "texniki_muayine": "Hibrid offroad SUV yoxlaması - Multi-terrain hibrid sistemi və CRAWL control mükəmməl",
+      "sekil_linki": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=800&h=600&fit=crop&crop=center"
+    },
+    {
+      "id": 100,
+      "marka": "Audi",
+      "model": "SUV",
+      "spesifik_model": "RS Q8",
+      "il": 2023,
+      "yuruyus": 4100,
+      "qiymet": 145000,
+      "yanacaq": "Benzin",
+      "tutum": 5,
+      "veziyyet": "Yeni kimi",
+      "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
+      "zemanet": "4 il Audi RS performans zəmanəti",
+      "texniki_muayine": "RS performans SUV yoxlaması - Twin-turbo V8 TFSI və quattro sport diferensial sistemləri mükəmməl",
+      "sekil_linki": "https://images.unsplash.com/photo-1606016140965-726b2e7f67ad?w=800&h=600&fit=crop&crop=center"
+    }
+  ],
+  
+  "xulase": [
+    {
+    "toplam_avtomobil": 100,
+    "qiymet_diapazonu": "$18,500 - $185,000",
+    "il_diapazonu": "2020 - 2023",
+    "yanacaq_novleri": {
+      "benzin": 58,
+      "elektrik": 18,
+      "hibrid": 21,
+      "dizel": 4,
+      "diger": 2
+    },
+    "model_novleri": {
+      "sedan": 13,
+      "suv": 15,
+      "coupe": 12,
+      "hatchback": 13,
+      "pickup": 11,
+      "convertible": 12,
+      "wagon": 11,
+      "van": 11,
+      "truck": 12
+    },
+    "oturacaq_tutumu": {
+      "2_oturacaq": 12,
+      "4_oturacaq": 9,
+      "5_oturacaq": 56,
+      "7_plus_oturacaq": 23
+    },
+    "veziyyet_paylanmasi": {
+      "ela": 42,
+      "yeni_kimi": 28,
+      "cox_yaxsi": 21,
+      "yaxsi": 7,
+      "orta": 5
+    },
+    "qeza_tarixi_statistikasi": {
+      "temiz_tarix": 78,
+      "kicik_qeza": 16,
+      "is_zerbeleri": 4,
+      "offroad_zedesi": 2
+    },
+    "zemanet_durumlari": {
+      "aktiv_zemanet": 87,
+      "zemanet_qalmayib": 8,
+      "genislendirilen_zemanet": 5
+    },
+    "marka_paylanmasi": {
+      "toyota": 13,
+      "hyundai": 12,
+      "bmw": 13,
+      "audi": 13,
+      "porsche": 13,
+      "mazda": 12,
+      "land_rover": 12,
+      "kia": 12
+    }
+  }
+]
 }
