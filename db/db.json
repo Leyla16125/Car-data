@@ -2345,5 +2345,40 @@
         "https://hips.hearstapps.com/hmg-prod/images/2020-audi-rs-q8-112-1573833277.jpg?crop=1.00xw:0.892xh;0,0.0392xh&resize=980:*"
       ]
     }
+  ],
+  
+  "summary":[
+    {
+    "markalar": [
+      "Audi",
+      "BMW",
+      "Hyundai",
+      "Kia",
+      "Land Rover",
+      "Mazda",
+      "Porsche",
+      "Toyota"
+    ],
+    "modeller": [
+      "Convertible",
+      "Coupe",
+      "Hatchback",
+      "Pickup",
+      "SUV",
+      "Sedan",
+      "Truck",
+      "Van",
+      "Wagon"
+    ],
+    "iller": [2020, 2021, 2022, 2023],
+    "qiymet_araligi": {
+      "minimum": 18500,
+      "maksimum": 185000
+    },
+    "oturacaq_saylari": [2, 4, 5, 7, 9]
+  }
+
   ]
+
+  
 }
