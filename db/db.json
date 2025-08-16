@@ -179,7 +179,13 @@
       "qeza_tarixi": "Təmiz tarixçə",
       "zemanet": "10 il/100,000 mil güc ötürücü sistemi zəmanəti",
       "texniki_muayine": "Ağır işlərdə istifadə yoxlaması keçib - İşə hazır",
-      "sekil_linki": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=800&h=600&fit=crop&crop=center"
+      "overview":"Kia Tasman 2023 Kia-nın ilk pickup modelidir. O, orta ölçülü pickup segmentində Toyota HiLux və Ford Ranger kimi modellərlə rəqabət aparır. Avtomobil həm off-road qabiliyyətinə malikdir, həm də yüksək yükləmə və dartma gücü təklif edir. Kabinəsi müasir texnologiya və komfortla təchiz olunub, cargo sahəsi isə əlavə aksessuarlarla rahat tənzimlənə bilir.",
+      "color":"Qara",
+      "img": [
+        "https://www.edmunds.com/assets/m/cs/blt5a72b80b04482f6c/67214f3c01c9b370602bdd1a/2025_Kia_Tasman_001_717.jpg",
+        "https://www.edmunds.com/assets/m/cs/blt3f44ce26d07a63b3/67214f529c65f65278a630e8/2025_Kia_Tasman_010_717.jpg",
+        "https://www.edmunds.com/assets/m/cs/blt52988ac46e31ba07/67214f71d522e80ea0f5e66e/2025_Kia_Tasman_006_717.jpg"
+      ]
     },
     {
       "id": 9,
@@ -190,12 +196,17 @@
       "yuruyus": 18500,
       "qiymet": 42000,
       "yanacaq": "Dizel",
-      "tutum": 7,
+      "tutum": 9,
       "veziyyet": "Çox yaxşı",
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "3 il kommersiya zəmanəti qalıb",
       "texniki_muayine": "Kommersiya nəqliyyat vasitəsi yoxlaması keçib - Yük tutumu təsdiqlənib",
-      "sekil_linki": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&h=600&fit=crop&crop=center"
+      "overview":"Yaxşı dizayn edilmiş 9 nəfərlik avtomobilin hər santimetri, kabin boşluğundan maksimum istifadə edərək, göyərtədə olan hər kəsin qonaq otağını rahatlığını təmin edir. Artırılmış təhlükəsizlik üçün 9 oturacağın hamısı tənzimlənən baş dayaqları və 3 nöqtəli təhlükəsizlik kəmərləri ilə təchiz edilmişdir.",
+      "img": [
+        "https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/mpv/staria-full-page/wagon/staria-us4-wagon-in-a-class-of-its-own-pc.jpg",
+        "https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/mpv/staria-full-page/wagon/staria-us4-wagon-comfort-and-safety-pc.jpg",
+        "https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/mpv/staria-full-page/wagon/staria-us4-wagon-11seater-02-pc.jpg"
+      ]
     },
     {
       "id": 10,
@@ -211,7 +222,14 @@
       "qeza_tarixi": "Kiçik yan zərbə, peşəkar şəkildə təmir edilib",
       "zemanet": "2025-ci ilə qədər genişləndirilmiş zəmanət aktiv",
       "texniki_muayine": "Lüks komponentlər yoxlanıb - Hava asqısının 12 aydan sonra xidmətə ehtiyacı var",
-      "sekil_linki": "https://gaadiwaadi.com/wp-content/uploads/2017/03/BMW-Pickup-Truck.jpg"
+      "overview":"2021 BMW X7 markanın ən böyük insan hərəkətvericisidir və danılmaz yüksək səviyyəli aura və təsir edici performans səviyyələri gətirir. Üç sıra yolsuzluq avtomobilinin sərhəddə şişmiş böyrək barmaqlığının arxasında üç əla turbomühərrik variantı var. Standart düz altılıq 335 at gücünə mükəmməl uyğun gəlsə də, 523 və ya 612 at gücünə sahib olan ləzzətli V-8 var. Ən yüksək məhsuldar mühərrik əldə etmək üçün Alpina XB7 sifariş etmək lazımdır ki, bu da əsas modeldən təxminən iki dəfə bahadır, lakin onu ödəyə bilənlərin gözlədiyi artıqlığı təmin edir. Yenə də böyük BMW-nin gözəlliyi ondadır ki, hər birində rahat və sakit salon, eləcə də çoxlu lüks şərait və sürücüyə yardım texnologiyası var. Onun interyeri xarici görünüşündən daha kiçik olsa da, arxa oturacaqlarının gücsüz işləməsinə baxmayaraq, 2021 X7 yüksək səviyyəli yolsuzluq avtomobilləri arasında ən yüksək qiymətləri və Redaktorların Seçimi mükafatını qazanır.",
+      "color":"Qara",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2021-bmw-alpina-xb7-114-1594387002.jpg?crop=0.834xw:0.626xh;0,0.320xh&resize=640:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-bmw-alpina-xb7-118-1594387004.jpg?crop=1xw:1xh;center,top&resize=640:* 640w, https://hips.hearstapps.com/hmg-prod/images/2021-bmw-alpina-xb7-118-1594387004.jpg?crop=1xw:1xh;center,top&resize=980:* 980w",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-bmw-alpina-xb7-107-1594386999.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-bmw-alpina-xb7-110-1594386995.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 11,
@@ -300,13 +318,19 @@
       "zemanet": "İstehsalçı zəmanəti qalmayıb",
       "texniki_muayine": "Kiçik mühərrik səs-küyü qeyd edilib - Transmissiya mayesinin dəyişdirilməsi lazımdır",
       "overview":"Hərtərəfli zəriflik və təkmil idarəetmə tərzi ilə Mazda 3 öz sinfində ən gözəl kompakt avtomobillərdən biridir. Hetçbek və ya sedan kimi təqdim olunan Mazda Honda Civic və Toyota Corolla kimi rəqiblərə daha zəngin alternativdir. Sınaqlarımızda onun həssas dörd silindrli mühərriki magistral yolda qənaətcil olduğunu sübut etdi və hər iki kuzov Mazda-nın sürücü ilə bağlı öhdəliyini qoruyur. 3 yüksək performanslı bir model təklif etməsə də, asfalt əyiləndə həmişə çevik və yol çətinləşəndə rahatdır. Əla məlumat-əyləncə sistemi və standart sürücü köməkçiləri 2020 Mazda 3-ü oradakı ən yaxşı kompakt avtomobillər sırasına daxil edir.",
-      "color": "Boz",
-      "img": "https://hips.hearstapps.com/hmg-prod/images/2020-mazda-3-hatchback-1569347781.jpg?crop=1.00xw:0.753xh;0,0.199xh&resize=640:*"
+      "color": "Göy",
+      "img": [
+        "https://www.edmunds.com/assets/m/for-sale/f0-jm1bpbjm7k1133613/img-2-960x.jpg",
+        "https://www.edmunds.com/assets/m/for-sale/f0-jm1bpbjm7k1133613/img-6-960x.jpg",
+        "https://www.edmunds.com/assets/m/for-sale/f0-jm1bpbjm7k1133613/img-10-960x.jpg",
+        "https://www.edmunds.com/assets/m/for-sale/f0-jm1bpbjm7k1133613/img-11-960x.jpg",
+        "https://www.edmunds.com/assets/m/for-sale/f0-jm1bpbjm7k1133613/img-12-960x.jpg"
+      ]
     },
     {
       "id": 15,
       "marka": "Land Rover",
-      "model": "Convertible",
+      "model": "SUV",
       "spesifik_model": "Range Rover Evoque Convertible",
       "il": 2021,
       "yuruyus": 25000,
@@ -317,7 +341,14 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "2 il zəmanət qalıb",
       "texniki_muayine": "Açıla bilən mexanizm yoxlanıb - Bütün hava möhürləri yaxşıdır",
-      "sekil_linki": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop&crop=center"
+      "color":"Qara",
+      "overview":"Land Rover Range Rover Evoque 2021 kompakt lüks SUV-dir. O, müasir dizayn, premium kabinə və 5 nəfərlik komfortlu oturacaq təqdim edir. Avtomobil AWD və Terrain Response 2 sistemi ilə yaxşı off-road qabiliyyətinə malikdir. Həm şəhər sürüşü, həm də sərt ərazilər üçün uyğundur.",
+      "img":[
+        "https://www.edmunds.com/assets/m/for-sale/9e-salzm2fx6mh122907/img-19-960x.jpg",
+        "https://www.edmunds.com/assets/m/for-sale/9e-salzm2fx6mh122907/img-5-960x.jpg",
+        "https://www.edmunds.com/assets/m/for-sale/9e-salzm2fx6mh122907/img-6-960x.jpg",
+        "https://www.edmunds.com/assets/m/for-sale/9e-salzm2fx6mh122907/img-11-960x.jpg"
+      ]
     },
     {
       "id": 16,
@@ -327,13 +358,20 @@
       "il": 2022,
       "yuruyus": 19500,
       "qiymet": 33500,
-      "yanacaq": "Hybrid",
+      "yanacaq": "Benzin",
       "tutum": 7,
       "veziyyet": "Çox yaxşı",
       "qeza_tarixi": "Təmiz tarixçə",
       "zemanet": "7 il hibrid zəmanət qalıb",
       "texniki_muayine": "Hibrid ötürücü sistem yoxlaması keçib - Bütün təkər sistemi təsdiqlənib",
-      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+      "overview":"Daha çox güc aqreqatı variantları və daha kiçik yer sahəsi ilə 2022 Kia Sorento daha böyük Kia Telluride üçün cəlbedici əvəzedicidir. Kia-nın hər iki modeli yaraşıqlıdır və üç cərgəyə malikdir, lakin böyüklər Sorento-nun uzaq arxa oturacaqlarında çox vaxt keçirmək istəməzlər və bu oturacaqlar dik olduqda onun yük tutumunu məhdudlaşdırırlar. Bununla belə, üçüncü cərgəni yığılmış vəziyyətdə saxlayın və onun gözəl tərtibatlı kabinəsi kiçik bir ailə üçün rahat yerə çevrilir. Kia hamar sürüşə və qənaətbəxş idarəetmə xüsusiyyətlərinə malikdir. Bütün paket vahiddir və populyar standart və isteğe bağlı xüsusiyyətlərlə doludur, bu da 2022 Sorento-nu öz sinfində ən yaxşı seçimlərdən birinə və Redaktorların Seçimi mükafatının qalibinə çevirir.",
+      "color":"Qara",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2021-kia-sorento-2p5t-sx-and-x-line-274-1608308639.jpg?crop=1xw:1xh;center,top&resize=640:* 640w, https://hips.hearstapps.com/hmg-prod/images/2021-kia-sorento-2p5t-sx-and-x-line-274-1608308639.jpg?crop=1xw:1xh;center,top&resize=980:* 980w",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-kia-sorento-2p5t-sx-and-x-line-496-1608308646.jpg?crop=1xw:1xh;center,top&resize=640:* 640w, https://hips.hearstapps.com/hmg-prod/images/2021-kia-sorento-2p5t-sx-and-x-line-496-1608308646.jpg?crop=1xw:1xh;center,top&resize=980:* 980w",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-kia-sorento-2p5t-sx-and-x-line-600-1608259694.jpg?crop=1xw:1xh;center,top&resize=640:* 640w, https://hips.hearstapps.com/hmg-prod/images/2021-kia-sorento-2p5t-sx-and-x-line-600-1608259694.jpg?crop=1xw:1xh;center,top&resize=980:* 980w",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-kia-sorento-2p5t-sx-and-x-line-599-1608259692.jpg?crop=1xw:1xh;center,top&resize=640:* 640w, https://hips.hearstapps.com/hmg-prod/images/2021-kia-sorento-2p5t-sx-and-x-line-599-1608259692.jpg?crop=1xw:1xh;center,top&resize=980:* 980w"
+      ]
     },
     {
       "id": 17,
@@ -1153,7 +1191,14 @@
       "qeza_tarixi": "Təmiz tarixçə",
       "zemanet": "2 il BMW zəmanəti qalıb",
       "texniki_muayine": "Kompakt premium avtomobil yoxlaması - Turbo mühərrik performansı yaxşıdır",
-      "sekil_linki": "https://images.unsplash.com/photo-1549399505-2d34c1fb6b43?w=800&h=600&fit=crop&crop=center"
+      "overview":"BMW 1 Series 2021 kompakt hatchback-dir, şəhər içi və günlük sürüş üçün idealdır. O, yüksək sürüş dinamikası və BMW-yə xas sport üslubu ilə seçilir. Kabinəsi rahat və texnoloji avadanlıqlarla təchiz olunub, infotainment və sürücü dəstəyi sistemləri mövcuddur. Kiçik ölçülərinə baxmayaraq praktik yük sahəsi və funksional interyer təqdim edir.",
+      "color":"Qara",
+      "img": [
+        "https://s6.auto.drom.ru/photo/v2/7jQEpgkiZjLgt7Tf_dcUov8CzxUJEKsmGED9fIyxM7PHlH622oNsWllVnw1Ctt_vPf91MwR40-r4Fu_t/gen1200.jpg",
+        "https://s6.auto.drom.ru/photo/v2/CWNA5nH6uiI4G6lcXt1BXohX98UOvaksldn2H-0zzjZh4YhgXwpiNOC8wSkgjLGyfs3anuHGki5DmgbQ/gen1200.jpg",
+        "https://s6.auto.drom.ru/photo/v2/gC3UNQPo3qbGHQG66YqmEQqakB5qUgBfFpjRTpHxM2aMKDaTnUUvlQsxHOTFw12V53FWLQHdy2tHSRW9/gen1200.jpg",
+        "https://s6.auto.drom.ru/photo/v2/EBzJIE4qYtg3WK4hERW2ydBYw7uOXBnQL32INYlx3QGMEm1H-PSYhCNJuKwmMain6wMlIO3zLN72l4Kd/gen1200.jpg"
+      ]
     },
     {
       "id": 51,
@@ -1192,7 +1237,13 @@
       "qeza_tarixi": "Arxa tamponun kiçik zədələnməsi, təmir edilib",
       "zemanet": "Fabrik zəmanəti bitib, genişləndirilmiş zəmanət mövcuddur",
       "texniki_muayine": "Kompakt lüks SUV yoxlaması - Quattro sistemi xidmətə ehtiyacı var",
-      "sekil_linki": "https://images.unsplash.com/photo-1606016140965-726b2e7f67ad?w=800&h=600&fit=crop&crop=center"
+      "overview":"2020 Audi Q5 ilıq nəticələrlə markanın dəbdəbəli cinslərini yığcam krossover şablonuna tətbiq edir. Onun salonu qüsursuz tikinti keyfiyyəti və yüksək səviyyəli xüsusiyyətləri ilə öyünür, lakin onun sərnişin sahəsi və yük tutumu bu sinif üçün əlamətdar deyil. Hər Q5 güclü və səmərəli turbomühərrikli dörd silindrli mühərriklə hərəkətə gətirilir. Cavab verən güc aqreqatına baxmayaraq, Q5 Alfa Romeo Stelvio və Porsche Macan kimi rəqibləri sürmək üçün o qədər də maraqlı deyil. Bununla belə, Audi zərif gəzinti və sakit salon təqdim edir. Ən yaxşı texnologiya ən bahalı modellər üçün nəzərdə tutulsa da, 2020 Q5 möhtəşəm imic yaradır və əla sürücülük təcrübəsi təqdim edir.",
+      "color":"Qara",
+      "img": [
+        "https://nar.media.audi.com/is/image/audinar/nemo/us/models/Q5/Q5/730x730-overview-images/730x730_2020-Audi-Q5-024_730x730-min.png?auto=webp",
+        "https://nar.media.audi.com/is/image/audinar/nemo/us/models/Q5/Q5/730x730-overview-images/730x730_2019_Audi_Q5_Design_GalleryInteriorPanoramicSunroof-min.jpg?auto=webp",
+        "https://nar.media.audi.com/is/image/audinar/nemo/us/models/Q5/Q5/730x730-overview-images/730x730_2020-Audi-Q5-046b-min.jpg?auto=webp"
+      ]
     },
     {
       "id": 53,
@@ -1276,7 +1327,12 @@
       "qeza_tarixi": "Təmiz tarixçə",
       "zemanet": "5 il Kia performans zəmanəti qalıb",
       "texniki_muayine": "Performans sedan yoxlaması - Twin turbo V6 mühərrik və RWD sistem yoxlanıb",
-      "sekil_linki": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop&crop=center"
+      "overview":"Əsas brend adına baxmayaraq, 2021 Kia Stinger Alman idman sedan status-kvonuna qarşı çıxmaq üçün performans, xüsusiyyətlər və arzuolunanlığı təklif edir. Bu dördqapılı hetçbeki və böyük baqajını zərif Audi A5 Sportback və BMW 4-seriyası Gran Coupe modellərinə bənzəyən tərtibatla məharətlə gizlədir. İçəridə Stinger lüksə yaxın yaşayış yerləri və Apple CarPlay və Android Auto ilə sensor ekranlı məlumat-əyləncə sistemi kimi bir sıra əlaqə funksiyaları təklif edir. Siz turbomühərrikli 2,0 litrlik dörd silindrli Stinger sifariş edə bilərsiniz, lakin biz GT modellərində təklif olunan daha güclü tvin-turbo V-6 mühərriki tövsiyə edirik. Yolda Stinger kommunikativ sükanı olan atletik sedandır və biz 40.000 mil uzunmüddətli sınaqdan zövq almışıq və bu, sürücülük həvəskarları üçün əla seçimdir.",
+      "color":"Göy",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2021-kia-stinger-mmp-1-1598554191.jpg?crop=0.981xw:0.827xh;0.0192xw,0.173xh&resize=1200:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-kia-stinger-gts-108-1555528636.jpg?crop=1xw:1xh;center,top&resize=640:* 640w, https://hips.hearstapps.com/hmg-prod/images/2020-kia-stinger-gts-108-1555528636.jpg?crop=1xw:1xh;center,top&resize=980:* 980w"
+      ]
     },
     {
       "id": 57,
@@ -1292,12 +1348,19 @@
       "qeza_tarixi": "Sağ tərəfdə kiçik cızıq, boyama təmiri edilib",
       "zemanet": "1 il güc ötürücü sistemi zəmanəti qalıb",
       "texniki_muayine": "Orta ölçülü sedan yoxlaması - CVT transmissiya səmərəli işləyir",
-      "sekil_linki": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop&crop=center"
+      "overview":"Hyundai Sonata 2020-ci il üçün tamamilə yenidir və o, Hyundai-nin cəlbedici dizaynı və yüksək səviyyəli xüsusiyyətlərinin sərfəli qiymətə xarakterik qarışığı üçün mükəmməl bir vitrindir. 2020 Sonata bir neçə dinamik fərqləndirici xüsusiyyətlərə malik sinifdə ən yaxşı sürücü avtomobili deyil, lakin Hyundai layiqli idarəetmə və bol fırlanma momenti ilə bişmişdir (ən azı isteğe bağlı olan 1,6 litrlik turbomühərrikində; turbosuz 2,5 litrlik mühərrik standartdır və hibrid güc aqreqatı da seçimdir). Daxili geniş və zərifdir, funksional, yaxşı təşkil edilmiş sensor ekranlı məlumat-əyləncə sistemini tamamlamaq üçün tire üzərində kifayət qədər düymələr var. Əgər sərfəli qiymətə dəbdəbəli brendləri vuran avtomobil istəyirsinizsə, 2020-ci il Hyundai Sonata tam uyğun ola bilər.",
+      "color":"Ağ",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/hyunda-sonata-hybrid-101-1581010459.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/hyunda-sonata-hybrid-106-1581010461.jpg?crop=1xw:1xh;center,top&resize=640:* 640w, https://hips.hearstapps.com/hmg-prod/images/hyunda-sonata-hybrid-106-1581010461.jpg?crop=1xw:1xh;center,top&resize=980:* 980w",
+        "https://hips.hearstapps.com/hmg-prod/images/hyunda-sonata-hybrid-104-1581010462.jpg?crop=1xw:1xh;center,top&resize=640:* 640w, https://hips.hearstapps.com/hmg-prod/images/hyunda-sonata-hybrid-104-1581010462.jpg?crop=1xw:1xh;center,top&resize=980:* 980w",
+        "https://hips.hearstapps.com/hmg-prod/images/hyunda-sonata-hybrid-105-1581010461.jpg?crop=1xw:1xh;center,top&resize=640:* 640w, https://hips.hearstapps.com/hmg-prod/images/hyunda-sonata-hybrid-105-1581010461.jpg?crop=1xw:1xh;center,top&resize=980:* 980w"
+      ]
     },
     {
       "id": 58,
       "marka": "BMW",
-      "model": "Pickup",
+      "model": "SUV",
       "spesifik_model": "X3",
       "il": 2023,
       "yuruyus": 9500,
@@ -1308,13 +1371,21 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "4 il BMW elektrik zəmanəti",
       "texniki_muayine": "Elektrik SUV yoxlaması - iX3 elektrik sistemləri və batareya idarəetməsi optimal",
-      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+      "overview":"Ənənəvi olaraq idman sedanları BMW markasının ruhunu ən yaxşı şəkildə əks etdirən avtomobillər olub. Artıq o qədər də yox. 2023 X3 SUV dördqapılı qardaşlarının ərazisinə zəriflik və sürücünün cəlbediciliyinin qənaətbəxş qarışığı ilə yanaşır. Adından da göründüyü kimi, X3 məşhur 3 seriyalı sedana ekvivalent olan krossoverdir və o, öz güc aqreqatlarını həmin avtomobillə bölüşür. Giriş səviyyəli modellər 248 at gücündə turbo-dörd mühərriklə təchiz edilir, M40i modelləri isə şirkətin hörmətli 382 at gücündə turbo altı mühərrikindən güc alır - məxmər kimi əzələləri ilə bizi heyran etməkdən vaz keçmir. Yaraşıqlı xarici dizayn X3-ə Genesis GV70 və Volvo XC60 kimi stil mavenləri arasında uyğunlaşmaq üçün kifayət qədər cəlbedicilik verir. X3-ün geniş interyeri səliqəli tərtib edilib, lakin premium materiallar və arzu olunan texnologiya ilə örtülmüşdür. Lakin bizim heyətimizdə olan sürücülər kimi həvəskar sürücüləri ən çox sevən X3-ün səliqəsiz idarəetməsidir və əlavə bonus olaraq, onun atletik yol davranışı kruiz zamanı onun nəzakətli təbiətinə və hərtərəfli SUV praktikliyinə güzəştə getmir.",
+      "color":"Qara",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2022-bmw-x3-m40i-108-1650211641.jpg?crop=1xw:1xh;center,top&resize=640:* 640w, https://hips.hearstapps.com/hmg-prod/images/2022-bmw-x3-m40i-108-1650211641.jpg?crop=1xw:1xh;center,top&resize=980:* 980w",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-bmw-x3-m40i-109-1650211643.jpg?crop=1xw:1xh;center,top&resize=640:* 640w, https://hips.hearstapps.com/hmg-prod/images/2022-bmw-x3-m40i-109-1650211643.jpg?crop=1xw:1xh;center,top&resize=980:* 980w",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-bmw-x3-m40i-110-1650211643.jpg?crop=1xw:1xh;center,top&resize=640:* 640w, https://hips.hearstapps.com/hmg-prod/images/2022-bmw-x3-m40i-110-1650211643.jpg?crop=1xw:1xh;center,top&resize=980:* 980w",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-bmw-x3-m40i-120-1650211651.jpg?crop=1xw:1xh;center,top&resize=640:* 640w, https://hips.hearstapps.com/hmg-prod/images/2022-bmw-x3-m40i-120-1650211651.jpg?crop=1xw:1xh;center,top&resize=980:* 980w",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-bmw-x3-m40i-121-1650211652.jpg?crop=1xw:1xh;center,top&resize=640:* 640w, https://hips.hearstapps.com/hmg-prod/images/2022-bmw-x3-m40i-121-1650211652.jpg?crop=1xw:1xh;center,top&resize=980:* 980w"
+      ]
     },
     {
       "id": 59,
       "marka": "Toyota",
-      "model": "Convertible",
-      "spesifik_model": "86 Convertible",
+      "model": "Coupe",
+      "spesifik_model": "GR86",
       "il": 2022,
       "yuruyus": 13200,
       "qiymet": 36000,
@@ -1324,7 +1395,14 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "3 il Toyota idman avtomobili zəmanəti",
       "texniki_muayine": "İdman kabriolet yoxlaması - Boxer mühərrik və manual transmissiya mükəmməl",
-      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+      "overview":"İkinci nəsil Toyota GR86 2022-ci model ili üçün tamamilə yenidir və o, birinci nəsil avtomobillə eyni arxadan ötürücü formuluna əməl edir. Yenidən Subaru BRZ ilə birlikdə işlənib hazırlanmış 2022 GR86 üfüqi şəkildə əks olunmuş dörd silindrli mühərrik və standart altı pilləli mexaniki transmissiya ilə təchiz ediləcək. Bu dəfə Toyota son nəsillə bağlı əsas şikayətimizə müraciət etdi və GR86-ya 2022-ci il üçün daha çox at gücü verdi. Yeni model 228 at gücü təşkil edən 2,4 litrlik üfüqi əks dörd silindrli mühərriklə təchiz edilib ki, bu da əvvəlki modelin 2,0 litrlik mühərrikindən 23 at gücü çoxdur. Nəticə qiymətə görə fenomenal sürücülük təcrübəsidir, 10Best və Redaktorların Seçimi siyahılarımızda yer almağa layiq kombinasiyadır.",
+      "color":"Ağ",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2022-toyota-gr86-93-1629157639.jpg?crop=1xw:1xh;center,top&resize=980:* 980w",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-toyota-gr86-94-1629157637.jpg?crop=0.905xw:1.00xh;0.0449xw,0&resize=980:* 980w",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-toyota-gr86-115-1629158046.jpg?crop=0.946xw:1.00xh;0,0&resize=980:* 980w",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-toyota-gr86-122-1629157888.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 60,
@@ -1340,7 +1418,14 @@
       "qeza_tarixi": "Təmiz tarixçə",
       "zemanet": "2 il Audi idman avtomobili zəmanəti qalıb",
       "texniki_muayine": "Kompakt idman avtomobili yoxlaması - TFSI mühərrik və Quattro sistem yoxlanıb",
-      "sekil_linki": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop&crop=center"
+      "overview":"Chevrolet Corvette və Porsche 718 Cayman kimi qatil idman avtomobillərinin yanında park edilmiş 2021 Audi TT RS uyğun şəkildə aqressiv və bahalı görünür. Onun 394 at gücündə turbomühərrikli beş silindrli mühərriki də rəqabət üçün lazım olan gücə malikdir. İçəridə sərnişinlər Audi-nin imzası olan qüsursuz tikinti keyfiyyətinə malik texnoloji qabaqcıl kabinə ilə tanış olurlar, lakin TT RS-də Jaguar F-Type və ya BMW Z4 alıcılarının həzz alacağı lüks ləzzət yoxdur. Audi-nin idarəetməsi də bu sinifdəki digər idman avtomobillərindən daha az cazibədardır. Bu o demək deyil ki, TT RS sürmək əyləncəli deyil, amma onun səysizliyi avtomobilin limitinə yaxın sürərkən arzuladığımız dramdan məhrumdur və Kayman kimi avtomobilləri həqiqətən oxumağa vadar edən eyni səviyyədə çeviklik yoxdur.",
+      "color":"Göy",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2021-audi-tt-rs-coupe-101-1606169337.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-audi-tt-rs-coupe-103-1606169340.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-audi-tt-rs-coupe-107-1606169331.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-audi-tt-rs-coupe-108-1606169328.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 61,
@@ -1356,7 +1441,15 @@
       "qeza_tarixi": "Kiçik offroad zədəsi, arxa diferensial təmir edilib",
       "zemanet": "Fabrik zəmanəti bitib",
       "texniki_muayine": "Performans SUV yoxlaması - PDK transmissiya və Sport Chrono yaxşı vəziyyətdə",
-      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+      "overview":"Bəzi yolsuzluq avtomobilləri praktiklik, digərləri isə lüks üçün hazırlanır, lakin 2020 Porsche Macan GTS, əylənmək üçün nəzərdə tutulmuş nadir avtomobildir. Əlbəttə, onun da digər kompakt krossoverlər kimi arxa yük sahəsi və arxa oturacağı var, lakin Porsche-nin zəngin idman avtomobil tarixindən götürən yeganə odur ki, sürücüsünü hər şeyi həddinə çatdırmağa ruhlandırır. İki turbomühərrikli 2,9 litrlik V-6 375 at gücü verir və Macan-ın kəskin sükanı və yaxşı tənzimlənmiş şassi mühərrikin həvəsi üçün mükəmməl tərəfdaşdır. Adi Macan (biz onu ayrıca nəzərdən keçirəcəyik) sürmək də eyni dərəcədə əyləncəlidir, lakin GTS modelinin əlavə performansı və daha idman üslubu onu dörd silindrli dayanacaq yoldaşlarından fərqləndirir; SUV-dən daha çox idman sedanına bənzəyir. Macan GTS-ni o qədər bəyənirik ki, onu 2020-ci ilin 10Best siyahısına daxil etdik və ona Redaktorların Seçimi mükafatı verdik.",
+      "color":"Ağ",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2020-porsche-macan-gts-475-hdr-1598445952.jpg?crop=0.557xw:0.421xh;0.0619xw,0.505xh&resize=640:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-porsche-macan-gts-572-1598445964.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-porsche-macan-gts-551-1598445960.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-porsche-macan-gts-548-1598445959.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-porsche-macan-gts-520-hdr-1598445956.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 62,
@@ -1372,7 +1465,14 @@
       "qeza_tarixi": "Təmiz tarixçə",
       "zemanet": "5 il Mazda zəmanəti",
       "texniki_muayine": "Kompakt crossover yoxlaması - SkyActiv-G mühərrik və i-Activ AWD mükəmməl",
-      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+      "overview":"2023-cü il Mazda CX-5 nəinki brendin atletik idarəetmə reputasiyasını təmin edir, o, həm də əsas pul üçün lüksə yaxın təcrübə təklif edir. Məhz çevik yol davranışı və daxili incəliyin bu xüsusi qarışığı CX-5-i sevimli kiçik yolsuzluq avtomobillərimizdən birinə, xüsusən də isteğe bağlı 256 at gücündə turbomühərrikli dörd silindrli mühərriklə gələn daha yüksək səviyyəli modellərə çevirir. Başlanğıc səviyyəli mühərrik daha güclü 187 at gücünə malik dörddür, lakin tam ötürücülü bütün modellərdə standartdır - CX-5-in çevik idarəetməsi kimi, mühərrik seçiminizdən asılı olmayaraq, onu qane edəcək. CX-5 mükəmməl deyil - baxmayaraq ki, bu, kimdən soruşduğunuzdan asılıdır - Honda CR-V və ya Toyota RAV4 kimi rəqiblər qədər geniş deyil. Bir neçə kompakt yolsuzluq avtomobili Mazda-nın cəsarətinə uyğun gələ bilər və praqmatik seçimlərlə dolu seqmentdə CX-5-in cazibədarlığı cəlbedicidir.",
+      "color":"Ağ",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2022-mazda-cx-5-2p5-turbo-signature-104-1657559238.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-mazda-cx-5-2p5-turbo-signature-109-1657559076.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-mazda-cx-5-2p5-turbo-signature-110-1657559238.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-mazda-cx-5-2p5-turbo-signature-119-1657559079.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 63,
@@ -1388,12 +1488,20 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "3 il Land Rover elektrik zəmanəti qalıb",
       "texniki_muayine": "Elektrik lüks crossover yoxlaması - EV drivetrain və regen braking sistemləri optimal",
-      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+      "overview":"2021-ci ilin Range Rover Velar-a bir nəzər salmaq kifayətdir ki, Land Rover dizaynerlərinin başına dırnaq vurduqlarına hətta ən ağıllı gözü də inandırsın. Təəssüf ki, Velar-ın sürmə davranışı onun yaramaz geyiminə uyğun gəlmir. Alıcılar turbomühərrikli dörd silindrli və ya hibridləşdirilmiş sıraaltı altılıqdan birini seçə bilər, lakin Velar modellərinin heç biri sürücülük məmnuniyyəti baxımından BMW X3 və ya Porsche Macan kimi rəqiblərə tam uyğun gəlmir. Əvəzində burada cazibədarlıq Velar-ın səciyyəvi cazibədarlığı və onun hər cür texnoloji yubkalarla təchiz edilmiş yüksək üslublu salonunda, eləcə də Range Rover adını daşıyan SUV üçün uyğun gözəl seçilmiş materiallardadır.",
+      "color":"Boz",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2020-land-rover-velar-sv-autobiography-dynamic-edition-344-hdr-1583931455.jpg?crop=1.00xw:0.753xh;0,0.247xh&resize=640:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-land-rover-velar-sv-autobiography-dynamic-edition-105-1583931448.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-land-rover-velar-sv-autobiography-dynamic-edition-102-1583931450.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-land-rover-velar-sv-autobiography-dynamic-edition-103-1583931448.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-land-rover-velar-sv-autobiography-dynamic-edition-117-1583931448.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 64,
       "marka": "Kia",
-      "model": "Wagon",
+      "model": "SUV",
       "spesifik_model": "Sportage",
       "il": 2022,
       "yuruyus": 17200,
@@ -1404,12 +1512,20 @@
       "qeza_tarixi": "Təmiz tarixçə",
       "zemanet": "7 il Kia hibrid zəmanəti qalıb",
       "texniki_muayine": "Hibrid crossover yoxlaması - HEV sistem və regenerativ əyləclər yoxlanıb",
-      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+      "overview":"2022 Kia Sportage yeni rəqiblərə qarşı öz yaşını göstərməyə başlayır, lakin kompakt krossover hələ də yüksək səviyyəli görünüşə və cazibədar sürücülük dinamikasına malikdir. Korporativ əmisi oğlu - 2022 Hyundai Tucson - böyük bir dəyişikliyə yeni çıxdı, biz Sportage-in yaxın gələcəkdə oxşar müalicə alacağını gözləyirik. O vaxta qədər Kia ümid edir ki, alıcıları yolsuzluq avtomobilinin cəlbedici və yaxşı qurulmuş interyeri, onun kiçik yük sahəsini geniş sərnişin sahəsi ilə əvəzləyəcək. Onun standart dörd silindrli mühərriki kifayət qədər, diqqətəlayiq olmasa da, motivasiya təmin etsə də, fermuarlı hərəkət üçün daha güclü turbomühərrikli versiya mövcuddur. Təəssüf ki, o, yalnız ən bahalı modeldə təklif olunur və ən yüksək səviyyəli Mazda CX-5 kimi bəzi rəqiblər kimi yanacaq qənaətcil deyil. Bununla belə, 2022 Sportage hər iki mühərriklə sürmək üçün əyləncəlidir və bu, növbəti nəsil üzə çıxana qədər onun cəlbediciliyini artırır.",
+      "color":"Qırmızı",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2020-kia-sportage-sf-102-1549576343.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-kia-sportage-sf-105-1549576375.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-kia-sportage-sf-106-1549576368.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-kia-sportage-sf-107-1549576358.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/14951-2020-sportage-1549573589.jpg?crop=1.00xw:0.918xh;0,0.0408xh&resize=980:*"
+      ]
     },
     {
       "id": 65,
       "marka": "Hyundai",
-      "model": "Convertible",
+      "model": "Hatchback",
       "spesifik_model": "Veloster N",
       "il": 2020,
       "yuruyus": 31000,
@@ -1420,12 +1536,19 @@
       "qeza_tarixi": "Trek zamanı kiçik zərbə, döyülmüş hissələr düzəldilir",
       "zemanet": "Zəmanət qalmayıb",
       "texniki_muayine": "Performans hetçbek yoxlaması - Turbo mühərrik yaxşıdır, asqının bəzi hissələri aşınıb",
-      "sekil_linki": "https://images.unsplash.com/photo-1549399505-2d34c1fb6b43?w=800&h=600&fit=crop&crop=center"
+      "overview":"2021 Hyundai Veloster N pul müqabilində bol sürmə əyləncəsi və təsirli performans təmin edən səssiz idman kompaktdır. Onun N nişanı Hyundai-nin yüksək performanslı subbrendini təmsil edir, yəni o, üçqapılı Veloster hetçbekinin ən güclü və aqressiv versiyasıdır. 275 at gücünə malik turbomühərrikli 2,0 litrlik sıralı dörd mühərrik standart təchizatdır və asqı daha kəskin idarəetmə üçün bərkidilir. Əvvəllər yalnız mexaniki transmissiya ilə mövcud olan Veloster indi cazibəsini genişləndirmək üçün ikili muftalı avtomatik transmissiya variantını təklif edir. N-nin arsız görünüşü cəlbedici ümumi paketin üstündəki albalıdır. O, VW Golf GTI və ya Honda Civic Type R kimi rəqiblər qədər damazlıq olmaya bilər, lakin Veloster bizim bəyəndiyimiz bir başlanğıc növüdür və Redaktorların Seçimi siyahısında yer qazanmışdır.",
+      "color":"Qırmızı",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2021-hyundai-veloster-n-dct-278-1608564120.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-hyundai-veloster-n-dct-126-1608564112.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-hyundai-veloster-n-dct-422-1608564184.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-hyundai-veloster-n-dct-484-1608564245.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 66,
       "marka": "BMW",
-      "model": "Van",
+      "model": "SUV",
       "spesifik_model": "X6",
       "il": 2022,
       "yuruyus": 11800,
@@ -1436,13 +1559,20 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "3 il BMW zəmanəti qalıb",
       "texniki_muayine": "Coupe-SUV yoxlaması - M Performance paketinin bütün komponentləri yoxlanıb",
-      "sekil_linki": "https://images.unsplash.com/photo-1581274110238-5a2ce53d0dcf?w=800&h=600&fit=crop&crop=center"
+      "overview":"BMW X6 Don Corleone kimidir, yəni kupe tipli yolsuzluq avtomobillərinin xaç atasıdır. 2000-ci illərin sonlarında debüt edən orijinal, əsasən Audi və Mercedes-Benz kimi təqlidçilərin yaranmasına səbəb olan mübahisəli cinsi icad etdi. Bu qütbləşən krossover kupelərinə gəlincə, gözəllik baxanların gözündə olsa da, maili arxalı Bimmer bir neçə möhtəşəm mühərriklə öyünür: 335 at qüvvəli sıra altı silindrli (40i) və 523 at gücündə iki turbo V-8 (M50i). Həyəcan axtaranlar sonuncunu istəyəcəklər, lakin bunun yüksək qiyməti var. Hər iki dəyirman özləri kimi hamar olan avtomatik transmissiya ilə birləşdirilib. Ən yüksək performans altı fiqurlu X6 M-də təklif olunur (ayrıca nəzərdən keçirilir), lakin daha az ekstremal modellər belə sürmək üçün əyləncəlidir. Adi X5 daha dik və praktikdir, lakin 2022 BMW X6 içəridə eyni dərəcədə dəbdəbəlidir və ekstrovertlər üçün daha uyğundur.",
+      "color":"Ağ",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-x6-xdrive40i-213-1583153963.jpg?crop=0.758xw:0.567xh;0.226xw,0.416xh&resize=640:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-x6-xdrive40i-136-1583153963.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-x6-xdrive40i-246-1583153970.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-x6-xdrive40i-246-1583153970.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 67,
       "marka": "Toyota",
-      "model": "Hatchback",
-      "spesifik_model": "Corolla Hatchback",
+      "model": "Sedan",
+      "spesifik_model": "Corolla",
       "il": 2021,
       "yuruyus": 29500,
       "qiymet": 22000,
@@ -1452,7 +1582,14 @@
       "qeza_tarixi": "Təmiz tarixçə",
       "zemanet": "2 il Toyota zəmanəti qalıb",
       "texniki_muayine": "Kompakt hetçbek yoxlaması - CVT transmissiya və Toyota Safety Sense sistemləri aktiv",
-      "sekil_linki": "https://images.unsplash.com/photo-1549399505-2d34c1fb6b43?w=800&h=600&fit=crop&crop=center"
+      "overview":"2021 Toyota Corolla ucuz, təhlükəsizliyə əsaslanan və yaxşı təchiz olunmuş kompakt avtomobil olmaq ənənəsini davam etdirir. Dördqapılı hetçbek və ya sedan kimi mövcud olan kiçik Toyota müxtəlif şəxsiyyətlər təklif edir. Hər iki kuzov üslubunda bir cüt səliqəli dörd silindrli mühərriklər var və onlar həmçinin son dərəcə qənaətcil hibrid güc aqreqatı ilə təklif olunur. Sürücülük qabiliyyətini yüksək qiymətləndirən insanlar üçün Corolla mexaniki sürət qutusu və idmana uyğunlaşdırılmış asma ilə ola bilər. Bununla belə, o, hələ də Honda Civic və Mazda 3 kimi əksər rəqiblərindən daha az həyəcanvericidir. Lyuk kiçik arxa oturacağa malik olsa da, o, arzu olunan xüsusiyyətlərə və sedanla cəlbedici salon dizaynına malikdir. 2021 Corolla ən maraqlı kiçik avtomobil olmasa da, yenə də səmərəli və dəbli seçimdir.",
+      "color":"Ağ",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2021-toyota-corolla-se-apex-408-1601389652.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-toyota-corolla-se-apex-442-1601389664.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-toyota-corolla-se-apex-437-1601389661.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-toyota-corolla-se-apex-447-1601389665.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 68,
@@ -1468,12 +1605,20 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "4 il Audi zəmanəti",
       "texniki_muayine": "Kompakt lüks SUV yoxlaması - Quattro ultra və Virtual Cockpit sistemləri test edilib",
-      "sekil_linki": "https://images.unsplash.com/photo-1606016140965-726b2e7f67ad?w=800&h=600&fit=crop&crop=center"
+      "overview":"2023 Audi Q3 kiçildilmiş Q8-ə bənzəyir və gördüyünüz şey əldə etdiyiniz şeyin yaxşı göstəricisidir. Kiçik Q, daha böyük Audi bacılarının bütün xarakterik xüsusiyyətlərini - cəlbedici, müasir, yüksək dərəcəli və yaxşı qurulmuşdur - kompakt paketdə təqdim edir. Tam ötürücü standartdır və hər Q3 turbomühərrikli dörd silindrlə təchiz edilir; Baza 40 modeli 184 at gücündə dəyirman alır, daha yüksək xüsusiyyətli 45 isə 228 atla hərəkətə gətirilir. İdarəetmə çevikdir və performans layiqdir - ən azı daha güclü mühərriklə. Q3-ün salonu BMW X1-inki qədər geniş və praktik deyil. Q3-ün digər ciddi rəqiblərindən biri olan avtomobilə bənzər Mercedes-Benz GLA-class ilə müqayisədə kiçik Audi daha çox yolsuzluq avtomobili kimi görünür və hiss edir. Və yolsuzluq avtomobili aldığınız şeydir, elə deyilmi? Bu iki rəqib kimi, Q3 də bir çox müasir texnologiya xüsusiyyətlərini, o cümlədən rəqəmsal ölçmə displeyi, sensor ekranlı məlumat-əyləncə sistemi və bir sıra sürücü köməkçiləri təklif edir. Ancaq ən yaxşı xəbər odur ki, Q3 Audi-dən gözlədiyiniz kimi hiss edir və sürür.",
+      "color":"Göy",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2022-audi-q3-premium-45-119-64b19da0646ad.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-audi-q3-premium-45-118-64b19da02e90e.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-audi-q3-premium-45-103-64b19d9d9f30e.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-audi-q3-premium-45-102-64b19d9da81f8.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-audi-q3-premium-45-104-64b19d9de9069.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 69,
       "marka": "Porsche",
-      "model": "Pickup",
+      "model": "Convertible",
       "spesifik_model": "718 Boxster",
       "il": 2021,
       "yuruyus": 16500,
@@ -1484,7 +1629,14 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "2 il Porsche zəmanəti qalıb",
       "texniki_muayine": "Mid-engine roadster yoxlaması - PDK və PASM sistemləri mükəmməl şəkildə işləyir",
-      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+      "overview":"2021 Porsche 718 Boxster kimi az sayda avtomobil nəzərdə tutulan missiyanı yerinə yetirir və buna görə də o, həm bizim 10Best, həm də Redaktorların Seçimi siyahılarımızdadır. Eyni şey onun kupe qardaşı 718 Cayman üçün də gedir. Bu avtomobilin orta mühərrikli dizaynı və idmana uyğunlaşdırılmış şassi ona mükəmməl balanslaşdırılmış sürmə dinamikası təqdim etməyə kömək edir və onun üfüqi şəkildə qarşı-qarşıya duran dörd və altı silindrli mühərriklər sırası bu rodsterin kəskin idarəetməsini müşayiət etmək üçün çoxlu güc təmin edir. Alıcılar bu arxa sürücü üçün altı pilləli mexaniki transmissiya və tez dəyişən yeddi pilləli avtomat arasında seçim edə bilərlər. Üstü aşağı salın, küləyin saçlarınızdan keçməsinə icazə verin və Porsche-nin 911-dən minlərlə dollar ucuz qiymətə təqdim edə biləcəyi bütün performans və sürücülük məmnuniyyətindən həzz alın.",
+      "color":"Boz",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2021-porsche-718-boxster-spyder-04-1635538443.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-porsche-718-boxster-spyder-32-1635538523.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-porsche-718-boxster-spyder-34-1635538533.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-porsche-718-boxster-spyder-26-1635538502.jpg?crop=1xw:1xh;center,top&resize=980:*"
+        ]
     },
     {
       "id": 70,
@@ -1500,23 +1652,38 @@
       "qeza_tarixi": "Təmiz tarixçə",
       "zemanet": "3 il Mazda zəmanəti qalıb",
       "texniki_muayine": "Kompakt crossover yoxlaması - SkyActiv teknologiyası və i-Activsense təhlükəsizlik sistemləri aktiv",
-      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+      "overview":"Daha hündür, daha möhkəm Mazda 3 hetçbeki kimi görünən 2022 CX-30, markanın SUV seriyasının kiçik ucunda CX-5 və CX-50-nin yanında əyləşir. Onun əyri xarici dizaynı və demək olar ki, premium salon CX-30-a yüksək səviyyəli görünüş bəxş edir ki, bu da onu demək olar ki, Audi Q3 və BMW X1 kimi subkompakt lüks krossoverlərlə mübahisəyə salır, lakin onun qiyməti Hyundai Kona və Volkswagen Taos kimi əsas subkompakt yolsuzluq avtomobilləri ilə daha uyğundur. Başlanğıc səviyyəli mühərrik 2,5 litrlik dörd silindrlidir və sərin sürətlənmə təmin edir; İsti ayaqqabılı sürücülər isteğe bağlı 2,5 litrlik turbomühərriki daha arzuolunan görəcəklər. İdarəetmə çevikdir və CX-30-un yolda davranışı Mazda-nın daha idman təkliflərini xatırladır, biz bunu çox yüksək qiymətləndiririk; o qədər ki, biz ona Redaktorların Seçimi mükafatını verdik. Məlumat-əyləncə və sürücüyə yardım funksiyalarının səxavətli köməyi standartdır və bu ildən başlayaraq tam ötürücülü sistem də standartdır.",
+      "color":"Boz",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2021-mazda-cx-30-2p5-turbo-116-1612840728.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-mazda-cx-30-2p5-turbo-115-1612840728.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-mazda-cx-30-2p5-turbo-118-1612840730.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-mazda-cx-30-2p5-turbo-119-1612840730.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-mazda-cx-30-2p5-turbo-135-1612840738.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 71,
       "marka": "Land Rover",
-      "model": "Truck",
+      "model": "SUV",
       "spesifik_model": "Defender 90",
       "il": 2023,
       "yuruyus": 5600,
       "qiymet": 58000,
       "yanacaq": "Benzin",
-      "tutum": 5,
+      "tutum": 7,
       "veziyyet": "Yeni kimi",
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "5 il Land Rover offroad zəmanəti",
       "texniki_muayine": "Offroad SUV yoxlaması - Terrain Response və ClearSight sistemləri test edilib",
-      "sekil_linki": "https://images.unsplash.com/photo-1606016159991-58d4d84a7e4d?w=800&h=600&fit=crop&crop=center"
+      "overview":"Uzun illərdir ki, Land Rover Defender Birləşmiş Krallığın Amerikanın kobud və bərbad ciplərinə cavabı idi, lakin son nəsil ilə lüks brend ofrouderin hər yerə getmə qabiliyyəti ilə birlikdə daha çox rahatlıq üçün dizayn etmişdir. Həm iki, həm də dörd qapılı kuzov üslubları rahat və praktik kabinlər, müasir məlumat-əyləncə sistemi və texnoloji xüsusiyyətlər və keçmişin hörmətli Müdafiəçilərini xatırladan imza üslubu ilə təklif olunur. Turbomühərrikli dörd silindrli standartdır və daha güclü sıra altı və V-8 mühərrikləri mövcuddur; bütün Defenders tam ötürücü ilə standart gəlir. Oradan alıcılara kilidləmə diferensialları, hündürlüyü tənzimlənən pnevmatik asqı və dərin sularda keçmək üçün xüsusi rejim də daxil olmaqla, çoxlu təkmil yolsuzluq avadanlığı təklif olunur. Lakin yeni nəsil Defender-in konfiqurasiyasının ən böyük üstünlüyü onun üstün yolda sürmə davranışıdır ki, bu da ona Jeep Wrangler və Lexus GX kimi rəqiblərin uyğunlaşa bilməyəcəyi zəriflik səviyyəsini verir.",
+      "color":"Boz",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2023-land-rover-defender-130-first-edition-2537-1673627063.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2023-land-rover-defender-130-first-edition-2676-1673627073.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2023-land-rover-defender-130-first-edition-2860-1673627094.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2023-land-rover-defender-130-first-edition-2939-1673627096.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 72,
@@ -1532,12 +1699,19 @@
       "qeza_tarixi": "Təmiz tarixçə",
       "zemanet": "4 il Kia zəmanəti qalıb",
       "texniki_muayine": "Kompakt sedan yoxlaması - CVT transmissiya və Kia Drive Wise sistemləri yoxlanıb",
-      "sekil_linki": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop&crop=center"
+      "overview":"Görünüşünə əsaslanaraq, Kia ümid edir ki, siz 2021 Forte-ni görəcək və brendin əla Stinger idman sedanını düşünəcəksiniz, lakin bu yığcam avtomobil performans yönümlü olmaqdan daha çox dəyərə yönəlib. Onun başlanğıc qiyməti Honda Civic, Mazda 3 və Toyota Corolla kimi seqment liderlərindən minlərlə azdır, lakin Kia oxşar xüsusiyyətlər, əla yanacaq qənaəti və çoxlu üslub təqdim edir. Alıcılar əksər trimlərdə kifayət qədər anemik 147 at gücündə dörd silindrli alacaqlar, lakin daha sürətli GT modelinə 201 at gücündə turbomühərrikli dörd silindr daxildir. Bu versiyanın sürücülük dinamikası onun idman görünüşünə uyğundur, lakin sıranın qalan hissəsi əyləncə üçün çox şey təklif etmir. Bununla belə, o, sakit, asan gəzinti təmin edir və magistral kruiz vəzifələrini yaxşı yerinə yetirir.",
+      "color":"Göy",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2020-kia-forte-gt-101-1540917930.jpg?crop=1xw:0.9999090991728025xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-kia-forte-gt-107-1540917950.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-kia-forte-gt-115-1540917978.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-kia-forte-gt-116-1540918002.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 73,
       "marka": "Hyundai",
-      "model": "Wagon",
+      "model": "SUV",
       "spesifik_model": "Venue",
       "il": 2020,
       "yuruyus": 38500,
@@ -1548,7 +1722,13 @@
       "qeza_tarixi": "Ön bamper zədəsi, plastik hissələr dəyişdirilib",
       "zemanet": "Zəmanət qalmayıb",
       "texniki_muayine": "Sub-kompakt SUV yoxlaması - Mühərrik yaxşıdır, asqı elementlərinin bəziləri aşınıb",
-      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+      "overview":"2020 Hyundai Venue şirkətin ən yeni kiçik krossoveridir və o, fərqli üsluba və büdcəyə uyğun qiymət etiketinə malikdir. Qutu forması və kiçik nisbətləri ilə şəhər kəşfiyyatını asan və əyləncəli edir. Onun dörd silindrli güc aqreqatı sürətli deyil və yalnız ön təkərli ötürücü təklif olunur, lakin Məkan aşağı sürətlərdə şən olur və mühərrik heç vaxt çox kobud səslənmir. Xoş kabin də genişdir və bu seqment üçün həqiqətən faydalı yük yeri ilə gücləndirilir. Ən yüksək səviyyəli Denim modeli, eksklüziv ağ rəngə boyanmış damı və unikal dəri örtüyü sayəsində ən dəbdəbəli sayılır. Kiçik Hyundai magistral yolda məşğul davranış nümayiş etdirsə də, 2020 Mekanı bazarda ən yaxşı subkompakt yolsuzluq avtomobillərindən biridir.",
+      "color":"Boz",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2020-hyundai-venue-102-1579211922.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-hyundai-venue-102-1579211922.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-hyundai-venue-108-1579211926.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 74,
@@ -1564,12 +1744,19 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "4 il BMW zəmanəti",
       "texniki_muayine": "Kompakt coupe yoxlaması - TwinPower Turbo mühərrik və xDrive sistemləri mükəmməl",
-      "sekil_linki": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop&crop=center"
+      "overview":"Əyləncəli ölçülü BMW 2 seriyası böyük gücə malik giriş səviyyəli lüks avtomobildir. Yalnız kupe kimi satılır, 230i və M240i çox fərqli güc səviyyələrinə malikdir, lakin hər ikisi arxa və ya tam ötürücü ilə təklif olunur. 230i, Toyota Supra 2.0 və bir sıra digər BMW məhsulları ilə paylaşdığı 255 at gücündə turbomühərrikli dörd mühərrikdən istifadə edir. M240i daha əyləncəli turbomühərrikli 382 at gücündə sıra altı mühərriklə gəlir. Təəssüf ki, mexaniki sürət qutusu təklif edilmir. Yenə də BMW-nin ən kiçik avtomobilinin yeni dizaynı möhkəm əyləc və döngələri sevən şassi ilə aldadıcı dərəcədə sürətli bir sürüş yaratdı. Ölçüsü artsa da, arxa oturacaq yeri əvvəlkindən daha kiçikdir. Bununla belə, 2-seriyanın ən vacib cəhəti bu nəsildə doğru olaraq qalır: o, münasib qiymətə, xüsusən də dörd silindrli, 230i formada ruhlu sürücülüyü mükafatlandırır. 2 seriyalı nişanı taxan daha çox sərnişin üçün uyğun olan dörd qapılı arxa qapı var: o, Gran Coupe kimi tanınır, lakin o, bizi hələ də qazana bilməyən tamamilə fərqli ön ötürücü platformasında qurulub. Həmin modeli ayrıca nəzərdən keçiririk.",
+      "color":"Boz",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2022-bmw-230i-coupe-609-edit-1653594240.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-bmw-230i-coupe-178-1653594232.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-bmw-230i-coupe-175-1653594233.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-bmw-230i-coupe-176-1653594232.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 75,
       "marka": "Toyota",
-      "model": "Wagon",
+      "model": "SUV",
       "spesifik_model": "Venza",
       "il": 2022,
       "yuruyus": 18900,
@@ -1580,7 +1767,14 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "5 il Toyota hibrid zəmanəti qalıb",
       "texniki_muayine": "Hibrid crossover yoxlaması - AWD hibrid sistemin batareya səmərəliliyi 97%",
-      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+      "overview":"Toyota-nın şık 2022 Venza modeli orta ölçülü SUV arenasında yanacağa qənaətcil təklifdir, lakin o, boksçu krossoverlərindən daha kiçik və daha az praktikdir, bəziləri daha az pula başa gəlir. 2,5 litrlik dörd silindrli və üç elektrik mühərriki Venzanın tam ötürücülü, hibrid güc aqreqatından ibarətdir ki, bu da Honda Passport və Nissan Murano kimi V-6 mühərrikli rəqiblərindən daha yaxşı yanacaq istehlak edir. Toyota standart olaraq sürücüyə köməklik funksiyalarının hərtərəfli dəstini təklif edir və hamar elektroxrom panoramik lyuk da daxil olmaqla bir sıra müasir şərait də mövcuddur. Venzanın interyeri iki sıradan ibarətdir və sərnişinlər üçün kifayət qədər yer var, lakin alıcılar Hyundai Santa Fe və Jeep Grand Cherokee-də daha çox arxa oturacaq yeri tapacaqlar.",
+      "color":"Boz",
+      "img":[
+        "https://hips.hearstapps.com/hmg-prod/images/2021-toyota-venza-limited-338-1595375251.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-toyota-venza-limited-363-1595375248.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-toyota-venza-limited-516-hdr-1595375262.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-toyota-venza-limited-507-hdr-1595375262.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 76,
@@ -1596,12 +1790,21 @@
       "qeza_tarixi": "Təmiz tarixçə",
       "zemanet": "2 il Audi hibrid zəmanəti qalıb",
       "texniki_muayine": "Lüks hibrid limuzin yoxlaması - TFSI e hibrid sistemin bütün komponentləri optimal",
-      "sekil_linki": "https://images.unsplash.com/photo-1606016140965-726b2e7f67ad?w=800&h=600&fit=crop&crop=center"
+      "overview":"Audi-nin ən böyük və ən dəbdəbəli sedanı - 2021 A8 - özünün yüksək dollarlıq salonunu yaraşıqlı, lakin sadə olmayan fasadın arxasında gizlədir. Hətta Redaktorların Seçimləri siyahısında yer qazanır. Uzaqdan bu altı rəqəmli sedanı sadə A4 ilə səhv salmaq asandır, lakin bu cür anonimlik əslində daha təmkinli milyonerləri cəlb edə bilər. İçəridə alıcılar ön və arxa sərnişinlər üçün masaj oturacaqları da daxil olmaqla, Mercedes-Benz S-class və BMW 7-seriyası kimi geniş və zərif şəkildə təchiz edilmiş salon tapacaqlar. Audi bütün məlumat-əyləncə sistemini və sürücüyə yardım texnologiyasını burada təqdim etdi, belə ki, A8 səs-küylü xüsusiyyətlərin geniş nümayişi kimi xidmət edir.",
+      "color":"Boz",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2019-audi-a8l-101-1551195989.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2019-audi-a8l-102-1551196025.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2019-audi-a8l-105-1551196016.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2019-audi-a8l-104-1551195995.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2019-audi-a8l-109-1551195993.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2019-audi-a8l-110-1551196031.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 77,
       "marka": "Porsche",
-      "model": "Hatchback",
+      "model": "Coupe",
       "spesifik_model": "718 Cayman",
       "il": 2020,
       "yuruyus": 33000,
@@ -1612,12 +1815,19 @@
       "qeza_tarixi": "Trek zamanı kiçik döyülmə, kaporta işləri görülüb",
       "zemanet": "Fabrik zəmanəti bitib",
       "texniki_muayine": "Mid-engine idman avtomobili yoxlaması - Turbo mühərrik və şassi sistemləri yaxşı vəziyyətdə",
-      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+      "overview":"2020-ci ilin ən yaxşı 10 qalibi Porsche 718 Cayman böyük endirimlə eyni dərəcədə mükəmməl təcrübə təqdim etdikdə, superkarlara xəyalları və ya pul xərcləməyin mənası yoxdur. Porsche piramidasının dibinə yaxın olmasına baxmayaraq, Cayman kupesi və kabriolet Boxster (ayrıca nəzərdən keçirilir) sürücüyə misilsiz rəy təmin edən valehedici maşınlardır. Onun peşəkar şəkildə tənzimlənmiş şassisi üç fərqli düz dörd silindrli mühərrik və etibarlı mexaniki və ya telepatik avtomatik transmissiya ilə tamamlanır. Hər bir Kayman saysız-hesabsız fərdi seçimlərlə fərdiləşdirilə bilər və hətta yollarda yarışmadıqda uyğun bir sürüşü saxlayır. Əlbəttə, onun qaba mühərrik qeydləri və ilhamsız interyeri çatışmazlıqlardır, lakin 2020 718 Cayman arzuolunan superkar deyil, sadəcə əldə edilə bilən avtomobildir.",
+      "color":"Qırmızı",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/porsche-718-boxster-cayman-t-7-1545228914.jpg?crop=0.718xw:0.777xh;0.148xw,0.223xh&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/porsche-718-boxster-cayman-t-1-1545228913.jpg?crop=0.660xw:0.716xh;0.209xw,0.284xh&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/porsche-718-boxster-cayman-t-4-1545228913.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/porsche-718-boxster-cayman-t-3-1545228913.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 78,
       "marka": "Mazda",
-      "model": "Van",
+      "model": "SUV",
       "spesifik_model": "CX-90",
       "il": 2023,
       "yuruyus": 4800,
@@ -1628,7 +1838,16 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "5 il Mazda hibrid zəmanəti",
       "texniki_muayine": "Böyük hibrid SUV yoxlaması - e-SkyActiv hibrid sistemin performansı mükəmməl",
-      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+      "overview":"Mazda CX-90 2023 böyük və lüks SUV-dir, həm şəhər, həm də uzun yol sürüşləri üçün uyğundur. O, AWD və RWD seçimləri ilə yüksək performans və manevr qabiliyyəti təqdim edir. Kabinəsi geniş və komfortludur, müasir texnologiya və təhlükəsizlik sistemləri ilə təchiz olunub. Plug-in hibrid variantı ilə həm güc, həm də yanacaq səmərəliliyi təmin edilir.",
+      "color":"Qırmızı",
+      "img": [
+        "https://s.auto.drom.ru/i24278/c/photos/fullsize/mazda/cx-90/mazda_cx-90_1116057.jpg",
+        "https://s.auto.drom.ru/i24278/c/photos/fullsize/mazda/cx-90/mazda_cx-90_1116060.jpg",
+        "https://s.auto.drom.ru/i24278/c/photos/fullsize/mazda/cx-90/mazda_cx-90_1116066.jpg",
+        "https://s.auto.drom.ru/i24278/c/photos/fullsize/mazda/cx-90/mazda_cx-90_1116069.jpg",
+        "https://s.auto.drom.ru/i24278/c/photos/fullsize/mazda/cx-90/mazda_cx-90_1116070.jpg",
+        "https://s.auto.drom.ru/i24278/c/photos/fullsize/mazda/cx-90/mazda_cx-90_1116073.jpg"
+      ]
     },
     {
       "id": 79,
@@ -1639,12 +1858,19 @@
       "yuruyus": 12600,
       "qiymet": 95000,
       "yanacaq": "Benzin",
-      "tutum": 5,
+      "tutum": 7,
       "veziyyet": "Əla",
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "4 il Land Rover premium zəmanəti qalıb",
       "texniki_muayine": "Lüks SUV yoxlaması - Bütün premium sistemlər və hava asqısı mükəmməl işləyir",
-      "sekil_linki": "https://images.unsplash.com/photo-1606016159991-58d4d84a7e4d?w=800&h=600&fit=crop&crop=center"
+      "overview":"Yarım əsrdən artıq köhnəlmiş mavi yaxalı köklərə malik olsa da, 2022 Range Rover-in yüksək səviyyəli interyeri və birinci dərəcəli cizgiləri varlı, ağ yaxalı alıcıları cəlb etmək üçün nəzərdə tutulub. Onun çevrilməsi onilliklər ərzində hazırlansa da, bu dəri astarlı limuzin elə bir nöqtəyə çatdı ki, onun təxminən altı rəqəmli başlanğıc qiyməti uyğun tələb kimi görünür. Kabin dəri, ağac və qalın xovlu xalça kimi yüksək səviyyəli bitirmə xüsusiyyətlərinə malikdir. Həm də kifayət qədər texnika var. Alıcılar ya turbomühərrikli sıra altı, ya da gurultulu 523 at gücündə iki turbo V-8 mühərriki seçə bilərlər, lakin bütün modellər standart olaraq tam ötürücülü sistem, arxa təkərli sükan sistemi və əlavə yerdən təmizlənmə üçün qaldırıla bilən pnevmatik asqı kimi yolsuzluq qabiliyyətinə malik xüsusiyyətlərə malikdir. Az sayda Range Rover sahibi asfaltlanmış yollardan çox uzağa getməyə cəsarət edərdi, lakin siz istəsəniz edə biləcəyinizi bilmək əslində lüksdür. Qəribə bir şəkildə, 2022 model ili üçün buraxılmış bu yeni nəsil Range Rover inventar bitənə qədər əvvəlki nəslin 2022 modeli ilə birlikdə satılacaq.",
+      "color":"Qara",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2022-range-rover-147-1634929443.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-range-rover-134-1634929438.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-range-rover-139-1634929440.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-range-rover-137-1634929439.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 80,
@@ -1654,13 +1880,20 @@
       "il": 2021,
       "yuruyus": 26000,
       "qiymet": 28500,
-      "yanacaq": "Electric",
+      "yanacaq": "Hybrid",
       "tutum": 5,
       "veziyyet": "Çox yaxşı",
       "qeza_tarixi": "Təmiz tarixçə",
       "zemanet": "6 il Kia elektrik zəmanəti qalıb",
       "texniki_muayine": "Elektrik crossover yoxlaması - EV6 platformu və fast charging sistemi yoxlanıb",
-      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+      "overview":"2021 Kia Niro Hybrid, məşhur Toyota Prius-un damarında olan qaz-elektrikli subkompakt krossoverdir. Prius və Prius Prime kimi, Niro həm hibrid, həm də plug-in hibrid kimi təklif olunur. Ayrı-ayrılıqda nəzərdən keçirdiyimiz tam elektrik Niro EV də var. Toyota alternativlərindən fərqli olaraq, Kia daha aşağı yanacaq qənaətinə malikdir və adi Prius kimi tam ötürücü ilə mövcud deyil. Lakin o, obyektiv baxımdan daha yaxşı görünür və krossoverləri çoxları üçün arzuolunan edən daha yüksək oturma mövqeyinə malikdir. Sükan arxasında Niro nə sürətli, nə də cəlbedicidir, lakin onun təsirli yanacaq qənaəti hətta ən qənaətcil Mazda CX-30 və ya Hyundai Kona-nı da utandırır. Eyni şəkildə, hazırda bu sinifdə olan yeganə digər plug-in hibrid tam ötürücülü, lakin daha pis yanacaq səmərəliliyinə malik Subaru Crosstrek-dir. Bu, hər şeydən çox 2021 Niro-nu rəqabətdən ayırır.",
+      "color":"Göy",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2020-kia-niro-ex-premium-286-1606858706.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-kia-niro-ex-premium-309-1606858709.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-kia-niro-ex-premium-360-1606858721.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-kia-niro-ex-premium-354-1606858718.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 81,
@@ -1670,13 +1903,19 @@
       "il": 2022,
       "yuruyus": 15400,
       "qiymet": 25000,
-      "yanacaq": "Benzin",
+      "yanacaq": "Hybrid",
       "tutum": 5,
       "veziyyet": "Əla",
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "4 il Hyundai zəmanəti qalıb",
       "texniki_muayine": "Kompakt hetçbek yoxlaması - SmartStream mühərrik və Hyundai SmartSense sistemləri aktiv",
-      "sekil_linki": "https://images.unsplash.com/photo-1549399505-2d34c1fb6b43?w=800&h=600&fit=crop&crop=center"
+      "overview":"Yenilənmiş i30 Hetçbek bütün cəbhələrdə təqdim edir: Cəsarətli dizayn, təkmilləşdirilmiş təhlükəsizlik xüsusiyyətləri, qüsursuz əlaqə və 48V yumşaq hibrid mühərrik.",
+      "color":"Boz",
+      "img": [
+        "https://dmassets.hyundai.com/is/image/hyundaiautoever/HYU_PD_HATCHBACK_EViz_Env_PE2-EcotronicGrayPearl_52910G4720_C01:16x9?wid=960&hei=540&fit=wrap,1",
+        "https://dmassets.hyundai.com/is/image/hyundaiautoever/HYU_PD_HATCHBACK_EViz_Env_PE2-EcotronicGrayPearl_52910G4720_C06:4x3?wid=960&hei=720&fit=wrap,1",
+        "https://dmassets.hyundai.com/is/image/hyundaiautoever/Hyundai_i30_NLine_2024_Exterior_Human_Ready_9355:16x9?wid=640&hei=360&fit=wrap,1"
+      ]
     },
     {
       "id": 82,
@@ -1692,12 +1931,19 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "4 il BMW elektrik limuzin zəmanəti",
       "texniki_muayine": "Elektrik lüks limuzin yoxlaması - iDrive 8 və elektrik drivetrain sistemləri mükəmməl",
-      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+      "overview":"7-seriyanın tamamilə yeni nəsli, uzun BMW-nin flaqman sedanı və brendin ən dəbdəbəli və təkmil məhsulu 2023-cü model ili üçün debüt etdi. Formula indiki avtomobilinkindən çox dəyişmir: güc aqreqatlarına turbomühərrikli sıra altı və iki turbo V-8 daxildir, əlavə olaraq hibrid daha sonra sıraya qoşulur. İlkin sınaq sürüşümüzdə biz 7-seriyanın yolda həqiqətən üzdüyünü gördük. Yeni arxa təkər sükanı sistemi də daxil olmaqla, şassi və asmada bəzi dəyişikliklər sayəsində onun idarə olunması 2022-ci il avtomobilindən bir az daha yüngüldür. Onun sürücüyə yardım texnologiyası şosselərdə sürüşmələr üçün səssiz idarəetmə rejimini təmin edir, lakin avtomobilin nümayiş etdirmə xüsusiyyəti tavandan enən və bortdakı Wi-Fi sistemindən istifadə edərək TV və filmləri yayımlayan Teatr Ekranı adlı isteğe bağlı 31,3 düymlük arxa əyləncə ekranıdır.",
+      "color":"Qara",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2023-bmw-760i-xdrive-101-1650340309.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2023-bmw-760i-xdrive-103-1650340310.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2023-bmw-760i-xdrive-106-1650340310.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2023-bmw-760i-xdrive-110-1650340312.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 83,
       "marka": "Toyota",
-      "model": "Pickup",
+      "model": "SUV",
       "spesifik_model": "4Runner",
       "il": 2020,
       "yuruyus": 45000,
@@ -1708,7 +1954,15 @@
       "qeza_tarixi": "Offroad istifadə zədələri, qoruyucu elementlər əlavə edilib",
       "zemanet": "Zəmanət qalmayıb",
       "texniki_muayine": "Offroad SUV yoxlaması - 4WD sistem və diferensial kilidləri işlək vəziyyətdə",
-      "sekil_linki": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=800&h=600&fit=crop&crop=center"
+      "overview":"2020 Toyota 4Runner-in ekssentrik olduğunu düşünün: O, ölçüsünə (iki sıra oturacaqlar), at gücünə (270) və yük həcminə (öz sinfinə görə orta səviyyədən yüksək) görə müasir orta ölçülü yolsuzluq avtomobilinin qəlibinə uyğun gəlir, lakin sükan arxasında bu, əsas ailə daşıyıcılarına bənzəmir. Çərçivə üzərində qurulmuş bu ofrouder ticarət mərkəzində sürünməkdən daha çox qaya üzərində sürünməyə daha uyğun olan idarəetmə hissini təqdim edir. Buna görə də, gündəlik sürücünüzün magistral yolun giriş enişində necə getməsi və Moabın tətil planlarınızda olmaması ilə maraqlanırsınızsa, başqa yerə baxın. Ancaq sərgüzəştlərinizin çınqıllı yolları qayalara, çuxurlara və ya palçığa aparırsa, o zaman 4Runner daha yaxşı həyata aparan vinç xəttinizdir.",
+      "color":"Qara",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2017/07/2017-Toyota-4Runner-TRD-Off-Road-4WD-125.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2017/07/2017-Toyota-4Runner-TRD-Off-Road-4WD-124.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2017/07/2017-Toyota-4Runner-TRD-Off-Road-4WD-145.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2017/07/2017-Toyota-4Runner-TRD-Off-Road-4WD-173.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2017/07/2017-Toyota-4Runner-TRD-Off-Road-4WD-179.jpg?resize=980:*"
+      ]
     },
     {
       "id": 84,
@@ -1724,12 +1978,19 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "3 il Audi supercar zəmanəti qalıb",
       "texniki_muayine": "Supercar kabriolet yoxlaması - V10 mühərrik və Quattro sport diferensialı mükəmməl",
-      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+      "overview":"Audi-nin ən yaxşı modeli olan R8 idman avtomobili iki oturacaqlı kabinəsinin arxasında 602 at gücünə malik V-10 mühərriki ilə öyünür. O, Lamborghini Huracán ilə çox şey paylaşır, lakin R8 daha az parlaq üslubdadır. Avtomobil sürmək də az cəlbedicidir, lakin gündəlik sürə biləcəkləri super avtomobil axtaran alıcılar Audi-nin incəliyini cəlbedici hesab edə bilərlər. İnteryer çox az təchiz olunub, bütün məlumat-əyləncə funksiyaları rəqəmsal ölçü klasteri vasitəsilə idarə olunur, lakin bu, hələ də R8-in yüksək başlanğıc qiymətinə layiq olan rahat və yüksək səviyyəli mühitdir. Daha çox yük yeri təqdir ediləcək, amma buna görə belə bir avtomobil almırsınız. Siz R8 və ya onun rəqibləri olan Porsche 911 və McLaren 570S-i sürməkdən gələn əyləncə üçün alırsınız.",
+      "color":"Göy",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2020-audi-r8-spyder-104-1586899600.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-audi-r8-spyder-109-1586899628.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-audi-r8-spyder-143-1586899832.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-audi-r8-spyder-149-1586899855.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 85,
       "marka": "Porsche",
-      "model": "Van",
+      "model": "SUV",
       "spesifik_model": "Cayenne Turbo",
       "il": 2021,
       "yuruyus": 19500,
@@ -1740,7 +2001,14 @@
       "qeza_tarixi": "Təmiz tarixçə",
       "zemanet": "2 il Porsche performans zəmanəti qalıb",
       "texniki_muayine": "Performans SUV yoxlaması - Twin-turbo V8 və PASM sistemləri yoxlanıb",
-      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+      "overview":"2021 Porsche Cayenne dizaynı ilə yolsuzluq avtomobilidir, lakin təbiətcə idman avtomobilidir və bu, ona Redaktorların Seçimi mükafatını qazandırmışdır. Porsche-nin bu ən böyüyü bir cüt təcrübəli V-6, müasir plug-in hibrid (ayrıca nəzərdən keçirilir) və gurultulu tvin-turbo V-8 daxil olmaqla müxtəlif güc aqreqatları təqdim edir. Təbii ki, gücdən düzgün istifadə edilmədikdə mənasızdır və Cayenne-nin fitri atletizmi və yüksək idarəetmə xüsusiyyətləri onun alman brendinin şanlı tarixinə uyğun gəlməsini təmin edir. Onun geniş interyeri əsasən Porsche-nin mövcud seçimlərin geniş siyahısı sayəsində fərdiləşdirmə üçün bir kətandır. Bu xüsusiyyətlər onun qiymətini sürətlə artıra bilsə də və biz hesab edirik ki, bəziləri standart olmalıdır, heç olmasa onlar ixtiyarlıdır. Bundan əlavə, 2021 Cayenne və Cayenne Coupe avtomobil sürmək həvəskarlarını tam cəlb edən orta ölçülü lüks krossoverlərdir. Bu, onları bizim sevimli seçimimiz edir.",
+      "color":"Ağ",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2021-porsche-cayenne-gts-coupe-116-1622831905.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-porsche-cayenne-gts-coupe-132-1622831912.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-porsche-cayenne-gts-coupe-133-1622831912.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2021-porsche-cayenne-gts-coupe-134-1622831912.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 86,
@@ -1756,7 +2024,13 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "8 il Mazda elektrik zəmanəti",
       "texniki_muayine": "Elektrik crossover yoxlaması - Freestyle qapıları və elektrik sistemləri test edilib",
-      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+      "overview":"2023-cü il Mazda MX-30 kimi məhdud sürmə diapazonuna malik olan EV birinci nəsil Nissan Leaf satışa çıxarılandan bəri adi olmayıb və bu kiçik qəşəng krossoverin cəlbediciliyini məhdudlaşdırır. Demək olar ki, bütün rəqibləri şarj başına 200 və ya daha çox mil təklif edir və bir çoxu MX-30-u yükləmək üçün sürətləndirir. Mazda-nın əvəzolunmaz keyfiyyətləri onun ekoloji cəhətdən təmiz interyeri, kəskin kupeyə bənzər üslubu və Kia Niro EV və Volkswagen ID.4 kimi rəqiblərini təxminən 5000 dollar aşağı salan aşağı başlanğıc qiymətidir. Bununla belə, MX-30 yalnız Kaliforniyada və az sayda satılır. Mazda-nın nadir hallarda evdən uzaqlaşan sürücülər üçün layiqli seçim olduğunu görə bilsək də, MX-30-un daha rəqabətli elektrikli avtomobillərin artan bazarında niyə uzun sürmədiyini görmək aydındır.",
+      "color":"Boz",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2022-mazda-mx-30-premium-plus-545-edit-1639421308.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-mazda-mx-30-premium-plus-643-1639421319.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-mazda-mx-30-premium-plus-653-1639421321.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 87,
@@ -1779,7 +2053,7 @@
       "marka": "Kia",
       "model": "Sedan",
       "spesifik_model": "Cadenza",
-      "il": 2021,
+      "il": 2020,
       "yuruyus": 24500,
       "qiymet": 38000,
       "yanacaq": "Benzin",
@@ -1788,7 +2062,14 @@
       "qeza_tarixi": "Təmiz tarixçə",
       "zemanet": "5 il Kia premium zəmanəti qalıb",
       "texniki_muayine": "Premium sedan yoxlaması - Lambda V6 mühərrik və lüks komfortlar yoxlanıb",
-      "sekil_linki": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop&crop=center"
+      "overview":"Stabil yoldaşları Telluride, Stinger və K900 kimi, 2020 Cadenza da Kia-nın lüks yönümlü məhsullara doğru uğurlu gedişinin siqnalıdır. Bilənlər üçün Cadenza daralan seqmentdə layiqli təklifdir. Təmizlənmiş V-6 mühərriki Cadenza-nın rahat sürmə dinamikası üçün kifayət qədər güc təmin edir və sınaqlarımızda şossedə yanacaq sərfiyyatının 31 mpg olduğunu gördük. Cadenza standart 12,3 düymlük sensor ekranlı məlumat-əyləncə sistemi və sürücüyə köməklik funksiyalarının standart dəsti ilə texnologiya departamentində də möhkəm dəyər təklif edir. Onun Acura və ya Lexus nişanının olmaması kimin vecinədir?",
+      "color":"Qara",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/kia-cadenza-102-1581084730.jpg?crop=0.663xw:0.498xh;0.0369xw,0.385xh&resize=640:*",
+        "https://hips.hearstapps.com/hmg-prod/images/kia-cadenza-102-1581084730.jpg?crop=1xw:1xh;center,top&resize=980:* 980w",
+        "https://hips.hearstapps.com/hmg-prod/images/kia-cadenza-108-1581084729.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/kia-cadenza-109-1581084730.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 89,
@@ -1798,13 +2079,19 @@
       "il": 2022,
       "yuruyus": 13800,
       "qiymet": 59000,
-      "yanacaq": "Other",
+      "yanacaq": "Hybrid",
       "tutum": 5,
       "veziyyet": "Əla",
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "8 il hidrogen fuel cell zəmanəti qalıb",
       "texniki_muayine": "Hidrogen yanacaq hüceyrəli SUV yoxlaması - FCEV sistemin səmərəliliyi 95%",
-      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+      "overview":"Hətta cəsarətli üslubu mənimsəyən digər Hyundai-lər arasında belə, 2022 Nexo-nun görünüşü fərqli olması ilə seçilir. Çünki fərqlidir. Benzin mühərriki və ya hibrid güc aqreqatı əvəzinə Nexo ən yaxın rəqibi Toyota Mirai sedanına bənzər hidrogenlə işləyən elektrik avtomobilidir. Onun sürmə məsafəsi 380 mil-ə qədər təsir edicidir, lakin onun sürətlənməsi sınaqdan keçirdiyimiz əksər EV-lərdən daha yuxuludur. Nexo-nun süqutu həqiqətən məhdud bazardır. Hidrogen yanacaqdoldurma stansiyalarına güvəndiyi üçün o, yalnız ölkənin mövcud ərazilərində satıla və sahib ola bilər. Beləliklə, Hyundai hazırda Nexo-nu yalnız Kaliforniyada satışa təqdim edir.",
+      "color":"Ağ",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2018/02/Hyundai-Nexo-fuel-cell-protoype-111.jpg?fill=18:11&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2018/04/Hyundai-Nexo-fuel-cell-protoype-111.jpg?fill=18:11&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2018/04/Hyundai-Nexo-fuel-cell-protoype-117.jpg?fill=18:11&resize=980:*"
+      ]
     },
     {
       "id": 90,
@@ -1815,33 +2102,48 @@
       "yuruyus": 5200,
       "qiymet": 89000,
       "yanacaq": "Electric",
-      "tutum": 7,
+      "tutum": 5,
       "veziyyet": "Yeni kimi",
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "4 il BMW elektrik SUV zəmanəti",
       "texniki_muayine": "Elektrik lüks SUV yoxlaması - iDrive sistemin 5G və AI funksiyaları test edilib",
-      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+      "overview":"BMW-nin elektrikləşdirilmiş gələcəyini 2023-cü il iX SUV təqdim edir, o, brendin məşhur X5-i kimi geniş yer və praktikliyi təklif edir, lakin ən müasir istedada malikdir. İki elektrik mühərriki tam ötürücülü və geniş gücdən daha çox güc təmin edir - xDrive50-də 516 at gücü və M60-da 610 at gücündədir, böyük batareya dəsti isə hər şarj üçün 300 mildən çox məsafəni qət etmək üçün kifayət qədər şirə verir. iX-in geniş interyeri incə materiallarla örtülmüşdür və zərif, futuristik dizayna malikdir; böyük rəqəmsal idarə paneli BMW-nin iDrive məlumat-əyləncə sisteminin gələcəyini əks etdirir və mərkəzi konsoldakı sərin, şəffaf fırlanan düymə ilə idarə olunur. iX, Audi e-tron və Tesla Model X kimi tam elektrik rəqibləri ilə rəqabət aparmaq üçün lazım olan hər şeyə malikdir və Fisker Ocean və Rivian R1S kimi yeni gələnlərə qarşı yaxşı dayanmalıdır.",
+      "color":"Boz",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2023-bmw-ix-m60-107-1653422430.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2023-bmw-ix-m60-116-1653422439.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2023-bmw-ix-m60-124-1653422444.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2023-bmw-ix-m60-125-1653422444.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 91,
       "marka": "Toyota",
-      "model": "Van",
-      "spesifik_model": "Previa",
+      "model": "Hatchback",
+      "spesifik_model": "Prius Prime",
       "il": 2021,
       "yuruyus": 32000,
       "qiymet": 29500,
       "yanacaq": "Hybrid",
       "tutum": 7,
       "veziyyet": "Yaxşı",
-      "qeza_tarixi": "Arxa sensorlarda kiçik zədə, dəyişdirilib",
+      "qeza_tarixi": "Təmiz tarixçə",
       "zemanet": "2 il Toyota hibrid zəmanəti qalıb",
       "texniki_muayine": "Hibrid minivan yoxlaması - HSD hibrid sistemi və oturacaq mexanizmləri yoxlanıb",
-      "sekil_linki": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&h=600&fit=crop&crop=center"
+      "overview":"2021 Toyota Prius Prime, plug-in-hibrid güc aqreqatı ilə əldə edə biləcəyiniz yeganə Priusdur, lakin bütün Priuslar kimi o, hetçbek avtomobilindən çox kosmik gəmiyə bənzəyir. Prime, at arabası qədər sürətli və əyləncəli sürmə qabiliyyətinə malik olsa da, təsirli EPA yanacaq qənaəti reytinqləri və 25 mil qısa olsa da, faydalı tam elektrik sürmə məsafəsi ilə öyünür. Bu, onu uzun yol səfərləri üçün ən yaxşı seçim etmir - orada şirəsi bitdikdən sonra qaz mühərriki işə düşəcək. Lakin bu, xüsusilə ekoloji cəhətdən təmiz həyat tərzi sürmək istəyən, qısa səyahətlər sürməyə meylli olan və ən son sürücü yardımlarını istəyən insanlar üçün mükəmməldir. 2021 Prius Prime ən yaxşı plug-in hibrid deyil, lakin onun özünəməxsus qəribə elm qabiliyyəti var və Toyota-nın etibarlılıq reputasiyasından faydalanır.",
+      "color":"Göy",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2017/06/2017-toyota-prius-prime-1.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2017/05/2017-Prius-Prime-104.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2017/05/2017-Prius-Prime-128.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2017/05/2017-Prius-Prime-131.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2017/05/2017-Prius-Prime-156.jpg?resize=980:*"
+      ]
     },
     {
       "id": 92,
       "marka": "Audi",
-      "model": "Hatchback",
+      "model": "Sedan",
       "spesifik_model": "e-tron GT",
       "il": 2023,
       "yuruyus": 4600,
@@ -1852,12 +2154,19 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "4 il Audi elektrik supercar zəmanəti",
       "texniki_muayine": "Elektrik idman avtomobili yoxlaması - 800V arxitektura və quattro electric drivetrain mükəmməl",
-      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+      "overview":"Elektronlar, mühərriklər, batareya paketləri və kilovatlar avtomobil leksikonuna bir çox yeni sözlər əlavə etdi, lakin Audi e-tron GT EV-ə gəldikdə, lüğət sadədir: bu şey əyləncəlidir! Etkileyici Porsche Taycan-ın platforma yoldaşı olan e-tron GT sakit gediş və çılğın sürətlənmə təmin edir. Hər oxda bir mühərriklə birləşmiş güc 522 at gücündən başlayır və ən güclü RS e-tron GT modelində 637-yə qədər yüksəlir. Test zamanı biz RS e-tron GT ilə 240 mil şosse məsafəsini idarə etdik, bu Tesla Model S-i ehtiva edən seqmentdə lovğalanmaya layiq deyil. e-Tron GT 270 kVt DC sürətli şarj cihazı sayəsində sadəcə orta diapazonu üçün müəyyən kompensasiya təklif edir ki, bu da onu bu gün satılan ən sürətli elektrik enerjisi ilə dolduran avtomobillərdən birinə çevirir. Onun standart interyeri təkrar emal edilmiş dəridən təmizlənmiş materiallardan hazırlanır, lakin onun alçaq damı və dar kokpiti arxa oturacaq sürücülərinə minib-çıxmağı çətinləşdirir. Audi-nin ən sürətli EV-si sürmək üçün maraqlıdır və baxmaq üçün əladır, lakin Tesla Model S kimi daha geniş diapazonlu EV-lər tam elektrik nəqliyyatı ilə yaşamaq üçün daha yaxşı arqument yaradır.",
+      "color":"Boz",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2022-audi-rs-e-tron-gt-101-1637247546.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-audi-rs-e-tron-gt-107-1637247542.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-audi-rs-e-tron-gt-112-1637247549.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-audi-rs-e-tron-gt-117-1637247551.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 93,
       "marka": "Porsche",
-      "model": "Truck",
+      "model": "Coupe",
       "spesifik_model": "911 GT3",
       "il": 2022,
       "yuruyus": 6800,
@@ -1868,12 +2177,19 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "3 il Porsche trek avtomobili zəmanəti qalıb",
       "texniki_muayine": "Trek idman avtomobili yoxlaması - Naturally aspirated mühərrik və aero paket mükəmməl",
-      "sekil_linki": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&h=600&fit=crop&crop=center"
+      "overview":"Eksklüziv atmosferli mühərrik və yarış avtomobilindən ilhamlanmış komponentlərlə 2022 Porsche 911 GT3 sürücünün iştirakı və trek günü şöhrəti üçün optimallaşdırılıb. Porsche özünün ən visseral 911 variantını 911 yol avtomobilində birinci olan idarəedici qollu ön asqı və aşağı əvəzinə yuxarıda quraşdırılmış qeyri-adi arxa qanadla təkmilləşdirir. GT3 həm də turbo yüklənməmiş yeganə 911-dir və onun 502 at qüvvəli 4,0 litrlik düz altı mühərrikinin həssas təbiəti və immersiv səsləri ilhamvericidir. Arxaya quraşdırılmış dəyirmanın özəlliyi telepatik yeddi pilləli PDK avtomatik transmissiyası və ya mükafatlandırıcı altı pilləli mexaniki sürət qutusu ilə daha da həyata keçirilir. Unikal asma quruluşu və trasa yönəldilmiş təkər seçimləri sayəsində 2022 911 GT3 heyrətamiz dərəcədə elastik, möhkəm olsa da, sürmə və inanılmaz sükan hissi yaradır ki, bu da onu sürməyin bu qədər həyəcanlandıran səbəblərindən yalnız bir neçəsidir. Onlar həmçinin 2022-ci il üçün Redaktorların Seçimi siyahımızı yaratmağa kömək edir.",
+      "color":"Göy",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2022-porsche-911-gt3-103-1622559323.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-porsche-911-gt3-109-1622559323.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-porsche-911-gt3-131-1622559335.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-porsche-911-gt3-136-1622559337.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 94,
       "marka": "Mazda",
-      "model": "Wagon",
+      "model": "SUV",
       "spesifik_model": "CX-60",
       "il": 2023,
       "yuruyus": 8700,
@@ -1884,12 +2200,18 @@
       "qeza_tarixi": "Təmiz tarixçə",
       "zemanet": "5 il Mazda hibrid zəmanəti",
       "texniki_muayine": "Hibrid premium SUV yoxlaması - e-SkyActiv PHEV sistemin elektrik məsafəsi optimal",
-      "sekil_linki": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&h=600&fit=crop&crop=center"
+      "overview":"Hyundai Tucson, Nissan Rogue və Toyota RAV4 kimi kompakt krossover rəqiblərini qəbul etmək üçün yaxşı təchiz olunmuş 2023 CX-50 SUV formasında Mazda-nın sırasına yeni ad lövhəsi qoşuldu. CX-50 ya atmosferə malik 187 at gücündə 2,5 litrlik dörd silindrli, ya da bu mühərrikin 256 at gücünə malik turbomühərrikli versiyası ilə mövcuddur. Bütün modellər altı pilləli avtomatik və tam ötürücü ilə gəlir. Toyota-dan güc aqreqatı istifadə edəcək hibrid model də işlərdədir. CX-50 kiçik kompakt CX-30 krossoveri və Mazda 3 kompakt avtomobili ilə platformanı paylaşır, ona görə də o, bu iki qalibə bənzər atletik idarəetmə təklif edir. Şirkətin CX-5 SUV-indən demək olar ki, böyük olmasına baxmayaraq, CX-50 daha möhkəm üsluba malikdir ki, bu da Mazda seriyasının başqa yerlərində tapılan daha incə, yüksək səviyyəli dizaynlardan fərqlidir.",
+      "color":"Göy",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2023-mazda-cx-50-2p5-turbo-premium-plus-106-1654163954.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2023-mazda-cx-50-2p5-turbo-premium-plus-108-1654163954.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2023-mazda-cx-50-144-1648235915.jpg?crop=1.00xw:0.920xh;0,0.0674xh&resize=640:* 640w, https://hips.hearstapps.com/hmg-prod/images/2023-mazda-cx-50-144-1648235915.jpg?crop=1.00xw:0.920xh;0,0.0674xh&resize=980:* 980w"
+      ]
     },
     {
       "id": 95,
       "marka": "Land Rover",
-      "model": "Coupe",
+      "model": "SUV",
       "spesifik_model": "Range Rover SVR",
       "il": 2021,
       "yuruyus": 16200,
@@ -1900,7 +2222,14 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "2 il Land Rover performans zəmanəti qalıb",
       "texniki_muayine": "Performans lüks SUV yoxlaması - Supercharged V8 və SVR aero paketi yoxlanıb",
-      "sekil_linki": "https://images.unsplash.com/photo-1606016159991-58d4d84a7e4d?w=800&h=600&fit=crop&crop=center"
+      "overview":"2021 Range Rover Sport Supercharged və SVR modelləri fərqli cins dəbdəbəli yolsuzluq avtomobili alıcıları üçün nəzərdə tutulub - o, münasibəti və güclü V-8 mühərriki ilə nəsə axtaran şəxsdir. Bu heyvanların kapotu altındakı 5,0 litrlik dəyirman kompressorludur və standart görünüşdə sağlam 518 at qüvvəsi və SVR üçün tam uyğunluqda ətli 575 at gücü istehsal edir. Yüksək performanslı yolsuzluq avtomobilləri yeni konsepsiya deyil; Land Rover BMW, Mercedes-AMG və Porsche kimi avtomobillərlə kifayət qədər rəqabət aparır. Lakin Range Rover Sport Supercharged-ı xüsusi edən onun arxa yoldan yolsuzluq super ulduzuna necə asanlıqla keçə bilməsidir. Onun daha yumşaq tərəfi də var: həm Sport Supercharged, həm də SVR ailə üçün çoxlu yer olan dəbdəbəli təchiz edilmiş kabinlər təklif edir. Əlbəttə ki, bütün bu yaxşılıq sərt bir qiymətə gəlir - bu, altı rəqəm diapazonuna sürətlə çatır.",
+      "color":"Göy",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2018-land-rover-range-rover-sport-svr-118-1523893336.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2018-land-rover-range-rover-sport-svr-122-1523893337.jpg?crop=1xw:1xh;center,top&resize=640:* 640w, https://hips.hearstapps.com/hmg-prod/images/2018-land-rover-range-rover-sport-svr-122-1523893337.jpg?crop=1xw:1xh;center,top&resize=980:* 980w",
+        "https://hips.hearstapps.com/hmg-prod/images/2018-land-rover-range-rover-sport-svr-120-1523893336.jpg?crop=1xw:1xh;center,top&resize=640:* 640w, https://hips.hearstapps.com/hmg-prod/images/2018-land-rover-range-rover-sport-svr-120-1523893336.jpg?crop=1xw:1xh;center,top&resize=980:* 980w",
+        "https://hips.hearstapps.com/hmg-prod/images/2018-land-rover-range-rover-sport-svr-123-1523893337.jpg?crop=1xw:1xh;center,top&resize=640:* 640w, https://hips.hearstapps.com/hmg-prod/images/2018-land-rover-range-rover-sport-svr-123-1523893337.jpg?crop=1xw:1xh;center,top&resize=980:* 980w"
+      ]
     },
     {
       "id": 96,
@@ -1916,12 +2245,19 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "10 il Kia elektrik SUV zəmanəti",
       "texniki_muayine": "Elektrik böyük SUV yoxlaması - E-GMP platformu və ultra-fast charging qabiliyyəti test edilib",
-      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+      "overview":"Kia EV9 2023 Kia-nın qabaqcıl tam elektrik yolsuzluq avtomobilidir və brendin böyük elektrik SUV seqmentinə keçidini təmsil edir. Hyundai Motor Group-un E-GMP (Elektrik Qlobal Modul Platforması) üzərində qurulmuş o, futuristik dizaynı, qabaqcıl texnologiyanı və ailə praktikliyini birləşdirir.",
+      "color":"Göy",
+      "img": [
+        "https://car-images.bauersecure.com/wp-images/173428/1752x1168/58-kia-ev9-review.jpg?mode=max&quality=90&scale=down",
+        "https://car-images.bauersecure.com/wp-images/173428/1752x1168/60-kia-ev9-review.jpg?mode=max&quality=90&scale=down",
+        "https://car-images.bauersecure.com/wp-images/173428/1752x1168/67-kia-ev9-review.jpg?mode=max&quality=90&scale=down",
+        "https://car-images.bauersecure.com/wp-images/173428/1752x1168/71-kia-ev9-review.jpg?mode=max&quality=90&scale=down"
+      ]
     },
     {
       "id": 97,
       "marka": "Hyundai",
-      "model": "Truck",
+      "model": "Sedan",
       "spesifik_model": "Ioniq 6",
       "il": 2023,
       "yuruyus": 6900,
@@ -1932,7 +2268,14 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "8 il Hyundai elektrik sedan zəmanəti",
       "texniki_muayine": "Elektrik streamlined sedan yoxlaması - E-GMP arxitekturanın aerodinamik səmərəliliyi 95%",
-      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+      "overview":"Hyundai özünün ən son EV modeli, Ioniq 6 adlı sedanı ilə Tesla Model 3 ilə rəqabət aparmağı hədəfləyir. Bizim fikrimizcə, avtomobil öz üslubu və mahiyyətinin qarışığı ilə bizi o qədər heyran etdi ki, biz onu 2023-cü il üçün İlin EV avtomobili adlandırdıq. Bu dördqapılı avtomobil şirkətin Ioniq alt və hissələrinə uyğundur. boxier Ioniq 5. Bu o deməkdir ki, tək və iki mühərrikli konfiqurasiyalar təklif olunur, iki batareya paketi variantı. Aerodinamik forma ilə birlikdə 77,4 kVt-saatlıq batareya paketi (yalnız əsas modeldə daha kiçik 53,0 kVt-saat paket var) 6-nın ən uzun mənzilli SE Long Range konfiqurasiyasında təxmini 361 mil maksimum sürmə məsafəsini təmin edəcəyini bildirir. Onun üslubu Hyundai-nin dramatik Prophecy konseptindən ilhamlanıb və Ioniq 6 futuristik və dəbli olduğu qədər də sürətlidir. O, həmçinin Model 3-dən daha dəbdəbəli interyer təklif edir və Hyundai-nin qazla işləyən Sonata və Elantra sedanları ilə müqayisədə daha çox bort texnologiyasına malikdir.",
+      "color":"Boz",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/large-52984-2023ioniq6-1669059754.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/large-52914-2023ioniq6-1669059801.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/large-53002-2023ioniq6-1669059801.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/large-52967-2023ioniq6-1669059782.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 98,
@@ -1948,12 +2291,19 @@
       "qeza_tarixi": "Sağ tərəf ayna zədəsi, dəyişdirilib",
       "zemanet": "Fabrik zəmanəti bitib, BMW servis müqaviləsi var",
       "texniki_muayine": "Hibrid supercar kabriolet yoxlaması - eDrive sistemi və karbon fiber gövdə yoxlanıb",
-      "sekil_linki": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?w=800&h=600&fit=crop&crop=center"
+      "overview":"Hibrid idman avtomobilləri elektrik enerjisinin performansını artıran keyfiyyətlər sayəsində getdikcə daha çox yayılmışdır, lakin 2020 BMW i8 sürətli getməkdən daha çox sürətli görünmək üçündür. Bununla belə, BMW dihedral qapılarının hardtop kupedə və ya konvertasiya edilə bilən rodsterdə açılmasından asılı olmayaraq şou-dayandırıcı giriş təmin edir. Onun plug-in güc aqreqatı əhəmiyyətli dərəcədə güclü və daha az hibridlərdən daha sürətli olsa da, yerli yarış meydançanızdan daha çox Whole Foods parkının ətrafında bir gözyaşı görəcəksiniz. İstifadəçi dostu gəzinti və rahat ön oturacaqlar 2020 i8-i hər gün istifadəyə yararlı edir; lakin onun məhdud saxlama sahəsi və kabinəyə giriş imkanları onu əksər insanların siyahısından kənarlaşdıra bilər.",
+      "color":"Qara",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2020-bmwi8-mmp-1-1573836896.jpg?crop=0.897xw:0.756xh;0,0.244xh&resize=1200:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2019-bmw-i8-roadster-123-1541523540.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2019-bmw-i8-roadster-121-1541523540.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2019-bmw-i8-roadster-120-1541523540.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      ]
     },
     {
       "id": 99,
       "marka": "Toyota",
-      "model": "Truck",
+      "model": "SUV",
       "spesifik_model": "Land Cruiser",
       "il": 2022,
       "yuruyus": 22000,
@@ -1964,8 +2314,14 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "4 il Toyota offroad hibrid zəmanəti qalıb",
       "texniki_muayine": "Hibrid offroad SUV yoxlaması - Multi-terrain hibrid sistemi və CRAWL control mükəmməl",
-      "sekil_linki": "https://chatgpt.com/c/689d0870-1ddc-8333-ab92-e2706ab9b3b2",
-      "rəng" : "Qırmızı"
+      "overview":"Biz düşündük ki, Land Cruiser həmişəlik yoxa çıxıb – əsasən Toyota bunu bizə dediyi üçün – amma sürpriz! Yolsuzluq çempionu qayıtdı, balam. O, bu yaxınlarda yenidən işlənmiş Lexus GX ilə platformanı bölüşür və eyni şəkildə qutu görünüşünü geyinir, lakin Cruiser 326 at gücünə malik turbomühərrikli dörd silindrli hibrid güc aqreqatı ilə təchiz edilir. (Lexus 349 at gücündə turbomühərrikli 3,4 litrlik V-6 istifadə edir.) Əvvəlki nəsil LC tam ölçülü yolsuzluq avtomobili olsa da, bu dəfə Ford Bronco və Jeep Wrangler kimi digər əsas ofrouderlərə qarşı mübarizə aparmaq üçün orta ölçüyə endirildi. Bu strategiya həm də Toyota Sequoia üçün tam ölçülü SUV bazarını açıq qoyur. İçəridə Land Cruiser iki cərgədə beş nəfərlik oturacaq təklif edir və müasir alıcıları məmnun etmək üçün lazımi məlumat-əyləncə texnologiyasını təklif edir. Toyota hətta onu qabaqcıl sürücüyə yardım funksiyaları ilə təchiz edir, çünki əksər Land Cruiser sahibləri üçün bu yük maşını həm həftə sonu oyuncağı, həm də həftə içi sərnişin kimi xidmət edəcəkdir. Cızığa çıxmağın vaxtı çatdıqda, Land Cruiser çətin işlərin öhdəsindən gəlmək üçün avadanlıqlara, o cümlədən aşağı diapazonlu ötürmə və kilidləmə diferensiallarına malik dörd təkərli sistemə malikdir.",
+      "color":"Ağ",
+      "img":[
+        "https://www.motortrend.com/uploads/sites/5/2021/06/2022-Toyota-Land-Cruiser-17.jpg",
+        "https://www.motortrend.com/uploads/sites/5/2021/06/2022-Toyota-Land-Cruiser-6.jpg",
+        "https://www.motortrend.com/uploads/sites/5/2021/06/2022-Toyota-Land-Cruiser-7.jpg",
+        "https://www.motortrend.com/uploads/sites/5/2021/06/2022-Toyota-Land-Cruiser-2.jpg"
+      ]      
     },
     {
       "id": 100,
@@ -1981,8 +2337,13 @@
       "qeza_tarixi": "Heç bir qəza qeydə alınmayıb",
       "zemanet": "4 il Audi RS performans zəmanəti",
       "texniki_muayine": "RS performans SUV yoxlaması - Twin-turbo V8 TFSI və quattro sport diferensial sistemləri mükəmməl",
-      "sekil_linki": "https://hips.hearstapps.com/hmg-prod/images/2020-audi-q7-208-1584322589.jpg?crop=0.927xw:0.782xh;0.0733xw,0.181xh&resize=1200:*",
-      "rengi" : "Boz"
+      "overview":"Audi ən yüksək performanslı avtomobilləri üçün RS nişanını özündə saxlayır və RS Q8 onun ən yaxşı SUV modeli Q8-in son versiyasıdır. Kiçik SQ8 kimi 4,0 litrlik iki turbomühərrikli V-8 mühərrikinə malik olsa da, RS Q8 özünü 591 at gücü və yolda çoxlu iştirak edən aqressiv görünüşü ilə fərqləndirir. Performans, RS Q8-in dəri altında bir çox komponentləri paylaşdığı əhəmiyyətli dərəcədə daha bahalı bacısı, Lamborghini Urus qədər təsir edici və təsir edicidir. İnteryer digər Q8 modelləri ilə eyni texnoloji plana malikdir; elastik dəri və süni süet kimi zərif materiallar çoxdur. Qiyməti 100.000 dollardan xeyli yuxarı olan RS Q8 ucuz deyil, lakin bütün bunları edən lüks performanslı SUV kimi o, baha başa gəlir.",
+      "color":"Qara",
+      "img": [
+        "https://hips.hearstapps.com/hmg-prod/images/2023-audi-rs-q8-front-1659461005.jpg?crop=0.842xw:0.711xh;0.101xw,0.222xh&resize=1200:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-audi-rs-q8-113-1573833278.jpg?crop=1.00xw:0.892xh;0,0.0184xh&resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-audi-rs-q8-112-1573833277.jpg?crop=1.00xw:0.892xh;0,0.0392xh&resize=980:*"
+      ]
     }
   ],
   
