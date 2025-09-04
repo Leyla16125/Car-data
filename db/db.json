@@ -202,6 +202,7 @@
       "zemanet": "3 il kommersiya zəmanəti qalıb",
       "texniki_muayine": "Kommersiya nəqliyyat vasitəsi yoxlaması keçib - Yük tutumu təsdiqlənib",
       "overview":"Yaxşı dizayn edilmiş 9 nəfərlik avtomobilin hər santimetri, kabin boşluğundan maksimum istifadə edərək, göyərtədə olan hər kəsin qonaq otağını rahatlığını təmin edir. Artırılmış təhlükəsizlik üçün 9 oturacağın hamısı tənzimlənən baş dayaqları və 3 nöqtəli təhlükəsizlik kəmərləri ilə təchiz edilmişdir.",
+      "color":"Göy",
       "img": [
         "https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/mpv/staria-full-page/wagon/staria-us4-wagon-in-a-class-of-its-own-pc.jpg",
         "https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/mpv/staria-full-page/wagon/staria-us4-wagon-comfort-and-safety-pc.jpg",
@@ -2046,7 +2047,13 @@
       "qeza_tarixi": "Sol ön qanad zədəsi, təmir edilib",
       "zemanet": "Zəmanət qalmayıb, xidmət müqaviləsi mövcuddur",
       "texniki_muayine": "Kompakt SUV yoxlaması - Dizel mühərrikin emisyon sistemində kiçik problem var",
-      "sekil_linki": "https://images.unsplash.com/photo-1549399505-2d34c1fb6b43?w=800&h=600&fit=crop&crop=center"
+      "color":"Boz",
+      "img": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/27/2013_Land_Rover_Freelander_Dynamic_SD4_Automatic_2.2_Front.jpg",
+        "https://en.wikipedia.org/wiki/Land_Rover_Freelander#/media/File:2007_Land_Rover_Freelander_TD_2.0_facelift_Rear.jpg",
+        "https://en.wikipedia.org/wiki/Land_Rover_Freelander#/media/File:Land_Rover_13_MY_LR2_-_Premium_New_Look_And_Feel_(8096035948).jpg",
+        ""
+      ]
     },
     {
       "id": 88,
